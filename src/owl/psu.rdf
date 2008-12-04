@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<!DOCTYPE rdf:RDF [<!ENTITY xsd "http://www.w3.org/2001/XMLSchema#">]>
+
+<rdf:RDF   
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"  
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xml:base="file:///Users/bpanulla/workspace/psuCurriculum/src/owl/psu.rdf">
+
+	<!-- ====================== Courses ====================== -->
+	<rdfs:Class rdf:ID="Course"/>
+	
+	<rdfs:Class rdf:ID="CreditCourse">
+	  <rdfs:subClassOf rdf:resource="#Course"/>
+	</rdfs:Class>
+	
+	<rdfs:Class rdf:ID="NonCreditCourse">
+	  <rdfs:subClassOf rdf:resource="#Course"/>
+	</rdfs:Class>
+
+	<rdfs:Class rdf:ID="UndergraduateCourse">
+	  <rdfs:subClassOf rdf:resource="#CreditCourse"/>
+	</rdfs:Class>
+
+	<rdfs:Class rdf:ID="GraduateCourse">
+	  <rdfs:subClassOf rdf:resource="#CreditCourse"/>
+	</rdfs:Class>
+
+
+	<!-- ====================== Programs ====================== -->
+	<rdfs:Class rdf:ID="AcademicProgram"/>
+
+	<rdfs:Class rdf:ID="CertificateProgram">
+	  <rdfs:subClassOf rdf:resource="#AcademicProgram"/>
+	</rdfs:Class>
+
+	<rdfs:Class rdf:ID="DegreeProgram">
+	  <rdfs:subClassOf rdf:resource="#AcademicProgram"/>
+	</rdfs:Class>
+
+	<rdfs:Class rdf:ID="UndergraduateDegreeProgram">
+	  <rdfs:subClassOf rdf:resource="#DegreeProgram"/>
+	</rdfs:Class>
+
+	<rdfs:Class rdf:ID="GraduateDegreeProgram">
+	  <rdfs:subClassOf rdf:resource="#DegreeProgram"/>
+	</rdfs:Class>
+
+
+	<!-- ====================== Undergraduate Programs ====================== -->
+	<rdfs:Class rdf:ID="AssociateDegreeProgram">
+	  <rdfs:subClassOf rdf:resource="#UndergraduateDegreeProgram"/>
+	</rdfs:Class>
+
+	<rdfs:Class rdf:ID="BaccalaureateDegreeProgram">
+	  <rdfs:subClassOf rdf:resource="#UndergraduateDegreeProgram"/>
+	</rdfs:Class>
+
+	<rdfs:Class rdf:ID="BachelorOfArts">
+	  <rdfs:subClassOf rdf:resource="#BaccalaureateDegreeProgram"/>
+	</rdfs:Class>
+
+	<rdfs:Class rdf:ID="BachelorOfScience">
+	  <rdfs:subClassOf rdf:resource="#BaccalaureateDegreeProgram"/>
+	</rdfs:Class>
+
+
+	<!-- ====================== Graduate Programs ====================== -->
+	<rdfs:Class rdf:ID="MastersProgram">
+	  <rdfs:subClassOf rdf:resource="#GraduateDegreeProgram"/>
+	</rdfs:Class>
+
+	<rdfs:Class rdf:ID="MasterOfArts">
+	  <rdfs:subClassOf rdf:resource="#MastersProgram"/>
+	</rdfs:Class>
+
+	<rdfs:Class rdf:ID="MasterOfScience">
+	  <rdfs:subClassOf rdf:resource="#MastersProgram"/>
+	</rdfs:Class>
+
+	<rdfs:Class rdf:ID="MasterOfProfessionalStudies">
+	  <rdfs:subClassOf rdf:resource="#MastersProgram"/>
+	</rdfs:Class>
+
+	<rdfs:Class rdf:ID="DoctoralProgram">
+	  <rdfs:subClassOf rdf:resource="#GraduateDegreeProgram"/>
+	</rdfs:Class>
+
+	<rdfs:Class rdf:ID="DoctorOfPhilosophy">
+	  <rdfs:subClassOf rdf:resource="#DoctoralProgram"/>
+	</rdfs:Class>
+
+</rdf:RDF>
