@@ -1,0 +1,393 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:geonames="http://www.geonames.org/ontology#"
+    xmlns:sioc="http://rdfs.org/sioc/ns#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:bibo="http://purl.org/ontology/bibo/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:frbr="http://purl.org/vocab/frbr/core#"
+    xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns="http://www.ravendesk.org/univ-ont#"
+    xmlns:dcmitypes="http://purl.org/dc/dcmitype/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xml:base="http://www.ravendesk.org/univ-ont" > 
+  <rdf:Description rdf:about="#startDate">
+    <rdfs:domain rdf:resource="#Term"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#date"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The starting date of a univ:Term</rdfs:comment>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">start date</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="#studies">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">studies</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A topic or a work that is studied in the univ:CourseInstance</rdfs:comment>
+    <rdfs:domain rdf:resource="#CourseInstance"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://xmlns.com/foaf/0.1/Organization">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#meetDay">
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The days the CourseInstance meets.</rdfs:comment>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="#CourseInstance"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">meeting day(s)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="#teaches">
+    <rdfs:domain rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdfs:range rdf:resource="#CourseInstance"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">teaches</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <owl:inverseOf rdf:resource="#taughtBy"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A univ:CourseInstance that the person teaches.  No differentiation is made about currently teaching, taught in the past, or will teach in the future.  This property is intended to cover all those case.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="#studiesWithText">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:domain rdf:resource="#CourseInstance"/>
+    <rdfs:subPropertyOf rdf:resource="#studiesWith"/>
+    <rdfs:range rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A text that is used in the univ:CourseInstance, generally something that is ordered through the university bookstore, and so encompasses things like videos or CDs.  For things like literary texts, the object will often have some relationship to the object of a univ:studiesWork.</rdfs:comment>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">studies with text</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="#studiesWithDevice">
+    <rdfs:subPropertyOf rdf:resource="#studiesWith"/>
+    <rdfs:range rdf:resource="http://purl.org/dc/dcmitype/PhysicalObject"/>
+    <rdfs:domain rdf:resource="#CourseInstance"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">studies with device</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A physical object (or type of object) used in the course of study, e.g., GPS device, electron microscope, Edirol, etc.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#Concept">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#GraduationRequirement">
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">'Requirement' is, strictly speaking, a misnomer.  It is really a possible requirement, as in "English 101 fulfills a graduation requirement', even though other courses might fill the same bill.  That is, a univ:GraduationRequirment is not an absolute.  Most likely, implementations will create an instance of this class that is "allGraduationRequirements" and express the rest through univ:hasPartialGradReq and univ:meetsGradReq properties relating an institution-based assortment of univ:GraduationRequirements.</rdfs:comment>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Graduation Requirement</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#meetsGradReq">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The univ:Course can be used to fulfill the object univ:GraduationRequirement</rdfs:comment>
+    <rdfs:domain rdf:resource="#Course"/>
+    <rdfs:range rdf:resource="#GraduationRequirement"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">meets GraduationRequirement</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="#instanceOfCourse">
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The abstract, administrative univ:Course that this is an instance of.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <owl:inverseOf rdf:resource="#hasInstance"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">instance of</rdfs:label>
+    <rdfs:range rdf:resource="#Course"/>
+    <rdfs:domain rdf:resource="#CourseInstance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#meetPlace">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">meeting place</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The place where the univ:CourseInstance regularly meets.</rdfs:comment>
+    <rdfs:range rdf:resource="#CampusPlace"/>
+    <rdfs:domain rdf:resource="#CourseInstance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#CampusPlace">
+    <rdfs:subClassOf rdf:resource="http://www.geonames.org/ontology#Feature"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A location on campus, usually a building and room.   I should link this up with the geoname ontology and data.</rdfs:comment>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Campus place</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#EducationalInstitution">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">An educational institution.  Often, this will be the same as a geonames:Feature, as when University of Mary Washington is both a foaf:Group and an administrative unit within geonames.</rdfs:comment>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Educational Institution</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#studiesAgent">
+    <rdfs:domain rdf:resource="#CourseInstance"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A foaf:Agent studied by the univ:CourseInstance.</rdfs:comment>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">studies agent</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:subPropertyOf rdf:resource="#studies"/>
+    <rdfs:range rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#CourseInstanceType">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Types for Course Instance, e.g. "Lecture", "Discussion", "Lab", etc.. expressed as a resource</rdfs:comment>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Course Instance Type</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/vocab/frbr/core#Work">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#isPartOfGradReq">
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The subject univ:GraduationRequirement is a part of a 'broader' object univ:GraduationRequirement.  For example, a "MathMajor" is a part of a broader "Major" requirement.  Note that univ:isPartOfGradReq does not imply a neccesary relationship.  That is "Major" can have any number of parts, and none are 'required' in the strict sense of the word.</rdfs:comment>
+    <rdfs:range rdf:resource="#GraduationRequirement"/>
+    <rdfs:domain rdf:resource="#GraduationRequirement"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">is part of GraduationRequirement</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://rdfs.org/sioc/ns#Space">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#grantsGraduationRequirement">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">grants GraduationRequirement</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The univ:Division is responsible for granting a univ:GraduationRequirement, as the English Department is responsible for granting an English Major.</rdfs:comment>
+    <rdfs:range rdf:resource="#GraduationRequirement"/>
+    <rdfs:domain rdf:resource="#Division"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#partOfEducationalInstitution">
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The subject univ:Division is part of the object univ:EducationalInstitution.</rdfs:comment>
+    <rdfs:range rdf:resource="#EducationalInstitution"/>
+    <rdfs:domain rdf:resource="#Division"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#studiesTopic">
+    <rdfs:domain rdf:resource="#CourseInstance"/>
+    <rdfs:subPropertyOf rdf:resource="#studies"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A topic studied in the univ:CourseInstance, e.g. "feminism", "Battle of the Bulge", "Quantum Chromodynamics"..  Ideally, the object is something in DBpedia.</rdfs:comment>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">studies topic</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#ownerDivision">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:range rdf:resource="#Division"/>
+    <rdfs:domain rdf:resource="#Course"/>
+    <owl:inverseOf rdf:resource="#ownsCourse"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">owner department</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The univ:Division (usually known as a department) which 'owns' the univ:Course.  I.e., it has administrative control over the univ:Course.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="#hasParentCourseInstance">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">has parent CourseInstance</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The 'parent' univ:CourseInstance, as a Lecture is often the parent of a Lab.</rdfs:comment>
+    <rdfs:domain rdf:resource="#CourseInstance"/>
+    <rdfs:range rdf:resource="#CourseInstance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/dc/dcmitype/Software">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#Thing">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="">
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">An ontology for describing courses at an educational institution.  The approach here is heavily weighted toward universities.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Ontology"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#neccPrereqOf">
+    <rdfs:domain rdf:resource="#Course"/>
+    <rdfs:range rdf:resource="#Course"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">neccessary prerequisite of</rdfs:label>
+    <rdfs:subPropertyOf rdf:resource="#prereqOf"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The subject univ:Course _must_ be satisfactorily completed before the object univ:Course may be taken.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="#CourseInstance">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Course Instance</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">An instance of a Course.  I.e., a group of teacher(s) and students during a particular term.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://xmlns.com/foaf/0.1/Group"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#studiesPlace">
+    <rdfs:subPropertyOf rdf:resource="#studies"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A place studied in the univ:CourseInstance</rdfs:comment>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">studies place</rdfs:label>
+    <rdfs:domain rdf:resource="#CourseInstance"/>
+    <rdfs:range rdf:resource="http://www.geonames.org/ontology#Feature"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#inDivision">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">in division</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The univ:Division that the person is a part of</rdfs:comment>
+    <rdfs:range rdf:resource="#Division"/>
+    <rdfs:domain rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.geonames.org/ontology#Feature">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://xmlns.com/foaf/0.1/Agent">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#partOfCampusPlace">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">part of CampusPlace</rdfs:label>
+    <rdfs:range rdf:resource="#CampusPlace"/>
+    <rdfs:domain rdf:resource="#CampusPlace"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A univ:CampusPlace that physically contains the subject univ:CampusPlace.  Typically the relationship here is a room to a building.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#term">
+    <rdfs:domain rdf:resource="#CourseInstance"/>
+    <rdfs:range rdf:resource="#Term"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">term</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The term during which the univ:CourseInstance exists.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Division">
+    <rdfs:subClassOf rdf:resource="http://xmlns.com/foaf/0.1/Group"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Division</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Any administrative subdivision within and EducationalInstitution.  Most commonly, this covers departments like English, HIstory, Physics, etc.  It also covers entities such as an Honors Council, Information Technology Group, Library System, etc.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://xmlns.com/foaf/0.1/Person">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#studiesObject">
+    <rdfs:subPropertyOf rdf:resource="#studies"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:domain rdf:resource="#CourseInstance"/>
+    <rdfs:range rdf:resource="http://purl.org/dc/dcmitype/PhysicalObject"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">An object that is studied in the univ:CourseInstance, e.g., a galaxy, a molecule, a protein.  Generally speaking, a science course will use univ:studiesObject while a humanities course will use univ:studiesWork.</rdfs:comment>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">studies object</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="#meetStartTime">
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The start time of a univ:CourseInstance meeting</rdfs:comment>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">meet start time</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#time"/>
+    <rdfs:domain rdf:resource="#CourseInstance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#hasPartialGradReq">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The subject univ:GraduationRequirement may be partially composed of the object univ:GraduationRequirement.</rdfs:comment>
+    <rdfs:domain rdf:resource="#GraduationRequirement"/>
+    <rdfs:range rdf:resource="#GraduationRequirement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/dc/dcmitype/PhysicalObject">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#taughtBy">
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A teacher for the univ:Course.</rdfs:comment>
+    <owl:inverseOf rdf:resource="#teaches"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">taught by</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:range rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdfs:domain rdf:resource="#CourseInstance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#hasChildCourseInstance">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:range rdf:resource="#CourseInstance"/>
+    <rdfs:domain rdf:resource="#CourseInstance"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">has child CourseInstance</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A univ:CourseInstance that derives from this univ:CourseInstance, as a Lab or a Recitation associated with a Lecture.  The students in a child univ:CourseInstance is a subset of the students in a parent univ:CourseInstance.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="#studiesWithSoftware">
+    <rdfs:subPropertyOf rdf:resource="#studiesWith"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">studies with software</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A piece of software used in the course of study, e.g., Audacity, Protege, CamTasia, Mathematica, etc.  For online software (blog, wiki, cms, etc.), use univ:studiesWithOnlineSpace.</rdfs:comment>
+    <rdfs:range rdf:resource="http://purl.org/dc/dcmitype/Software"/>
+    <rdfs:domain rdf:resource="#CourseInstance"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#studiesWork">
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A particular work studied in the univ:CourseInstance, e.g. Chaucer's  "Canterbury Tales", the Codex Amiatinus, Faulkner's "Absolom! Absolom!",  Madonna's "Like A Virgin", the Eiffel Tower, etc.</rdfs:comment>
+    <rdfs:domain rdf:resource="#CourseInstance"/>
+    <rdfs:range rdf:resource="http://purl.org/vocab/frbr/core#Work"/>
+    <rdfs:subPropertyOf rdf:resource="#studies"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">studies work</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Document">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#metByCourse">
+    <rdfs:range rdf:resource="#Course"/>
+    <rdfs:domain rdf:resource="#GraduationRequirement"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">met by Course</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A univ:Course that meets, in part or in full, the subject univ:GraduationRequirement.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="#ownsCourse">
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A univ:Course the univ:Division has administrative control over.</rdfs:comment>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">owns course</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:range rdf:resource="#Course"/>
+    <rdfs:domain rdf:resource="#Division"/>
+    <owl:inverseOf rdf:resource="#ownerDivision"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#hasInstance">
+    <rdfs:domain rdf:resource="#Course"/>
+    <rdfs:range rdf:resource="#CourseInstance"/>
+    <owl:inverseOf rdf:resource="#instanceOfCourse"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">has instance</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">An instance of the abstract, administrative course title.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="#prereqOf">
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The univ:Course is a prerequisite of the object univ:Course.</rdfs:comment>
+    <rdfs:domain rdf:resource="#Course"/>
+    <rdfs:range rdf:resource="#Course"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">prerequisite of</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="#meetEndTime">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The ending time of a CourseInstance meeting</rdfs:comment>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#time"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">meet end time</rdfs:label>
+    <rdfs:domain rdf:resource="#CourseInstance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#endDate">
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The ending date of a univ:Term</rdfs:comment>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">end date</rdfs:label>
+    <rdfs:domain rdf:resource="#Term"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#date"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#courseInstanceType">
+    <rdfs:range rdf:resource="#CourseInstanceType"/>
+    <rdfs:domain rdf:resource="#CourseInstance"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">course instance type</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The univ:CourseInstanceType of this univ:CourseInstance.  Often, institutions will define their own types according to their own structure.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Course">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Course</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">An administrative designation for a course, e.g. English 101.  The same course can have many different manifestations, usually denoted by section numbers and semesters.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#studiesWith">
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A text or other resource that the univ:CourseInstance uses in its course of study.  For example, if the univ:courseInstance univ:studiesWork "Beowulf", it might univ:studiesWith "Norton Anthology of Literature".</rdfs:comment>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">studies with</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdfs:domain rdf:resource="#CourseInstance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Term">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Term</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A term during which classes meet, like a semester, trimester, quarter, etc.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="#studiesWithOnlineSpace">
+    <rdfs:range rdf:resource="http://rdfs.org/sioc/ns#Space"/>
+    <rdfs:domain rdf:resource="#CourseInstance"/>
+    <rdfs:subPropertyOf rdf:resource="#studiesWith"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">An online resource used in the course of study.</rdfs:comment>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">studies with sioc:space</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#credits">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    <rdfs:domain rdf:resource="#Course"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of credits the univ:Course carries.</rdfs:comment>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">credits</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://xmlns.com/foaf/0.1/Group">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#optionalPrereqOf">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">optional prerequisite of</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The subject univ:Course is one of a group, any one of which must be completed satisfactorily before taking the object univ:Course.</rdfs:comment>
+    <rdfs:subPropertyOf rdf:resource="#prereqOf"/>
+    <rdfs:range rdf:resource="#Course"/>
+    <rdfs:domain rdf:resource="#Course"/>
+  </rdf:Description>
+</rdf:RDF>
+
+<!-- Created with Protege (with OWL Plugin 3.3.1, Build 430)  http://protege.stanford.edu -->

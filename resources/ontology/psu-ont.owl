@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:univ-ont="http://www.ravendesk.org/univ-ont#"
+    xmlns="http://nc2if.ist.psu.edu/owl/psu/2008-12/psu-ont.owl#"
+    xmlns:edu="http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xml:base="http://nc2if.ist.psu.edu/owl/psu/2008-12/psu-ont.owl">
+  <owl:Ontology rdf:about="">
+    <owl:imports rdf:resource="http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl"/>
+    <owl:versionInfo rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Created with TopBraid Composer</owl:versionInfo>
+  </owl:Ontology>
+  <owl:Class rdf:ID="AdministrativeUnit">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Administrative unit</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#Organization"/>
+  </owl:Class>
+  <owl:Class rdf:ID="School">
+    <rdfs:subClassOf rdf:resource="http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#Organization"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >School</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:ID="Center">
+    <rdfs:subClassOf rdf:resource="http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#Organization"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Center</rdfs:label>
+  </owl:Class>
+  <edu:University rdf:ID="PennState">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >The Pennsylvania State University</rdfs:label>
+  </edu:University>
+  <edu:College rdf:ID="Nursing">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >School of Nursing</rdfs:label>
+  </edu:College>
+  <edu:College rdf:ID="LiberalArts">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >College of The Liberal Arts</rdfs:label>
+  </edu:College>
+  <edu:College rdf:ID="Smeal">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Smeal College of Business</rdfs:label>
+  </edu:College>
+  <edu:College rdf:ID="EarthAndMineralSciences">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >College of Earth and Mineral Sciences</rdfs:label>
+  </edu:College>
+  <edu:College rdf:ID="Eberly">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Eberly College of Science</rdfs:label>
+  </edu:College>
+  <School rdf:ID="Music">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >School of Music</rdfs:label>
+  </School>
+  <edu:College rdf:ID="Engineering">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >College of Engineering</rdfs:label>
+  </edu:College>
+  <edu:Department rdf:ID="Chemistry">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Department of Chemistry</rdfs:label>
+  </edu:Department>
+  <AdministrativeUnit rdf:ID="EducationalTechnologyServices">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Educational Technology Services</rdfs:label>
+  </AdministrativeUnit>
+  <School rdf:ID="Theater">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >School of Theater</rdfs:label>
+  </School>
+  <edu:Institute rdf:ID="GravitationAndTheCosmos">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Institute for Gravitation and the Cosmos</rdfs:label>
+  </edu:Institute>
+  <edu:Department rdf:ID="Physics">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Department of Physics</rdfs:label>
+  </edu:Department>
+  <AdministrativeUnit rdf:ID="InformationTechnologyServices">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Information Technology Services</rdfs:label>
+  </AdministrativeUnit>
+  <AdministrativeUnit rdf:ID="TelecommunicationsAndNetworkServices">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Telecommunications And Network Services</rdfs:label>
+  </AdministrativeUnit>
+  <edu:Department rdf:ID="DairyAndAnimalScience">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Department of Dairy and animal science</rdfs:label>
+  </edu:Department>
+  <edu:College rdf:ID="HealthAndHumanDevelopment">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >College of Health and Human Development</rdfs:label>
+  </edu:College>
+  <School rdf:ID="ArchitectureAndLandscapeArchitecture">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >School of Architecture and Landscape Architecture</rdfs:label>
+  </School>
+  <edu:Department rdf:ID="AstronomyAndAstrophysics">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Department of Astronomy and Astrophysics</rdfs:label>
+  </edu:Department>
+  <edu:College rdf:ID="InformationSciencesAndTechnology">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >College of Information Sciences and Technology</rdfs:label>
+  </edu:College>
+  <AdministrativeUnit rdf:ID="AdministrativeInformationServices">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Administrative Information Services</rdfs:label>
+  </AdministrativeUnit>
+  <Center rdf:ID="GravitationalWavePhysics">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Center for Gravitational Wave Physics</rdfs:label>
+  </Center>
+  <edu:College rdf:ID="ArtsAndArchitecture">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >College of Arts and Architecture</rdfs:label>
+  </edu:College>
+  <edu:Department rdf:ID="ArtHistory">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Department of Art History</rdfs:label>
+  </edu:Department>
+  <edu:Institute rdf:ID="PopulationResearchInstitute">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Population Research Institute</rdfs:label>
+  </edu:Institute>
+  <School rdf:ID="VisualArts">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >School of Visual Arts</rdfs:label>
+  </School>
+  <edu:College rdf:ID="SchreyerHonorsCollege">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Schreyer Honors College</rdfs:label>
+  </edu:College>
+  <AdministrativeUnit rdf:ID="TeachingAndLearningWithTechnology">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Teaching and Learning with Technology</rdfs:label>
+  </AdministrativeUnit>
+  <edu:Department rdf:ID="IntegrativeArts">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Department of Integrative Arts</rdfs:label>
+  </edu:Department>
+  <edu:College rdf:ID="AgriculturalSciences">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >College of Agricultural Sciences</rdfs:label>
+  </edu:College>
+  <edu:College rdf:ID="Communications">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >College of Communications</rdfs:label>
+  </edu:College>
+  <edu:College rdf:ID="GraduateSchool">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >The Graduate School</rdfs:label>
+  </edu:College>
+  <edu:Department rdf:ID="ComputerScienceAndEngineering">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Department of Computer Science and Engineering</rdfs:label>
+  </edu:Department>
+  <Center rdf:ID="NeworkCentricCognitionAndInformationFusion">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Center for Nework-Centric Cognition And Information Fusion</rdfs:label>
+  </Center>
+  <edu:College rdf:ID="Education">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >College of Education</rdfs:label>
+  </edu:College>
+  <edu:Department rdf:ID="Entomology">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Department of Entomology</rdfs:label>
+  </edu:Department>
+</rdf:RDF>
