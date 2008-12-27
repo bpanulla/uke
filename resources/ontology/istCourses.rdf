@@ -9,24 +9,24 @@
   xml:base="file:///Users/bpanulla/workspace/psuCurriculum/src/owl/istCourses.rdf">
 
 	<!-- ====================== Courses ====================== -->
-	<ist:ISTUGCourse rdf:ID="IST110"/>
-	<ist:ISTUGCourse rdf:ID="IST210"></ist:ISTUGCourse>
-	<ist:ISTUGCourse rdf:ID="IST220"></ist:ISTUGCourse>
-	<ist:ISTUGCourse rdf:ID="IST230"></ist:ISTUGCourse>
-	<ist:ISTUGCourse rdf:ID="IST240"></ist:ISTUGCourse>
-	<ist:ISTUGCourse rdf:ID="IST250"></ist:ISTUGCourse>
-	<ist:ISTUGCourse rdf:ID="IST301"></ist:ISTUGCourse>
-	<ist:ISTUGCourse rdf:ID="IST331"></ist:ISTUGCourse>
-	<ist:ISTUGCourse rdf:ID="IST440W"></ist:ISTUGCourse>
+	<UndergraduateCourse rdf:ID="IST110"></UndergraduateCourse>
+	<UndergraduateCourse rdf:ID="IST210"></UndergraduateCourse>
+	<UndergraduateCourse rdf:ID="IST220"></UndergraduateCourse>
+	<UndergraduateCourse rdf:ID="IST230"></UndergraduateCourse>
+	<UndergraduateCourse rdf:ID="IST240"></UndergraduateCourse>
+	<UndergraduateCourse rdf:ID="IST250"></UndergraduateCourse>
+	<UndergraduateCourse rdf:ID="IST301"></UndergraduateCourse>
+	<UndergraduateCourse rdf:ID="IST331"></UndergraduateCourse>
+	<UndergraduateCourse rdf:ID="IST440W"></UndergraduateCourse>
 
-	<ist:SRAUGCourse rdf:ID="SRA111"></ist:SRAUGCourse>
-	<ist:SRAUGCourse rdf:ID="SRA211"></ist:SRAUGCourse>
-	<ist:SRAUGCourse rdf:ID="SRA221"></ist:SRAUGCourse>
-	<ist:SRAUGCourse rdf:ID="SRA231"></ist:SRAUGCourse>
+	<UndergraduateCourse rdf:ID="SRA111"></UndergraduateCourse>
+	<UndergraduateCourse rdf:ID="SRA211"></UndergraduateCourse>
+	<UndergraduateCourse rdf:ID="SRA221"></UndergraduateCourse>
+	<UndergraduateCourse rdf:ID="SRA231"></UndergraduateCourse>
 
-	<ist:ISTGRCourse rdf:ID="IST501"></ist:ISTGRCourse>
-	<ist:ISTGRCourse rdf:ID="IST521"></ist:ISTGRCourse>
-	<ist:ISTGRCourse rdf:ID="IST522"></ist:ISTGRCourse>
-	<ist:ISTGRCourse rdf:ID="IST531"></ist:ISTGRCourse>
+	<ISTGRCourse rdf:ID="IST501"></ISTGRCourse>
+	<ISTGRCourse rdf:ID="IST521"></ISTGRCourse>
+	<ISTGRCourse rdf:ID="IST522"></ISTGRCourse>
+	<ISTGRCourse rdf:ID="IST531"></ISTGRCourse>
 
 </rdf:RDF>

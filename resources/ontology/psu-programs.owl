@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:univ-ont="http://www.ravendesk.org/univ-ont#"
+    xmlns:psu="http://nc2if.ist.psu.edu/owl/psu/2008-12/psu-ont.owl#"
+    xmlns="http://nc2if.ist.psu.edu/owl/psu/2008-12/psu-programs.owl#"
+    xmlns:edu="http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xml:base="http://nc2if.ist.psu.edu/owl/psu/2008-12/psu-programs.owl" > 
+  <rdf:Description rdf:about="#BaccalaureateDegreeProgram">
+    <rdfs:subClassOf rdf:resource="#UndergraduateDegreeProgram"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#GraduateDegreeProgram">
+    <rdfs:subClassOf rdf:resource="#DegreeProgram"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Course">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="">
+    <owl:imports rdf:resource="http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Ontology"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#DegreeProgram">
+    <rdfs:subClassOf rdf:resource="#AcademicProgram"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#MasterOfProfessionalStudies">
+    <rdfs:subClassOf rdf:resource="#MastersProgram"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#DoctoralProgram">
+    <rdfs:subClassOf rdf:resource="#GraduateDegreeProgram"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#BachelorOfArts">
+    <rdfs:subClassOf rdf:resource="#BaccalaureateDegreeProgram"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#MasterOfArts">
+    <rdfs:subClassOf rdf:resource="#MastersProgram"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#BachelorOfScience">
+    <rdfs:subClassOf rdf:resource="#BaccalaureateDegreeProgram"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#GraduateCourse">
+    <rdfs:subClassOf rdf:resource="#CreditCourse"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#UndergraduateDegreeProgram">
+    <rdfs:subClassOf rdf:resource="#DegreeProgram"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#DoctorOfPhilosophy">
+    <rdfs:subClassOf rdf:resource="#DoctoralProgram"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#CertificateProgram">
+    <rdfs:subClassOf rdf:resource="#AcademicProgram"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#MastersProgram">
+    <rdfs:subClassOf rdf:resource="#GraduateDegreeProgram"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#AcademicProgram">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Academic Program</rdfs:label>
+    <rdfs:subClassOf rdf:resource="http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#Program"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#AssociateDegreeProgram">
+    <rdfs:subClassOf rdf:resource="#UndergraduateDegreeProgram"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#UndergraduateCourse">
+    <rdfs:subClassOf rdf:resource="#CreditCourse"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#NonCreditCourse">
+    <rdfs:subClassOf rdf:resource="#Course"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#MasterOfScience">
+    <rdfs:subClassOf rdf:resource="#MastersProgram"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#CreditCourse">
+    <rdfs:subClassOf rdf:resource="#Course"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+</rdf:RDF>
+
+<!-- Created with TopBraid Composer -->

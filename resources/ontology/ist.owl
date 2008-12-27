@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:univ-ont="http://www.ravendesk.org/univ-ont#"
+    xmlns:psu="http://nc2if.ist.psu.edu/owl/psu/2008-12/psu-ont.owl#"
+    xmlns:edu="http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:psu-programs="http://nc2if.ist.psu.edu/owl/psu/2008-12/psu-programs.owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns="http://nc2if.ist.psu.edu/owl/psu/2008-12/ist.owl#"
+  xml:base="http://nc2if.ist.psu.edu/owl/psu/2008-12/ist.owl">
+  <owl:Ontology rdf:about="">
+    <owl:imports rdf:resource="http://nc2if.ist.psu.edu/owl/psu/2008-12/psu-programs.owl"/>
+  </owl:Ontology>
+  <owl:Class rdf:ID="ISTUGCourse">
+    <rdfs:subClassOf rdf:resource="http://nc2if.ist.psu.edu/owl/psu/2008-12/psu-programs.owl#UndergraduateCourse"/>
+  </owl:Class>
+  <owl:Class rdf:ID="SRAUGCourse">
+    <rdfs:subClassOf rdf:resource="http://nc2if.ist.psu.edu/owl/psu/2008-12/psu-programs.owl#UndergraduateCourse"/>
+  </owl:Class>
+  <owl:Class rdf:ID="ISTGRCourse">
+    <rdfs:subClassOf rdf:resource="http://nc2if.ist.psu.edu/owl/psu/2008-12/psu-programs.owl#UndergraduateCourse"/>
+  </owl:Class>
+  <psu-programs:BachelorOfScience rdf:ID="SecurityAndRiskAnalysis"/>
+  <psu-programs:DoctorOfPhilosophy rdf:ID="InformationSciencesAndTechnology">
+    <rdf:type rdf:resource="http://nc2if.ist.psu.edu/owl/psu/2008-12/psu-programs.owl#MasterOfScience"/>
+    <rdf:type rdf:resource="http://nc2if.ist.psu.edu/owl/psu/2008-12/psu-programs.owl#BachelorOfScience"/>
+    <rdf:type rdf:resource="http://nc2if.ist.psu.edu/owl/psu/2008-12/psu-programs.owl#AssociateDegreeProgram"/>
+  </psu-programs:DoctorOfPhilosophy>
+</rdf:RDF>
+
+<!-- Created with TopBraid Composer -->
