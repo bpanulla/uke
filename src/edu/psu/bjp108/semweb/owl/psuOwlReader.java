@@ -1,4 +1,4 @@
-package edu.psu.ist.nc2if.owl;
+package edu.psu.bjp108.semweb.owl;
 
 import com.hp.hpl.jena.rdf.model.*;
 import com.hp.hpl.jena.util.FileManager;
