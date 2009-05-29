@@ -4,7 +4,7 @@
 <rdf:RDF   
   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"  
   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-  xml:base="file:///Users/bpanulla/workspace/psuCurriculum/src/owl/psu.rdf">
+  xml:base="http://www.personal.psu.edu/bjp108/owl/psu.rdf">
 
 	<!-- ====================== Courses ====================== -->
 	<rdfs:Class rdf:ID="Course"/>
@@ -29,10 +29,6 @@
 	<!-- ====================== Programs ====================== -->
 	<rdfs:Class rdf:ID="AcademicProgram"/>
 
-	<rdfs:Class rdf:ID="CertificateProgram">
-	  <rdfs:subClassOf rdf:resource="#AcademicProgram"/>
-	</rdfs:Class>
-
 	<rdfs:Class rdf:ID="DegreeProgram">
 	  <rdfs:subClassOf rdf:resource="#AcademicProgram"/>
 	</rdfs:Class>
@@ -45,6 +41,9 @@
 	  <rdfs:subClassOf rdf:resource="#DegreeProgram"/>
 	</rdfs:Class>
 
+	<rdfs:Class rdf:ID="CertificateProgram">
+	  <rdfs:subClassOf rdf:resource="#AcademicProgram"/>
+	</rdfs:Class>
 
 	<!-- ====================== Undergraduate Programs ====================== -->
 	<rdfs:Class rdf:ID="AssociateDegreeProgram">
@@ -88,5 +87,9 @@
 	<rdfs:Class rdf:ID="DoctorOfPhilosophy">
 	  <rdfs:subClassOf rdf:resource="#DoctoralProgram"/>
 	</rdfs:Class>
+	
+	<!-- ====================== Academic Units ====================== -->
+	<rdfs:Class rdf:ID="College"/>
+	
 
 </rdf:RDF>

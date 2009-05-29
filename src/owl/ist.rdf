@@ -4,15 +4,15 @@
 <rdf:RDF   
   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"  
   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-  xmlns:psu="file:///Users/bpanulla/workspace/psuCurriculum/src/owl/psu.rdf#"
-  xml:base="file:///Users/bpanulla/workspace/psuCurriculum/src/owl/ist.rdf">
+  xmlns:psu="http://www.personal.psu.edu/bjp108/owl/psu.rdf#"
+  xml:base="http://www.personal.psu.edu/bjp108/owl/ist.rdf">
 
 	<!-- ====================== Programs ====================== -->
-	<psu:AssociateDegreeProgram rdf:ID="InformationSciencesAndTechnology"></psu:AssociateDegreeProgram>
-	<psu:BachelorOfScience rdf:ID="InformationSciencesAndTechnology"></psu:BachelorOfScience>
-	<psu:BachelorOfScience rdf:ID="SecurityAndRiskAnalysis"></psu:BachelorOfScience>
-	<psu:MasterOfScience rdf:ID="InformationSciencesAndTechnology"></psu:MasterOfScience>
-	<psu:DoctorOfPhilosophy rdf:ID="InformationSciencesAndTechnology"></psu:DoctorOfPhilosophy>
+	<psu:AssociateDegreeProgram rdf:ID="ASInformationSciencesAndTechnology"></psu:AssociateDegreeProgram>
+	<psu:BachelorOfScience rdf:ID="BSInformationSciencesAndTechnology"></psu:BachelorOfScience>
+	<psu:BachelorOfScience rdf:ID="BSSecurityAndRiskAnalysis"></psu:BachelorOfScience>
+	<psu:MasterOfScience rdf:ID="MSInformationSciencesAndTechnology"></psu:MasterOfScience>
+	<psu:DoctorOfPhilosophy rdf:ID="PhDInformationSciencesAndTechnology"></psu:DoctorOfPhilosophy>
 
 	<!-- ====================== Courses ====================== -->
 	<rdfs:Class rdf:ID="ISTUGCourse">
@@ -27,4 +27,6 @@
 	  <rdfs:subClassOf rdf:resource="http://www.personal.psu.edu/bjp108/owl/psu.rdf#UndergraduateCourse"/>
 	</rdfs:Class>
 
+	<!-- ====================== Academic Units ====================== -->
+	<psu:College rdf:ID="CollegeOfIST" rdfs:label="College of Information Sciences and Technology" />
 </rdf:RDF>
