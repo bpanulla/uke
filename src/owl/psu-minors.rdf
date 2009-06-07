@@ -1,0 +1,583 @@
+<?xml version="1.0"?>
+<!DOCTYPE rdf:RDF [<!ENTITY xsd "http://www.w3.org/2001/XMLSchema#">]>
+
+<rdf:RDF   
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"  
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:psu="http://www.personal.psu.edu/bjp108/owl/psu.rdf#"
+  xml:base="http://www.personal.psu.edu/bjp108/owl/psu-minors.rdf">
+
+  <!-- Produced from isiscodesets.cmifd -->
+	
+	<psu:DegreeMinorField rdf:ID="EXTED" rdfs:label="EXTENSION EDUCATION" rdfs:comment="EXTENSION EDUCATION                                                                                 Y                                                                                                   DEPT=AGEXT" />
+	
+	<psu:DegreeMinorField rdf:ID="FLMST" rdfs:label="FILM STUDIES" rdfs:comment="FILM STUDIES" />
+	
+	<psu:DegreeMinorField rdf:ID="FNC" rdfs:label="FINANCE" rdfs:comment="FINANCE                                                                                                                                                                                                 COL=BC  EFF=FA99" />
+	
+	<psu:DegreeMinorField rdf:ID="FOLK" rdfs:label="FOLKLORE" rdfs:comment="FOLKLORE                                                                                                                                                                                                DEPT=I COL,END FA84" />
+	
+	<psu:DegreeMinorField rdf:ID="FORSC" rdfs:label="FOREST SCIENCE" rdfs:comment="FOREST SCIENCE                                                                                      Y                                                                                                   DEPT=FOR R" />
+	
+	<psu:DegreeMinorField rdf:ID="FR" rdfs:label="FR &amp; FRANCOPHONESTD" rdfs:comment="FRENCH AND FRANCOPHONE STUDIES                                                                                                                                                                          DEPT=FR" />
+	
+	<psu:DegreeMinorField rdf:ID="G B S" rdfs:label="GLOBL BUS STRATEGIES" rdfs:comment="GLOBAL BUSINESS STRATEGIES FOR THE EARTH, ENERGY, AND MATERIALS INDUSTRIES" />
+	
+	<psu:DegreeMinorField rdf:ID="G I S" rdfs:label="GEOGRAPHIC INFO SCI" rdfs:comment="GEOGRAPHIC INFORMATION SCIENCE                                                                                                                                                                          EFF=FA98" />
+	
+	<psu:DegreeMinorField rdf:ID="GEOG" rdfs:label="GEOGRAPHY" rdfs:comment="GEOGRAPHY                                                                                           Y                                                                                                   DEPT=GEOG" />
+	
+	<psu:DegreeMinorField rdf:ID="GEOSC" rdfs:label="GEOSCIENCES" rdfs:comment="GEOSCIENCES                                                                                         Y" />
+	
+	<psu:DegreeMinorField rdf:ID="GER" rdfs:label="GERMAN" rdfs:comment="GERMAN                                                                                                                                                                                                  DEPT=GER" />
+	
+	<psu:DegreeMinorField rdf:ID="GERON" rdfs:label="GERONTOLOGY" rdfs:comment="GERONTOLOGY                                                                                                                                                                                             COL=IC" />
+	
+	<psu:DegreeMinorField rdf:ID="GLBSC" rdfs:label="GLOBAL SECURITY" rdfs:comment="GLOBAL SECURITY" />
+	
+	<psu:DegreeMinorField rdf:ID="GLBST" rdfs:label="GLOBAL STUDIES" rdfs:comment="GLOBAL STUDIES                                                                                                                                                                                          COL=BL" />
+	
+	<psu:DegreeMinorField rdf:ID="GREEK" rdfs:label="GREEK" rdfs:comment="GREEK                                                                                                                                                                                                   DEPT=CLASS" />
+	
+	<psu:DegreeMinorField rdf:ID="H P A" rdfs:label="HEALTH POLICY &amp; ADMN" rdfs:comment="HEALTH POLICY AND ADMINISTRATION                                                                                                                                                                        COL=HH  EFF=SP99" />
+	
+	<psu:DegreeMinorField rdf:ID="HD FS" rdfs:label="HUMAN DEV/FAMLY STDS" rdfs:comment="HUMAN DEVELOPMENT AND FAMILY STUDIES                                                                                                                                                                    COL=HH" />
+	
+	<psu:DegreeMinorField rdf:ID="HEBR" rdfs:label="HEBREW" rdfs:comment="HEBREW                                                                                              Y                                                                                                   COL=LA" />
+	
+	<psu:DegreeMinorField rdf:ID="HFSAL" rdfs:label="HUM DEV AND FAM STUD" rdfs:comment="HUMAN DEVELOPMENT AND FAMILY STUDIES" />
+	
+	<psu:DegreeMinorField rdf:ID="HIST" rdfs:label="HISTORY" rdfs:comment="HISTORY                                                                                             Y                                                                                                   DEPT=HIST" />
+	
+	<psu:DegreeMinorField rdf:ID="HL ED" rdfs:label="HEALTH EDUCATION" rdfs:comment="HEALTH EDUCATION                                                                                                                                                                                        DEPT=HL ED" />
+	
+	<psu:DegreeMinorField rdf:ID="HLSTD" rdfs:label="HEALTH STUDIES" rdfs:comment="HEALTH STUDIES                                                                                      Y                                                                                                   COL=HH" />
+	
+	<psu:DegreeMinorField rdf:ID="HORT" rdfs:label="HORTICULTURE" rdfs:comment="HORTICULTURE                                                                                        Y                                                                                                   COL=AG" />
+	
+	<psu:DegreeMinorField rdf:ID="HPAAL" rdfs:label="HEALTH POLICY &amp; ADMN" rdfs:comment="HEALTH POLICY AND ADMINISTRATION" />
+	
+	<psu:DegreeMinorField rdf:ID="HSTAB" rdfs:label="HISTORY" rdfs:comment="HISTORY                                                                                                                                                                                                 COL=AB EFF=FA99" />
+	
+	<psu:DegreeMinorField rdf:ID="HSTAL" rdfs:label="HISTORY" rdfs:comment="HISTORY                                                                                                                                                                                                 COL=AL, EFF SP01" />
+	
+	<psu:DegreeMinorField rdf:ID="HSTRY" rdfs:label="HISTORY" rdfs:comment="HISTORY                                                                                                                                                                                                 DEPT=A&amp;HUM" />
+	
+	<psu:DegreeMinorField rdf:ID="HUMAN" rdfs:label="HUMANITIES" rdfs:comment="HUMANITIES                                                                                          Y                                                                                                   DEPT=PHIL" />
+	
+	<psu:DegreeMinorField rdf:ID="I B" rdfs:label="INTERNATL BUSINESS" rdfs:comment="INTERNATIONAL BUSINESS" />
+	
+	<psu:DegreeMinorField rdf:ID="I F S" rdfs:label="INDIV/FAMILY STUDIES" rdfs:comment="INDIVIDUAL AND FAMILY STUDIES                                                                                                                                                                           DEPT=I F S,EFF SP85" />
+	
+	<psu:DegreeMinorField rdf:ID="I H S" rdfs:label="INDSTRIAL HLTH &amp; SAF" rdfs:comment="INDUSTRIAL HEALTH AND SAFETY" />
+	
+	<psu:DegreeMinorField rdf:ID="IARTS" rdfs:label="INTERNATIONAL ARTS" rdfs:comment="INTERNATIONAL ARTS" />
+	
+	<psu:DegreeMinorField rdf:ID="INS" rdfs:label="INSURANCE" rdfs:comment="INSURANCE                                                                                           Y" />
+	
+	<psu:DegreeMinorField rdf:ID="INSTD" rdfs:label="INTERNATIONL STUDIES" rdfs:comment="INTERNATIONAL STUDIES                                                                               Y                                                                                                   COLL=LA" />
+	
+	<psu:DegreeMinorField rdf:ID="INT B" rdfs:label="INTERNATIONAL BUSIN" rdfs:comment="INTERNATIONAL BUSINESS                                                                                                                                                                                  EFF = SP96 CL" />
+	
+	<psu:DegreeMinorField rdf:ID="INTAB" rdfs:label="INTERNATIONAL STUD" rdfs:comment="INTERNATIONAL STUDIES                                                                                                                                                                                   COL=AB EFF=FA99" />
+	
+	<psu:DegreeMinorField rdf:ID="INTAG" rdfs:label="INTRNATL AGRICULTURE" rdfs:comment="INTERNATIONAL AGRICULTURE                                                                           Y                                                                                                   COL=AG" />
+	
+	<psu:DegreeMinorField rdf:ID="INTCC" rdfs:label="INTERNATIONL STUDIES" rdfs:comment="INTERNATIONAL STUDIES                                                                                                                                                                                   EFF=SP00  COL=CC" />
+	
+	<psu:DegreeMinorField rdf:ID="INTLB" rdfs:label="INTERNATIONAL BUSIN" rdfs:comment="INTERNATIONAL BUSINESS                                                                                                                                                                                  EFF = FA01 WAS INT B AT CL" />
+	
+	<psu:DegreeMinorField rdf:ID="INTST" rdfs:label="INTERNATIONL STUDIES" rdfs:comment="INTERNATIONAL STUDIES                                                                                                                                                                                   COLL=BC" />
+	
+	<psu:DegreeMinorField rdf:ID="ISACC" rdfs:label="IST FOR ACCOUNTING" rdfs:comment="INFORMATION SCIENCES AND TECHNOLOGY FOR ACCOUNTING                                                                                                                                                      EFF=FA03" />
+	
+	<psu:DegreeMinorField rdf:ID="ISASP" rdfs:label="IST FOR AROSPACE ENG" rdfs:comment="INFORMATION SCIENCES AND TECHNOLOGY FOR AEROSPACE ENGINEERING" />
+	
+	<psu:DegreeMinorField rdf:ID="ISCAS" rdfs:label="IST FOR COM ART &amp; SC" rdfs:comment="INFORMATION SCIENCES AND TECHNOLOGY FOR COMMUNICATION ARTS AND SCIENCES" />
+	
+	<psu:DegreeMinorField rdf:ID="ISEMS" rdfs:label="IST FOR EARTH/MIN SC" rdfs:comment="INFORMATION SCIENCES AND TECHNOLOGY FOR EARTH AND MINERAL SCIENCES                                                                                                                                      EFF=SP01" />
+	
+	<psu:DegreeMinorField rdf:ID="ISFIN" rdfs:label="IST/FINANCE" rdfs:comment="INFORMATION SCIENCES AND TECHNOLOGY/FINANCE" />
+	
+	<psu:DegreeMinorField rdf:ID="ISHPA" rdfs:label="IST IN H P A" rdfs:comment="INFORMATION SCIENCES AND TECHNOLOGY IN HEALTH POLICY AND ADMINISTRATION                                                                                                                                 EFF=SP01" />
+	
+	<psu:DegreeMinorField rdf:ID="ISHRM" rdfs:label="IST FOR HR IM" rdfs:comment="INFORMATION SCIENCES AND TECHNOLOGY FOR HOTEL, RESTAURANT AND INSTITUTIONAL MANAGEMENT" />
+	
+	<psu:DegreeMinorField rdf:ID="ISLER" rdfs:label="IST FOR LBR ST/EMP R" rdfs:comment="INFORMATION SCIENCES AND TECHNOLOGY FOR LABOR STUDIES AND EMPLOYMENT RELATIONS" />
+	
+	<psu:DegreeMinorField rdf:ID="ISLIR" rdfs:label="IST FOR LBR/INDUS RL" rdfs:comment="INFORMATION SCIENCES AND TECHNOLOGY FOR LABOR AND INDUSTRIAL RELATIONS" />
+	
+	<psu:DegreeMinorField rdf:ID="ISM" rdfs:label="INFOR SYSTEMS MANGMT" rdfs:comment="INFORMATION SYSTEMS MANAGEMENT" />
+	
+	<psu:DegreeMinorField rdf:ID="ISMTH" rdfs:label="IST FOR MATHEMATICS" rdfs:comment="INFORMATION SCIENCES AND TECHNOLOGY FOR MATHEMATICS                                                                                                                                                     EFF=SU01" />
+	
+	<psu:DegreeMinorField rdf:ID="ISSA" rdfs:label="INFO SYS &amp; STAT ANAL" rdfs:comment="INFORMATION SYSTEMS AND STATISTICAL ANALYSIS                                                        Y" />
+	
+	<psu:DegreeMinorField rdf:ID="ISSPC" rdfs:label="IST FOR SPEECH COMM" rdfs:comment="INFORMATION SCIENCES AND TECHNOLOGY FOR SPEECH COMMUNICATION                                                                                                                                            EFF=SP01" />
+	
+	<psu:DegreeMinorField rdf:ID="IST" rdfs:label="INFO SCIENCES &amp; TECH" rdfs:comment="INFORMATION SCIENCES AND TECHNOLOGY" />
+	
+	<psu:DegreeMinorField rdf:ID="ISTIE" rdfs:label="IST FOR INDSTRL ENGR" rdfs:comment="INFORMATION SCIENCES AND TECHNOLOGY FOR INDUSTRIAL ENGINEERING" />
+	
+	<psu:DegreeMinorField rdf:ID="ISTLC" rdfs:label="IST FOR TELECOMM" rdfs:comment="INFORMATION SCIENCES AND TECHNOLOGY FOR TELECOMMUNICATIONS                                                                                                                                              EFF=FA01" />
+	
+	<psu:DegreeMinorField rdf:ID="IT" rdfs:label="ITALIAN" rdfs:comment="ITALIAN                                                                                             Y                                                                                                   DEPT=SPITP" />
+	
+	<psu:DegreeMinorField rdf:ID="J ST" rdfs:label="JEWISH STUDIES" rdfs:comment="JEWISH STUDIES                                                                                      Y                                                                                                   COL=LA" />
+	
+	<psu:DegreeMinorField rdf:ID="JAPNS" rdfs:label="JAPANESE LANGUAGE" rdfs:comment="JAPANESE LANGUAGE                                                                                   Y                                                                                                   COL=LA WAS JPN L" />
+	
+	<psu:DegreeMinorField rdf:ID="JPN L" rdfs:label="JAPANESE LANGUAGE" rdfs:comment="JAPANESE LANGUAGE                                                                                                                                                                                       NOW JAPNS-SP90" />
+	
+	<psu:DegreeMinorField rdf:ID="KINES" rdfs:label="KINESIOLOGY" rdfs:comment="KINESIOLOGY" />
+	
+	<psu:DegreeMinorField rdf:ID="L DEV" rdfs:label="LEADERSHIP DEVELOP" rdfs:comment="LEADERSHIP DEVELOPMENT" />
+	
+	<psu:DegreeMinorField rdf:ID="L I R" rdfs:label="LABOR &amp; INDUST REL" rdfs:comment="LABOR AND INDUSTRIAL RELATIONS                                                                      Y                                                                                                   EFF FA91-WAS L S" />
+	
+	<psu:DegreeMinorField rdf:ID="L S" rdfs:label="LABOR STUDIES" rdfs:comment="LABOR STUDIES                                                                                       Y                                                                                                   END SU91-NOW L I R" />
+	
+	<psu:DegreeMinorField rdf:ID="LATAM" rdfs:label="LATIN AMERCN STUDIES" rdfs:comment="LATIN AMERICAN STUDIES                                                                              Y                                                                                                   DEPT=SPITP" />
+	
+	<psu:DegreeMinorField rdf:ID="LATIN" rdfs:label="LATIN" rdfs:comment="LATIN                                                                                                                                                                                                   DEPT=CLASS" />
+	
+	<psu:DegreeMinorField rdf:ID="LAW" rdfs:label="LAW AND LIBERAL ARTS" rdfs:comment="LAW AND LIBERAL ARTS                                                                                                                                                                                    EFF=SU99 COL=LA" />
+	
+	<psu:DegreeMinorField rdf:ID="LAWCC" rdfs:label="LAW AND LIBERAL ARTS" rdfs:comment="LAW AND LIBERAL ARTS                                                                                                                                                                                    COL=CC  EFF=FA99" />
+	
+	<psu:DegreeMinorField rdf:ID="LE ST" rdfs:label="LEISURE STUDIES" rdfs:comment="LEISURE STUDIES                                                                                                                                                                                         COL=HH EFF SU91 END SU93 (SEE R P M)" />
+	
+	<psu:DegreeMinorField rdf:ID="LEBUS" rdfs:label="LEGAL ENVRN OF BUS" rdfs:comment="LEGAL ENVIRONMENT OF BUSINESS                                                                       Y                                                                                                   DEPT=BAADM" />
+	
+	<psu:DegreeMinorField rdf:ID="LER" rdfs:label="LABOR ST &amp; EMPLY REL" rdfs:comment="LABOR STUDIES AND EMPLOYMENT RELATIONS" />
+	
+	<psu:DegreeMinorField rdf:ID="LING" rdfs:label="LINGUISTICS" rdfs:comment="LINGUISTICS                                                                                         Y                                                                                                   DEPT=LAIDS" />
+	
+	<psu:DegreeMinorField rdf:ID="LTNST" rdfs:label="LATINA/LATINO STDIES" rdfs:comment="LATINA AND LATINO STUDIES" />
+	
+	<psu:DegreeMinorField rdf:ID="M C B" rdfs:label="MOLECULAR/CELL BIOL" rdfs:comment="MOLECULAR AND CELL BIOLOGY                                                                          Y                                                                                                   DEPT=M C B,EFF SP85" />
+	
+	<psu:DegreeMinorField rdf:ID="M I S" rdfs:label="MANAGEMENT INFO SYS" rdfs:comment="MANAGEMENT INFORMATION SYSTEMS                                                                      Y                                                                                                   COL=BA EFF FA94" />
+	
+	<psu:DegreeMinorField rdf:ID="M S T" rdfs:label="MUSHROOM SCIENCE/TEC" rdfs:comment="MUSHROOM SCIENCE AND TECHNOLOGY                                                                     Y" />
+	
+	<psu:DegreeMinorField rdf:ID="MA ST" rdfs:label="MATHEMATICAL STUDIES" rdfs:comment="MATHEMATICAL STUDIES                                                                                                                                                                                    DEPT=NS&amp;EN,NAME CHNG TO MTHBD EFF SP85" />
+	
+	<psu:DegreeMinorField rdf:ID="MANGT" rdfs:label="MANAGEMENT" rdfs:comment="MANAGEMENT                                                                                                                                                                                              COL=BC  EFF=FA94" />
+	
+	<psu:DegreeMinorField rdf:ID="MAPAL" rdfs:label="MATH APPLICATIONS" rdfs:comment="MATHEMATICS APPLICATIONS" />
+	
+	<psu:DegreeMinorField rdf:ID="MARSC" rdfs:label="MARINE SCIENCE" rdfs:comment="MARINE SCIENCE                                                                                      Y                                                                                                   DEPT=I COL" />
+	
+	<psu:DegreeMinorField rdf:ID="MATH" rdfs:label="MATHEMATICS" rdfs:comment="MATHEMATICS                                                                                         Y                                                                                                   DEPT=MATH" />
+	
+	<psu:DegreeMinorField rdf:ID="MCOMM" rdfs:label="MASS COMMUNICATIONS" rdfs:comment="MASS COMMUNICATIONS                                                                                                                                                                                     COL=CM" />
+	
+	<psu:DegreeMinorField rdf:ID="MEDIA" rdfs:label="MEDIA STUDIES" rdfs:comment="MEDIA STUDIES                                                                                                                                                                                           EFF=FA00" />
+	
+	<psu:DegreeMinorField rdf:ID="MESTU" rdfs:label="MIDDLE EAST STUDIES" rdfs:comment="MIDDLE EAST STUDIES                                                                                 Y                                                                                                   DEPT=PL SC" />
+	
+	<psu:DegreeMinorField rdf:ID="METEO" rdfs:label="METEOROLOGY" rdfs:comment="METEOROLOGY" />
+	
+	<psu:DegreeMinorField rdf:ID="MICRB" rdfs:label="MICROBIOLOGY" rdfs:comment="MICROBIOLOGY                                                                                        Y                                                                                                   COL=SC EFF SP87" />
+	
+	<psu:DegreeMinorField rdf:ID="MISBD" rdfs:label="MGMT INFO SYSTEMS" rdfs:comment="MANAGEMENT INFORMATION SYSTEMS                                                                                                                                                                          DEPT=S&amp;BHS,EFF FA85" />
+	
+	<psu:DegreeMinorField rdf:ID="MLTRY" rdfs:label="MILITARY STUDIES" rdfs:comment="MILITARY STUDIES                                                                                    Y                                                                                                   COL=IC" />
+	
+	<psu:DegreeMinorField rdf:ID="MNG E" rdfs:label="MINING ENGINEERING" rdfs:comment="MINING ENGINEERING" />
+	
+	<psu:DegreeMinorField rdf:ID="MOVSC" rdfs:label="MOVEMENT SCIENCE" rdfs:comment="MOVEMENT SCIENCE" />
+	
+	<psu:DegreeMinorField rdf:ID="MRKTG" rdfs:label="MARKETING" rdfs:comment="MARKETING                                                                                                                                                                                               COL=BC EFF=FA98" />
+	
+	<psu:DegreeMinorField rdf:ID="MTHAL" rdfs:label="MATHEMATICS" rdfs:comment="MATHEMATICS                                                                                                                                                                                             COL=AL EFF=FA02" />
+	
+	<psu:DegreeMinorField rdf:ID="MTHBD" rdfs:label="MATHEMATICS" rdfs:comment="MATHEMATICS                                                                                                                                                                                             DEPT=NS&amp;EN" />
+	
+	<psu:DegreeMinorField rdf:ID="MUSIC" rdfs:label="MUSIC" rdfs:comment="MUSIC                                                                                               Y                                                                                                   DEPT=MUSIC" />
+	
+	<psu:DegreeMinorField rdf:ID="MUTEC" rdfs:label="MUSIC TECHNOLOGY" rdfs:comment="MUSIC TECHNOLOGY" />
+	
+	<psu:DegreeMinorField rdf:ID="NANO" rdfs:label="NANOTECHNOLOGY" rdfs:comment="NANOTECHNOLOGY" />
+	
+	<psu:DegreeMinorField rdf:ID="NAT R" rdfs:label="NATURAL RESOURCES" rdfs:comment="NATURAL RESOURCES" />
+	
+	<psu:DegreeMinorField rdf:ID="NATSC" rdfs:label="NATURAL SCIENCE" rdfs:comment="NATURAL SCIENCE                                                                                     Y                                                                                                   COL=SC EFF FA92" />
+	
+	<psu:DegreeMinorField rdf:ID="NEURO" rdfs:label="NEUROSCIENCE" rdfs:comment="NEUROSCIENCE                                                                                        Y" />
+	
+	<psu:DegreeMinorField rdf:ID="NSECA" rdfs:label="NATL SECURTY AFFAIRS" rdfs:comment="NATIONAL SECURITY AFFAIRS                                                                                                                                                                               DEPT=I COL" />
+	
+	<psu:DegreeMinorField rdf:ID="NTSAL" rdfs:label="NATURAL SCIENCE" rdfs:comment="NATURAL SCIENCE                                                                                                                                                                                         EFF=SP02, COL=AL" />
+	
+	<psu:DegreeMinorField rdf:ID="NTSBL" rdfs:label="NATURAL SCIENCE" rdfs:comment="NATURAL SCIENCE" />
+	
+	<psu:DegreeMinorField rdf:ID="NUTR" rdfs:label="NUTRITIONAL SCIENCES" rdfs:comment="NUTRITIONAL SCIENCES                                                                                                                                                                                    EFF FA87 NAME CHANGE FA02" />
+	
+	<psu:DegreeMinorField rdf:ID="OFFRD" rdfs:label="OFF-ROAD EQUIPMENT" rdfs:comment="OFF-ROAD EQUIPMENT" />
+	
+	<psu:DegreeMinorField rdf:ID="OPMGT" rdfs:label="OPERATIONS MANAGEMNT" rdfs:comment="OPERATIONS MANAGEMENT" />
+	
+	<psu:DegreeMinorField rdf:ID="OPSCM" rdfs:label="OPER &amp; SPLY CHN MGMT" rdfs:comment="OPERATIONS &amp; SUPPLY CHAIN MANAGEMENT" />
+	
+	<psu:DegreeMinorField rdf:ID="P A S" rdfs:label="POULTRY &amp; AVIAN SCI" rdfs:comment="POULTRY AND AVIAN SCIENCE" />
+	
+	<psu:DegreeMinorField rdf:ID="P T M" rdfs:label="POULTRY TECH/MANGMT" rdfs:comment="POULTRY TECHNOLOGY AND MANAGEMENT                                                                   Y                                                                                                   DEPT=PTYSC,EFF FA85" />
+	
+	<psu:DegreeMinorField rdf:ID="PASTU" rdfs:label="PENNA STUDIES" rdfs:comment="PENNSYLVANIA STUDIES                                                                                Y                                                                                                   DEPT=LAGEN" />
+	
+	<psu:DegreeMinorField rdf:ID="PEACE" rdfs:label="PEACE &amp; CONFLCT STUD" rdfs:comment="PEACE AND CONFLICT STUDIES                                                                                                                                                                              EFF=SP95  COLL=EN" />
+	
+	<psu:DegreeMinorField rdf:ID="PH ED" rdfs:label="PHYSICAL EDUCATION" rdfs:comment="PHYSICAL EDUCATION                                                                                                                                                                                      DEPT=PH ED" />
+	
+	<psu:DegreeMinorField rdf:ID="PHIL" rdfs:label="PHILOSOPHY" rdfs:comment="PHILOSOPHY                                                                                          Y                                                                                                   DEPT=PHIL" />
+	
+	<psu:DegreeMinorField rdf:ID="PHLAB" rdfs:label="PHILOSOPHY" rdfs:comment="PHILOSOPHY                                                                                                                                                                                              COL=AB EFF=SP99" />
+	
+	<psu:DegreeMinorField rdf:ID="PHLCC" rdfs:label="PHILOSOPHY" rdfs:comment="PHILOSOPHY                                                                                                                                                                                              COL=CC EFF=FA99" />
+	
+	<psu:DegreeMinorField rdf:ID="PHYBD" rdfs:label="PHYSICS" rdfs:comment="PHYSICS                                                                                                                                                                                                 COL=BC" />
+	
+	<psu:DegreeMinorField rdf:ID="PHYS" rdfs:label="PHYSICS" rdfs:comment="PHYSICS                                                                                             Y                                                                                                   DEPT=PHYS" />
+	
+	<psu:DegreeMinorField rdf:ID="PL SC" rdfs:label="POLITICAL SCIENCE" rdfs:comment="POLITICAL SCIENCE                                                                                                                                                                                       DEPT=PL SC" />
+	
+	<psu:DegreeMinorField rdf:ID="PLMSC" rdfs:label="POLYMER SCIENCE" rdfs:comment="POLYMER SCIENCE                                                                                     Y                                                                                                   COL=EM EFF SU93 5/24/93" />
+	
+	<psu:DegreeMinorField rdf:ID="PLSAL" rdfs:label="POLITICAL SCIENCE" rdfs:comment="POLITICAL SCIENCE" />
+	
+	<psu:DegreeMinorField rdf:ID="PLSCA" rdfs:label="POLITICAL SCIENCE" rdfs:comment="POLITICAL SCIENCE" />
+	
+	<psu:DegreeMinorField rdf:ID="PLSCC" rdfs:label="POLITICAL SCIENCE" rdfs:comment="POLITICAL SCIENCE                                                                                                                                                                                       COL=CC EFF=FA99" />
+	
+	<psu:DegreeMinorField rdf:ID="POLSC" rdfs:label="POLITICAL SCIENCE" rdfs:comment="POLITICAL SCIENCE                                                                                                                                                                                       DEPT=S&amp;BHS" />
+	
+	<psu:DegreeMinorField rdf:ID="PPATH" rdfs:label="PLANT PATHOLOGY" rdfs:comment="PLANT PATHOLOGY" />
+	
+	<psu:DegreeMinorField rdf:ID="PRODR" rdfs:label="PRODUCT REALIZATION" rdfs:comment="PRODUCT REALIZATION                                                                                                                                                                                     COL=EN EFF=SU97" />
+	
+	<psu:DegreeMinorField rdf:ID="PSY" rdfs:label="PSYCHOLOGY" rdfs:comment="PSYCHOLOGY                                                                                          Y                                                                                                   DEPT=PSY" />
+	
+	<psu:DegreeMinorField rdf:ID="PSYAB" rdfs:label="PSYCHOLOGY" rdfs:comment="PSYCHOLOGY                                                                                                                                                                                              COL=AB EFF=FA99" />
+	
+	<psu:DegreeMinorField rdf:ID="PSYAL" rdfs:label="PSYCHOLOGY" rdfs:comment="PSYCHOLOGY                                                                                                                                                                                              COL=AL, EFF SP01" />
+	
+	<psu:DegreeMinorField rdf:ID="PSYCC" rdfs:label="PSYCHOLOGY" rdfs:comment="PSYCHOLOGY                                                                                                                                                                                              COL=CC EFF=FA99" />
+	
+	<psu:DegreeMinorField rdf:ID="PSYCH" rdfs:label="PSYCHOLOGY" rdfs:comment="PSYCHOLOGY                                                                                                                                                                                              DEPT=S&amp;BHS" />
+	
+	<psu:DegreeMinorField rdf:ID="PWRCC" rdfs:label="PROFESSIONAL WRITING" rdfs:comment="PROFESSIONAL WRITING" />
+	
+	<psu:DegreeMinorField rdf:ID="PWRIT" rdfs:label="PROFESSIONAL WRITING" rdfs:comment="PROFESSIONAL WRITING" />
+	
+	<psu:DegreeMinorField rdf:ID="R EST" rdfs:label="REAL ESTATE" rdfs:comment="REAL ESTATE                                                                                         Y" />
+	
+	<psu:DegreeMinorField rdf:ID="R P M" rdfs:label="REC &amp; PARKS MANAGMNT" rdfs:comment="RECREATION AND PARKS MANAGEMENT                                                                                                                                                                         COL=HH EFF FA93, WAS LE ST" />
+	
+	<psu:DegreeMinorField rdf:ID="RC PK" rdfs:label="RECREATION &amp; PARKS" rdfs:comment="RECREATION AND PARKS                                                                                                                                                                                    DEPT=RC PK,END SP91" />
+	
+	<psu:DegreeMinorField rdf:ID="RHET" rdfs:label="RHETORIC" rdfs:comment="RHETORIC" />
+	
+	<psu:DegreeMinorField rdf:ID="RL ST" rdfs:label="RELIGIOUS STUDIES" rdfs:comment="RELIGIOUS STUDIES                                                                                                                                                                                       DEPT=LAIDS" />
+	
+	<psu:DegreeMinorField rdf:ID="RPTM" rdfs:label="REC, PARK, TOUR MGMT" rdfs:comment="RECREATION, PARK AND TOURISM MANAGEMENT" />
+	
+	<psu:DegreeMinorField rdf:ID="RUS" rdfs:label="RUSSIAN" rdfs:comment="RUSSIAN                                                                                             Y                                                                                                   DEPT=SLAV" />
+	
+	<psu:DegreeMinorField rdf:ID="RUS T" rdfs:label="RUSSIAN TRANSLATION" rdfs:comment="RUSSIAN TRANSLATION                                                                                                                                                                                     WAS RUSTT" />
+	
+	<psu:DegreeMinorField rdf:ID="RUSSA" rdfs:label="RUSSIAN AREA STUDIES" rdfs:comment="RUSSIAN AREA STUDIES                                                                                Y                                                                                                   DEPT=SLAV" />
+	
+	<psu:DegreeMinorField rdf:ID="RUSTT" rdfs:label="RUSSIAN TECH TRANSL" rdfs:comment="RUSSIAN TECHNICAL TRANSLATION                                                                                                                                                                           NOW RUS T" />
+	
+	<psu:DegreeMinorField rdf:ID="S T S" rdfs:label="SCIEN,TECH,SOCIETY" rdfs:comment="SCIENCE, TECHNOLOGY AND SOCIETY                                                                     Y                                                                                                   DEPT=I COL" />
+	
+	<psu:DegreeMinorField rdf:ID="SCIST" rdfs:label="SUPPLY CHAIN &amp; IST" rdfs:comment="SUPPLY CHAIN AND INFORMATION SCIENCES AND TECHNOLOGY" />
+	
+	<psu:DegreeMinorField rdf:ID="SOC" rdfs:label="SOCIOLOGY" rdfs:comment="SOCIOLOGY                                                                                           Y                                                                                                   DEPT=SOC" />
+	
+	<psu:DegreeMinorField rdf:ID="SOC W" rdfs:label="SOCIAL WORK" rdfs:comment="SOCIAL WORK                                                                                                                                                                                             DEPT=SOC" />
+	
+	<psu:DegreeMinorField rdf:ID="SOCAB" rdfs:label="SOCIOLOGY" rdfs:comment="SOCIOLOGY                                                                                                                                                                                               COL=AB EFF=FA99" />
+	
+	<psu:DegreeMinorField rdf:ID="SOCAL" rdfs:label="SOCIOLOGY" rdfs:comment="SOCIOLOGY" />
+	
+	<psu:DegreeMinorField rdf:ID="SOCCC" rdfs:label="SOCIOLOGY" rdfs:comment="SOCIOLOGY                                                                                                                                                                                               COL=CC EFF=FA99" />
+	
+	<psu:DegreeMinorField rdf:ID="SPAN" rdfs:label="SPANISH" rdfs:comment="SPANISH                                                                                             Y                                                                                                   DEPT=SPITP" />
+	
+	<psu:DegreeMinorField rdf:ID="SPCOM" rdfs:label="SPEECH COMMUNICATION" rdfs:comment="SPEECH COMMUNICATION                                                                                Y                                                                                                   DEPT=SPCOM" />
+	
+	<psu:DegreeMinorField rdf:ID="SPHAB" rdfs:label="SPEECH COMMUNICATION" rdfs:comment="SPEECH COMMUNICATION                                                                                                                                                                                    COL=AB EFF=FA99" />
+	
+	<psu:DegreeMinorField rdf:ID="SPHCC" rdfs:label="SPEECH COMMUNICATION" rdfs:comment="SPEECH COMMUNICATION                                                                                                                                                                                    COL=CC EFF=FA99" />
+	
+	<psu:DegreeMinorField rdf:ID="SPLED" rdfs:label="SPECIAL EDUCATION" rdfs:comment="SPECIAL EDUCATION" />
+	
+	<psu:DegreeMinorField rdf:ID="SPNAL" rdfs:label="SPANISH" rdfs:comment="SPANISH                                                                                                                                                                                                 COL=AL EFF SU01" />
+	
+	<psu:DegreeMinorField rdf:ID="SPNBL" rdfs:label="SPANISH" rdfs:comment="SPANISH                                                                                                                                                                                                 COL=BL EFF SU03" />
+	
+	<psu:DegreeMinorField rdf:ID="SRA" rdfs:label="SECURITY &amp; RSK ANALY" rdfs:comment="SECURITY AND RISK ANALYSIS" />
+	
+	<psu:DegreeMinorField rdf:ID="SSEA" rdfs:label="SCI,SOC,ENVRN AFRICA" rdfs:comment="SCIENCE, SOCIETY AND THE ENVIRONMENT OF AFRICA" />
+	
+	<psu:DegreeMinorField rdf:ID="STABD" rdfs:label="STATISTICS" rdfs:comment="STATISTICS                                                                                                                                                                                              EFF=FA97  COL=BC" />
+	
+	<psu:DegreeMinorField rdf:ID="STAT" rdfs:label="STATISTICS" rdfs:comment="STATISTICS                                                                                          Y                                                                                                   COL=SC EFF FA93" />
+	
+	<psu:DegreeMinorField rdf:ID="T I" rdfs:label="TECHNOLOGY INTEGRAT" rdfs:comment="TECHNLOLOGY INTEGRATION FOR PRE-SERVICE TEACHERS                                                                                                                                                        COL=ED EFF=SP99" />
+	
+	<psu:DegreeMinorField rdf:ID="TCHSL" rdfs:label="TECHNICAL SALES" rdfs:comment="TECHNICAL SALES" />
+	
+	<psu:DegreeMinorField rdf:ID="TEHWR" rdfs:label="TECHNICAL WRITING" rdfs:comment="TECHNICAL WRITING                                                                                   Y                                                                                                   DEPT=LAGEN" />
+	
+	<psu:DegreeMinorField rdf:ID="TESOL" rdfs:label="TCH ENG SPKR OTR LNG" rdfs:comment="TEACHING ENGLISH TO SPEAKERS OF OTHER LANGUAGES" />
+	
+	<psu:DegreeMinorField rdf:ID="TEWCC" rdfs:label="TECHNICAL WRITING" rdfs:comment="TECHNICAL WRITING                                                                                                                                                                                       COL=CC EFF=FA99" />
+	
+	<psu:DegreeMinorField rdf:ID="THEA" rdfs:label="THEATRE" rdfs:comment="THEATRE                                                                                             Y                                                                                                   COL=AA" />
+	
+	<psu:DegreeMinorField rdf:ID="THECC" rdfs:label="THEATRE" rdfs:comment="THEATRE" />
+	
+	<psu:DegreeMinorField rdf:ID="W F S" rdfs:label="WILDLIFE/FISH SCIEN" rdfs:comment="WILDLIFE AND FISHERIES SCIENCE                                                                      Y                                                                                                   COL=AG" />
+	
+	<psu:DegreeMinorField rdf:ID="W L S" rdfs:label="WILDLIFE SCIENCE" rdfs:comment="WILDLIFE SCIENCE                                                                                                                                                                                        DEPT=FOR R,EFF FA85" />
+	
+	<psu:DegreeMinorField rdf:ID="W LIT" rdfs:label="WORLD LITERATURE" rdfs:comment="WORLD LITERATURE                                                                                    Y                                                                                                   DEPT=LAGEN" />
+	
+	<psu:DegreeMinorField rdf:ID="W W R" rdfs:label="WATERSHED/WATER RES" rdfs:comment="WATERSHEDS AND WATER RESOURCES                                                                                                                                                                          EFF=SU00" />
+	
+	<psu:DegreeMinorField rdf:ID="WMNAB" rdfs:label="WOMEN'S STUDIES" rdfs:comment="WOMEN'S STUDIES" />
+	
+	<psu:DegreeMinorField rdf:ID="WMNAL" rdfs:label="WOMEN'S STUDIES" rdfs:comment="WOMEN'S STUDIES                                                                                                                                                                                         COL=AL EFF=SU02" />
+	
+	<psu:DegreeMinorField rdf:ID="WMNBC" rdfs:label="WOMEN'S STUDIES" rdfs:comment="WOMEN'S STUDIES                                                                                                                                                                                         COL=BC  EFF=FA99" />
+	
+	<psu:DegreeMinorField rdf:ID="WMNCC" rdfs:label="WOMEN'S STUDIES" rdfs:comment="WOMEN'S STUDIES                                                                                                                                                                                         COL=CC EFF=FA99" />
+	
+	<psu:DegreeMinorField rdf:ID="WMNST" rdfs:label="WOMEN'S STUDIES" rdfs:comment="WOMEN'S STUDIES                                                                                     Y                                                                                                   EFF FA83, NEW APP FA91 (07/15/91 MEMO)" />
+	
+	<psu:DegreeMinorField rdf:ID="WOMST" rdfs:label="WOMEN'S STUDIES" rdfs:comment="WOMEN'S STUDIES                                                                                     Y                                                                                                   EFF=FA95  CA" />
+	
+	<psu:DegreeMinorField rdf:ID="WPMKT" rdfs:label="WOOD PROD MARKETING" rdfs:comment="WOOD PRODUCTS MARKETING                                                                             Y                                                                                                   COL=AG,EFF FA92" />
+	
+	<psu:DegreeMinorField rdf:ID="WRTNG" rdfs:label="WRITING" rdfs:comment="WRITING                                                                                                                                                                                                 COL=CA EFF=FA02" />
+	
+	<psu:DegreeMinorField rdf:ID="YFE" rdfs:label="YOUTH AND FAMILY ED" rdfs:comment="YOUTH AND FAMILY EDUCATION                                                                                                                                                                              COL=AG  EFF=SU99" />
+	
+	<psu:DegreeMinorField rdf:ID="" rdfs:label="" rdfs:comment="" />
+	
+	<psu:DegreeMinorField rdf:ID="A B E" rdfs:label="AGRI &amp; BIOL ENGR" rdfs:comment="AGRICULTURAL AND BIOLOGICAL ENGINEERING                                                             Y" />
+	
+	<psu:DegreeMinorField rdf:ID="A S M" rdfs:label="AG SYSTEMS MNGMT" rdfs:comment="AGRICULTURAL SYSTEMS MANAGEMENT" />
+	
+	<psu:DegreeMinorField rdf:ID="ABIOL" rdfs:label="ASTROBIOLOGY" rdfs:comment="ASTROBIOLOGY" />
+	
+	<psu:DegreeMinorField rdf:ID="ACNTG" rdfs:label="ACCOUNTING" rdfs:comment="ACCOUNTING                                                                                                                                                                                              COL=BC" />
+	
+	<psu:DegreeMinorField rdf:ID="AE RS" rdfs:label="AG EC &amp; RURAL SOC" rdfs:comment="AGRICULTURAL ECONOMICS AND RURAL SOCIOLOGY                                                          Y                                                                                                   COL=AG EFF SP84" />
+	
+	<psu:DegreeMinorField rdf:ID="AFAAB" rdfs:label="AFRICAN AMERICAN STD" rdfs:comment="AFRICAN AMERICAN STUDIES                                                                                                                                                                                COL=AB EFF=FA99" />
+	
+	<psu:DegreeMinorField rdf:ID="AFAMR" rdfs:label="AFRICAN AMERICAN STD" rdfs:comment="AFRICAN AMERICAN STUDIES                                                                            Y                                                                                                   COL=IC EFF FA83,NOW COL=LA EFF FA92" />
+	
+	<psu:DegreeMinorField rdf:ID="AFRST" rdfs:label="AFRICAN STUDIES" rdfs:comment="AFRICAN STUDIES                                                                                     Y                                                                                                   COL=IC EFF FA83,NOW COL=LA EFF FA92" />
+	
+	<psu:DegreeMinorField rdf:ID="AG BM" rdfs:label="AGRIBUSINESS MGMT" rdfs:comment="AGRIBUSINESS MANAGEMENT                                                                             Y                                                                                                   COL=AG EFF FA90 NAME CHANGE=FA02" />
+	
+	<psu:DegreeMinorField rdf:ID="AG E" rdfs:label="AGRICULTURAL ENGR" rdfs:comment="AGRICULTURAL ENGINEERING                                                                            Y                                                                                                   COL=EN EFF FA87" />
+	
+	<psu:DegreeMinorField rdf:ID="AG M" rdfs:label="AG MECHANIZATION TEC" rdfs:comment="AGRICULTURAL MECHANIZATION TECHNOLOGY                                                               Y                                                                                                   COL=AG EFF FA87" />
+	
+	<psu:DegreeMinorField rdf:ID="AGCOM" rdfs:label="AGRICULTURAL COMM" rdfs:comment="AGRICULTURAL COMMUNICATIONS                                                                         Y                                                                                                   COL=AG EFF SU93" />
+	
+	<psu:DegreeMinorField rdf:ID="AGRO" rdfs:label="AGRONOMY" rdfs:comment="AGRONOMY" />
+	
+	<psu:DegreeMinorField rdf:ID="AM ST" rdfs:label="AMERICAN STUDIES" rdfs:comment="AMERICAN STUDIES                                                                                                                                                                                        COL=LA EFF FA87" />
+	
+	<psu:DegreeMinorField rdf:ID="AMSAB" rdfs:label="AMERICAN STUDIES" rdfs:comment="AMERICAN STUDIES                                                                                                                                                                                        COL=AB EFF=FA99" />
+	
+	<psu:DegreeMinorField rdf:ID="AMSCC" rdfs:label="AMERICAN STUDIES" rdfs:comment="AMERICAN STUDIES                                                                                                                                                                                        COL=CC EFF=FA99" />
+	
+	<psu:DegreeMinorField rdf:ID="AMSTD" rdfs:label="AMERICAN STUDIES" rdfs:comment="AMERICAN STUDIES                                                                                                                                                                                        COL=CA" />
+	
+	<psu:DegreeMinorField rdf:ID="AN SC" rdfs:label="ANIMAL SCIENCE" rdfs:comment="ANIMAL SCIENCE                                                                                                                                                                                          COL=AG EFF FA85 END SU88 (SEE D&amp;ASC)" />
+	
+	<psu:DegreeMinorField rdf:ID="ANSCI" rdfs:label="ANIMAL SCIENCES" rdfs:comment="ANIMAL SCIENCES                                                                                                                                                                                         EFF=SU99" />
+	
+	<psu:DegreeMinorField rdf:ID="ANTAB" rdfs:label="ANTHROPOLOGY" rdfs:comment="ANTHROPOLOGY                                                                                                                                                                                            COL=AB EFF=FA99" />
+	
+	<psu:DegreeMinorField rdf:ID="ANTH" rdfs:label="ANTHROPOLOGY" rdfs:comment="ANTHROPOLOGY                                                                                        Y                                                                                                   COL=LA EFF FA87 (WAS ANTHY)" />
+	
+	<psu:DegreeMinorField rdf:ID="ANTHY" rdfs:label="ANTHROPOLOGY" rdfs:comment="ANTHROPOLOGY                                                                                                                                                                                            COL=LA EFF SP85 END SU87 (SEE ANTH)" />
+	
+	<psu:DegreeMinorField rdf:ID="ARBOR" rdfs:label="ARBORICULTURE" rdfs:comment="ARBORICULTURE" />
+	
+	<psu:DegreeMinorField rdf:ID="ARC H" rdfs:label="ARCHITECTURAL HIST" rdfs:comment="ARCHITECTURAL HISTORY                                                                               Y                                                                                                   COL=AA EFF FA90" />
+	
+	<psu:DegreeMinorField rdf:ID="ARCST" rdfs:label="ARCHITECTURE STUDIES" rdfs:comment="ARCHITECTURE STUDIES                                                                                                                                                                                    COL=AA  EFF=FA99" />
+	
+	<psu:DegreeMinorField rdf:ID="ART" rdfs:label="ART" rdfs:comment="ART                                                                                                 Y                                                                                                   COL=AA EFF FA85" />
+	
+	<psu:DegreeMinorField rdf:ID="ART H" rdfs:label="ART HISTORY" rdfs:comment="ART HISTORY                                                                                         Y                                                                                                   COL=AA EFF SP86" />
+	
+	<psu:DegreeMinorField rdf:ID="ASIAN" rdfs:label="ASIAN AREA STUDIES" rdfs:comment="ASIAN AREA STUDIES                                                                                                                                                                                      COL=LA EFF FA83" />
+	
+	<psu:DegreeMinorField rdf:ID="ASTRO" rdfs:label="ASTRO &amp; ASTROPHYSICS" rdfs:comment="ASTRONOMY AND ASTROPHYSICS" />
+	
+	<psu:DegreeMinorField rdf:ID="B LOG" rdfs:label="BUSINESS LOG" rdfs:comment="BUSINESS LOGISTICS                                                                                  Y                                                                                                   COL=BA EFF FA87" />
+	
+	<psu:DegreeMinorField rdf:ID="B M B" rdfs:label="BIOCH &amp; MOLECUL BIO" rdfs:comment="BIOCHEMISTRY AND MOLECULAR BIOLOGY                                                                  Y                                                                                                   COL=SC" />
+	
+	<psu:DegreeMinorField rdf:ID="BADMN" rdfs:label="BUSINESS ADMIN" rdfs:comment="BUSINESS ADMINISTRATION                                                                                                                                                                                 COL=CA EFF=SP98" />
+	
+	<psu:DegreeMinorField rdf:ID="BIOAL" rdfs:label="BIOLOGY" rdfs:comment="BIOLOGY" />
+	
+	<psu:DegreeMinorField rdf:ID="BIOBD" rdfs:label="BIOLOGY" rdfs:comment="BIOLOGY                                                                                                                                                                                                 COL=BC EFF SP87 (WAS BIOS)" />
+	
+	<psu:DegreeMinorField rdf:ID="BIOE" rdfs:label="BIOENGINEERING" rdfs:comment="BIOENGINEERING                                                                                      Y                                                                                                   COL=EN EFF SP88" />
+	
+	<psu:DegreeMinorField rdf:ID="BIOL" rdfs:label="BIOLOGY" rdfs:comment="BIOLOGY" />
+	
+	<psu:DegreeMinorField rdf:ID="BIOS" rdfs:label="BIOSCIENCE" rdfs:comment="BIOSCIENCE                                                                                                                                                                                              COL=BC EFF FA83 END FA86 (SEE BIOBD)" />
+	
+	<psu:DegreeMinorField rdf:ID="BLDSP" rdfs:label="BLACK DIASPORA STUDY" rdfs:comment="BLACK DIASPORA STUDIES                                                                              Y                                                                                                   COL=IC EFF FA83,NOW COL=LA EFF FA92" />
+	
+	<psu:DegreeMinorField rdf:ID="BMH" rdfs:label="BIOETHICS &amp; MED HUM" rdfs:comment="BIOETHICS AND MEDICAL HUMANITIES" />
+	
+	<psu:DegreeMinorField rdf:ID="BSBAB" rdfs:label="BUSINESS" rdfs:comment="BUSINESS                                                                                                                                                                                                COL=AB" />
+	
+	<psu:DegreeMinorField rdf:ID="BSBBL" rdfs:label="BUSINESS" rdfs:comment="BUSINESS                                                                                                                                                                                                COL=BL" />
+	
+	<psu:DegreeMinorField rdf:ID="BSBCC" rdfs:label="BUSINESS" rdfs:comment="BUSINESS                                                                                                                                                                                                COL=CC" />
+	
+	<psu:DegreeMinorField rdf:ID="BSLAB" rdfs:label="BUSINESS &amp; LIB ARTS" rdfs:comment="BUSINESS AND THE LIBERAL ARTS                                                                                                                                                                           COL=AB EFF=FA99" />
+	
+	<psu:DegreeMinorField rdf:ID="BSLCC" rdfs:label="BUSINESS/LIBERL ARTS" rdfs:comment="BUSINESS/LIBERAL ARTS                                                                                                                                                                                   COL=CC  EFF=FA99" />
+	
+	<psu:DegreeMinorField rdf:ID="BUSLA" rdfs:label="BUSINESS &amp; LIB ARTS" rdfs:comment="BUSINESS AND THE LIBERAL ARTS                                                                                                                                                                           COL=LA EFF FA83" />
+	
+	<psu:DegreeMinorField rdf:ID="C LIT" rdfs:label="COMPARATIVE LIT" rdfs:comment="COMPARATIVE LITERATURE                                                                              Y                                                                                                   COL=LA EFF FA83" />
+	
+	<psu:DegreeMinorField rdf:ID="CAMS" rdfs:label="CLAS/ANC MED STUD" rdfs:comment="CLASSICS AND ANCIENT MEDITERRANEAN STUDIES" />
+	
+	<psu:DegreeMinorField rdf:ID="CAS" rdfs:label="COMM ARTS &amp; SCIENCES" rdfs:comment="COMMUNICATION ARTS AND SCIENCES" />
+	
+	<psu:DegreeMinorField rdf:ID="CASAB" rdfs:label="COMM ARTS &amp; SCIENCES" rdfs:comment="COMMUNICATION ARTS AND SCIENCES" />
+	
+	<psu:DegreeMinorField rdf:ID="CASBL" rdfs:label="COMM ARTS &amp; SCIENCES" rdfs:comment="COMMUNICATION ARTS AND SCIENCES" />
+	
+	<psu:DegreeMinorField rdf:ID="CASCC" rdfs:label="COMM ARTS &amp; SCIENCES" rdfs:comment="COMMUNICATION ARTS AND SCIENCES" />
+	
+	<psu:DegreeMinorField rdf:ID="CENBD" rdfs:label="COMPUTER ENIGNEERING" rdfs:comment="COMPUTER ENGINEERING" />
+	
+	<psu:DegreeMinorField rdf:ID="CH E" rdfs:label="CHEMICAL ENGINEERING" rdfs:comment="CHEMICAL ENGINEERING                                                                                Y                                                                                                   COL=EN EFF FA83" />
+	
+	<psu:DegreeMinorField rdf:ID="CHEM" rdfs:label="CHEMISTRY" rdfs:comment="CHEMISTRY                                                                                           Y                                                                                                   COL=SC EFF FA87" />
+	
+	<psu:DegreeMinorField rdf:ID="CHMAL" rdfs:label="CHEMISTRY" rdfs:comment="CHEMISTRY                                                                                                                                                                                               COL=AL" />
+	
+	<psu:DegreeMinorField rdf:ID="CHMBD" rdfs:label="CHEMISTRY" rdfs:comment="CHEMISTRY                                                                                                                                                                                               COL=BC EFF FA93" />
+	
+	<psu:DegreeMinorField rdf:ID="CHN L" rdfs:label="CHINESE LANGUAGE" rdfs:comment="CHINESE LANGUAGE                                                                                                                                                                                        COL=LA EFF SP88 END FA89 (SEE CHNS)" />
+	
+	<psu:DegreeMinorField rdf:ID="CHNS" rdfs:label="CHINESE LANGUAGE" rdfs:comment="CHINESE LANGUAGE                                                                                    Y                                                                                                   COL=LA EFF SP90 (WAS CHN L)" />
+	
+	<psu:DegreeMinorField rdf:ID="CIVCM" rdfs:label="CIVIC &amp; COMNTY ENGMT" rdfs:comment="CIVIC AND COMMUNITY ENGAGEMENT" />
+	
+	<psu:DegreeMinorField rdf:ID="CJ" rdfs:label="CRIMINAL JUSTICE" rdfs:comment="CRIMINAL JUSTICE                                                                                                                                                                                        COL=AL  EFF=SU99" />
+	
+	<psu:DegreeMinorField rdf:ID="CLASS" rdfs:label="CLASSICAL STUDIES" rdfs:comment="CLASSICAL STUDIES                                                                                                                                                                                       DEPT=CLASS" />
+	
+	<psu:DegreeMinorField rdf:ID="CLIMA" rdfs:label="CLIMATOLOGY" rdfs:comment="CLIMATOLOGY                                                                                                                                                                                             EFF=FA00" />
+	
+	<psu:DegreeMinorField rdf:ID="CMPAP" rdfs:label="QUAN ANAL/CMPTR APP" rdfs:comment="QUANTITATIVE ANALYSIS AND COMPUTER APPLICATIONS IN THE LIBERAL ARTS                                                                                                                                     DEPT=LAGEN,EFF SP85" />
+	
+	<psu:DegreeMinorField rdf:ID="CMPBD" rdfs:label="COMPUTER STUDIES" rdfs:comment="COMPUTER STUDIES                                                                                                                                                                                        COL=BC,DEPT=SE&amp;T-EFF SP87,WAS CPSTD" />
+	
+	<psu:DegreeMinorField rdf:ID="CMPSC" rdfs:label="COMPUTER SCIENCE" rdfs:comment="COMPUTER SCIENCE                                                                                    Y                                                                                                   COL=SC,EFF FA89" />
+	
+	<psu:DegreeMinorField rdf:ID="COMAL" rdfs:label="COMMUNICATIONS" rdfs:comment="COMMUNICATIONS" />
+	
+	<psu:DegreeMinorField rdf:ID="COMCL" rdfs:label="COMMUNICATIONS" rdfs:comment="COMMUNICATIONS" />
+	
+	<psu:DegreeMinorField rdf:ID="COMMU" rdfs:label="COMMUNICATIONS" rdfs:comment="COMMUNICATIONS                                                                                                                                                                                          DEPT=A&amp;HUM" />
+	
+	<psu:DegreeMinorField rdf:ID="COMP" rdfs:label="COMPUTER SCIENCE" rdfs:comment="COMPUTER SCIENCE                                                                                                                                                                                        COL=CA EFF=FA00" />
+	
+	<psu:DegreeMinorField rdf:ID="CPSTD" rdfs:label="COMPUTER STUDIES" rdfs:comment="COMPUTER STUDIES                                                                                                                                                                                        DEPT=NS&amp;EN NOW CMPBD EFF SP87" />
+	
+	<psu:DegreeMinorField rdf:ID="CSCBD" rdfs:label="COMPUTER SCIENCE" rdfs:comment="COMPUTER SCIENCE                                                                                                                                                                                        EFF=FA97  COL=BC" />
+	
+	<psu:DegreeMinorField rdf:ID="D M R" rdfs:label="DISPUTE MNGT &amp; RESOL" rdfs:comment="DISPUTE MANAGEMENT AND RESOLUTION                                                                                                                                                                       EF=SP00" />
+	
+	<psu:DegreeMinorField rdf:ID="D&ASC" rdfs:label="DAIRY &amp; ANIMAL SCI" rdfs:comment="DAIRY AND ANIMAL SCIENCE                                                                            Y                                                                                                   DEPT=D&amp;ASC,EFF FA88-WAS AN SC" />
+	
+	<psu:DegreeMinorField rdf:ID="DANCE" rdfs:label="DANCE" rdfs:comment="DANCE                                                                                                                                                                                                   DEPT=EXSCI EFF FA87" />
+	
+	<psu:DegreeMinorField rdf:ID="DBLTY" rdfs:label="DISABILITY STUDIES" rdfs:comment="DISABILITY STUDIES" />
+	
+	<psu:DegreeMinorField rdf:ID="DGAIS" rdfs:label="DIGITAL ARTS &amp; IST" rdfs:comment="DIGITAL ARTS AND INFORMATION SCIENCES AND TECHNOLOGY" />
+	
+	<psu:DegreeMinorField rdf:ID="DHS" rdfs:label="DEAFNSS &amp; HEARING ST" rdfs:comment="DEAFNESS AND HEARING STUDIES" />
+	
+	<psu:DegreeMinorField rdf:ID="DNCAL" rdfs:label="DANCE STUDIES" rdfs:comment="DANCE STUDIES" />
+	
+	<psu:DegreeMinorField rdf:ID="E L D" rdfs:label="ENGR LEADERSHIP DEV" rdfs:comment="ENGINEERING LEADERSHIP DEVELOPMENT                                                                  Y                                                                                                   EFF = FA95" />
+	
+	<psu:DegreeMinorField rdf:ID="E MCH" rdfs:label="ENGR MECHANICS" rdfs:comment="ENGINEERING MECHANICS                                                                               Y                                                                                                   DEPT ESC&amp;M-EFF FA88" />
+	
+	<psu:DegreeMinorField rdf:ID="E P M" rdfs:label="ELEC &amp; PHOTONIC MAT" rdfs:comment="ELECTRONIC AND PHOTONIC MATERIALS                                                                                                                                                                       COL=EM EFF SP02" />
+	
+	<psu:DegreeMinorField rdf:ID="E P S" rdfs:label="ED POLICY STUDIES" rdfs:comment="EDUCATION POLICY STUDIES                                                                                                                                                                                COL=ED EFF=FA99" />
+	
+	<psu:DegreeMinorField rdf:ID="E R M" rdfs:label="ENVRN RESRCE MGMT" rdfs:comment="ENVIRONMENTAL RESOURCE MANAGEMENT                                                                   Y                                                                                                   DEPT=FOR R" />
+	
+	<psu:DegreeMinorField rdf:ID="E RRE" rdfs:label="ENVIR &amp; RENEW RES EC" rdfs:comment="ENVIRONMENTAL AND RENEWABLE RESOURCE ECONOMICS" />
+	
+	<psu:DegreeMinorField rdf:ID="EASYS" rdfs:label="EARTH SYSTEMS" rdfs:comment="EARTH SYSTEMS                                                                                                                                                                                           COL=EM,EFF SU92" />
+	
+	<psu:DegreeMinorField rdf:ID="ECNS" rdfs:label="ECONOMICS" rdfs:comment="ECONOMICS                                                                                                                                                                                               DEPT=S&amp;BHS" />
+	
+	<psu:DegreeMinorField rdf:ID="ECON" rdfs:label="ECONOMICS" rdfs:comment="ECONOMICS                                                                                           Y                                                                                                   DEPT=ECON" />
+	
+	<psu:DegreeMinorField rdf:ID="ELISH" rdfs:label="ENGLISH" rdfs:comment="ENGLISH                                                                                                                                                                                                 DEPT=A&amp;HUM" />
+	
+	<psu:DegreeMinorField rdf:ID="ENENG" rdfs:label="ENERGY ENGINEERING" rdfs:comment="ENERGY ENGINEERING" />
+	
+	<psu:DegreeMinorField rdf:ID="ENGAB" rdfs:label="ENGLISH" rdfs:comment="ENGLISH                                                                                                                                                                                                 COL=AB EFF=FA99" />
+	
+	<psu:DegreeMinorField rdf:ID="ENGAL" rdfs:label="ENGLISH" rdfs:comment="ENGLISH                                                                                                                                                                                                 COL=AL, EFF SP01" />
+	
+	<psu:DegreeMinorField rdf:ID="ENGCC" rdfs:label="ENGLISH" rdfs:comment="ENGLISH                                                                                                                                                                                                 COL=CC EFF=FA99" />
+	
+	<psu:DegreeMinorField rdf:ID="ENGL" rdfs:label="ENGLISH" rdfs:comment="ENGLISH                                                                                             Y                                                                                                   DEPT=ENGL" />
+	
+	<psu:DegreeMinorField rdf:ID="ENNEC" rdfs:label="ENERGY,ENVR &amp; MIN EC" rdfs:comment="ENERGY, ENVIRONMENTAL, AND MINERAL ECONOMICS" />
+	
+	<psu:DegreeMinorField rdf:ID="ENT" rdfs:label="ENTOMOLOGY" rdfs:comment="ENTOMOLOGY" />
+	
+	<psu:DegreeMinorField rdf:ID="ENTRP" rdfs:label="ENTREPRENEURSHIP" rdfs:comment="ENTREPRENEURSHIP                                                                                                                                                                                        EFF=FA00  COL=AL" />
+	
+	<psu:DegreeMinorField rdf:ID="ENV E" rdfs:label="ENVIRONMENTAL ENGR" rdfs:comment="ENVIRONMENTAL ENGINEERING                                                                           Y                                                                                                   COL=EN EFF SP93 4/6/93" />
+	
+	<psu:DegreeMinorField rdf:ID="ENV I" rdfs:label="ENVIRONMENTL INQUIRY" rdfs:comment="ENVIRONMENTAL INQUIRY" />
+	
+	<psu:DegreeMinorField rdf:ID="ENVST" rdfs:label="ENVIRONMENTAL STDIES" rdfs:comment="ENVIRONMENTAL STUDIES" />
+	
+	<psu:DegreeMinorField rdf:ID="EQ SC" rdfs:label="EQUINE SCIENCE" rdfs:comment="EQUINE SCIENCE" />
+	
+	<psu:DegreeMinorField rdf:ID="ESHBL" rdfs:label="ENG ENTREPRENEURSHIP" rdfs:comment="ENGINEERING ENTREPRENEURSHIP" />
+	
+	<psu:DegreeMinorField rdf:ID="ESHIP" rdfs:label="ENG ENTREPRENEURSHIP" rdfs:comment="ENGINEERING ENTREPRENEURSHIP                                                                                                                                                                            COL=EN EFF=SU02" />
+	
+	<psu:DegreeMinorField rdf:ID="ESOIL" rdfs:label="ENVIRONMENTL SOIL SC" rdfs:comment="ENVIRONMENTAL SOIL SCIENCE" />
+	
+	<psu:DegreeMinorField rdf:ID="ETHCS" rdfs:label="ETHICS" rdfs:comment="ETHICS" />
+	
+	<psu:DegreeMinorField rdf:ID="EXSCI" rdfs:label="EXERCISE &amp; SPORT SCI" rdfs:comment="EXERCISE AND SPORT SCIENCE" />
+	
+</rdf:RDF>
+

@@ -27,6 +27,24 @@
 	  <rdfs:subClassOf rdf:resource="http://www.personal.psu.edu/bjp108/owl/psu.rdf#UndergraduateCourse"/>
 	</rdfs:Class>
 
-	<!-- ====================== Academic Units ====================== -->
-	<psu:College rdf:ID="CollegeOfIST" rdfs:label="College of Information Sciences and Technology" />
+	<!-- ====================== Courses ====================== -->
+	<ISTUGCourse rdf:ID="IST110" />
+	<ISTUGCourse rdf:ID="IST210" />
+	<ISTUGCourse rdf:ID="IST220" />
+	<ISTUGCourse rdf:ID="IST230" />
+	<ISTUGCourse rdf:ID="IST240" />
+	<ISTUGCourse rdf:ID="IST250" />
+	<ISTUGCourse rdf:ID="IST301" />
+	<ISTUGCourse rdf:ID="IST331" />
+	<ISTUGCourse rdf:ID="IST440W" />
+
+	<SRAUGCourse rdf:ID="SRA111" />
+	<SRAUGCourse rdf:ID="SRA211" />
+	<SRAUGCourse rdf:ID="SRA221" />
+	<SRAUGCourse rdf:ID="SRA231" />
+
+	<ISTGRCourse rdf:ID="IST501" />
+	<ISTGRCourse rdf:ID="IST521" />
+	<ISTGRCourse rdf:ID="IST522" />
+	<ISTGRCourse rdf:ID="IST531" />
 </rdf:RDF>

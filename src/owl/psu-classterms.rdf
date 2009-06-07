@@ -1,0 +1,227 @@
+<?xml version="1.0"?>
+<!DOCTYPE rdf:RDF [<!ENTITY xsd "http://www.w3.org/2001/XMLSchema#">]>
+
+<rdf:RDF   
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"  
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:psu="http://www.personal.psu.edu/bjp108/owl/psu.rdf#"
+  xml:base="http://www.personal.psu.edu/bjp108/owl/psu-classterms.rdf">
+
+  <!-- Produced from isiscodesets.cmtrxytm -->
+	
+	<psu:AcademicTerm rdf:ID="" rdfs:label="" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="198383FA" rdfs:label="FALL 1983" rdfs:comment="FALL 1983" />
+	
+	<psu:AcademicTerm rdf:ID="198384SP" rdfs:label="SPRING 1984" rdfs:comment="SPRING 1984" />
+	
+	<psu:AcademicTerm rdf:ID="198384SU" rdfs:label="SUMMER 1984" rdfs:comment="SUMMER 1984" />
+	
+	<psu:AcademicTerm rdf:ID="198484FA" rdfs:label="FALL 1984" rdfs:comment="FALL 1984" />
+	
+	<psu:AcademicTerm rdf:ID="198485SP" rdfs:label="SPRING 1985" rdfs:comment="SPRING 1985" />
+	
+	<psu:AcademicTerm rdf:ID="198485SU" rdfs:label="SUMMER 1985" rdfs:comment="SUMMER 1985" />
+	
+	<psu:AcademicTerm rdf:ID="198585FA" rdfs:label="FALL 1985" rdfs:comment="FALL 1985" />
+	
+	<psu:AcademicTerm rdf:ID="198586SP" rdfs:label="SPRING 1986" rdfs:comment="SPRING 1986" />
+	
+	<psu:AcademicTerm rdf:ID="198586SU" rdfs:label="SUMMER 1986" rdfs:comment="SUMMER 1986" />
+	
+	<psu:AcademicTerm rdf:ID="198686FA" rdfs:label="FALL 1986" rdfs:comment="FALL 1986" />
+	
+	<psu:AcademicTerm rdf:ID="198687SP" rdfs:label="SPRING 1987" rdfs:comment="SPRING 1987" />
+	
+	<psu:AcademicTerm rdf:ID="198687SU" rdfs:label="SUMMER 1987" rdfs:comment="SUMMER 1987" />
+	
+	<psu:AcademicTerm rdf:ID="198787FA" rdfs:label="FALL 1987" rdfs:comment="FALL 1987" />
+	
+	<psu:AcademicTerm rdf:ID="198788SP" rdfs:label="SPRING 1988" rdfs:comment="SPRING 1988" />
+	
+	<psu:AcademicTerm rdf:ID="198788SU" rdfs:label="SUMMER 1988" rdfs:comment="SUMMER 1988" />
+	
+	<psu:AcademicTerm rdf:ID="198888FA" rdfs:label="FALL 1988" rdfs:comment="FALL 1988" />
+	
+	<psu:AcademicTerm rdf:ID="198889SP" rdfs:label="SPRING 1989" rdfs:comment="SPRING 1989" />
+	
+	<psu:AcademicTerm rdf:ID="198889SU" rdfs:label="SUMMER 1989" rdfs:comment="SUMMER 1989" />
+	
+	<psu:AcademicTerm rdf:ID="198989FA" rdfs:label="FALL 1989" rdfs:comment="FALL 1989" />
+	
+	<psu:AcademicTerm rdf:ID="198990SP" rdfs:label="SPRING 1990" rdfs:comment="SPRING 1990" />
+	
+	<psu:AcademicTerm rdf:ID="198990SU" rdfs:label="SUMMER 1990" rdfs:comment="SUMMER 1990" />
+	
+	<psu:AcademicTerm rdf:ID="199090FA" rdfs:label="FALL 1990" rdfs:comment="FALL 1990" />
+	
+	<psu:AcademicTerm rdf:ID="199091SP" rdfs:label="SPRING 1991" rdfs:comment="SPRING 1991" />
+	
+	<psu:AcademicTerm rdf:ID="199091SU" rdfs:label="SUMMER 1991" rdfs:comment="SUMMER 1991" />
+	
+	<psu:AcademicTerm rdf:ID="199191FA" rdfs:label="FALL 1991" rdfs:comment="FALL 1991" />
+	
+	<psu:AcademicTerm rdf:ID="199192SP" rdfs:label="SPRING 1992" rdfs:comment="SPRING 1992" />
+	
+	<psu:AcademicTerm rdf:ID="199192SU" rdfs:label="SUMMER 1992" rdfs:comment="SUMMER 1992" />
+	
+	<psu:AcademicTerm rdf:ID="199292FA" rdfs:label="FALL 1992" rdfs:comment="FALL 1992" />
+	
+	<psu:AcademicTerm rdf:ID="199293SP" rdfs:label="SPRING 1993" rdfs:comment="SPRING 1993" />
+	
+	<psu:AcademicTerm rdf:ID="199293SU" rdfs:label="SUMMER 1993" rdfs:comment="SUMMER 1993" />
+	
+	<psu:AcademicTerm rdf:ID="199393FA" rdfs:label="FALL 1993" rdfs:comment="FALL 1993" />
+	
+	<psu:AcademicTerm rdf:ID="199394SP" rdfs:label="SPRING 1994" rdfs:comment="SPRING 1994" />
+	
+	<psu:AcademicTerm rdf:ID="199394SU" rdfs:label="SUMMER 1994" rdfs:comment="SUMMER 1994" />
+	
+	<psu:AcademicTerm rdf:ID="199494FA" rdfs:label="FALL 1994" rdfs:comment="FALL 1994" />
+	
+	<psu:AcademicTerm rdf:ID="199495SP" rdfs:label="SPRING 1995" rdfs:comment="SPRING 1995" />
+	
+	<psu:AcademicTerm rdf:ID="199495SU" rdfs:label="SUMMER 1995" rdfs:comment="SUMMER 1995" />
+	
+	<psu:AcademicTerm rdf:ID="199595FA" rdfs:label="FALL 1995" rdfs:comment="FALL 1995" />
+	
+	<psu:AcademicTerm rdf:ID="199596SP" rdfs:label="SPRING 1996" rdfs:comment="SPRING 1996" />
+	
+	<psu:AcademicTerm rdf:ID="199596SU" rdfs:label="SUMMER 1996" rdfs:comment="SUMMER 1996" />
+	
+	<psu:AcademicTerm rdf:ID="199696FA" rdfs:label="FALL 1996" rdfs:comment="FALL 1996" />
+	
+	<psu:AcademicTerm rdf:ID="199697SP" rdfs:label="SPRING 1997" rdfs:comment="SPRING 1997" />
+	
+	<psu:AcademicTerm rdf:ID="199697SU" rdfs:label="SUMMER 1997" rdfs:comment="SUMMER 1997" />
+	
+	<psu:AcademicTerm rdf:ID="199797FA" rdfs:label="FALL 1997" rdfs:comment="FALL 1997" />
+	
+	<psu:AcademicTerm rdf:ID="199798SP" rdfs:label="SPRING 1998" rdfs:comment="SPRING 1998" />
+	
+	<psu:AcademicTerm rdf:ID="199798SU" rdfs:label="SUMMER 1998" rdfs:comment="SUMMER 1998" />
+	
+	<psu:AcademicTerm rdf:ID="199898FA" rdfs:label="FALL 1998" rdfs:comment="FALL 1998" />
+	
+	<psu:AcademicTerm rdf:ID="199899SP" rdfs:label="SPRING 1999" rdfs:comment="SPRING 1999" />
+	
+	<psu:AcademicTerm rdf:ID="199899SU" rdfs:label="SUMMER 1999" rdfs:comment="SUMMER 1999" />
+	
+	<psu:AcademicTerm rdf:ID="199900FA" rdfs:label="FALL 1999" rdfs:comment="FALL 1999" />
+	
+	<psu:AcademicTerm rdf:ID="199900SP" rdfs:label="SPRING 2000" rdfs:comment="SPRING 2000" />
+	
+	<psu:AcademicTerm rdf:ID="199900SU" rdfs:label="SUMMER 2000" rdfs:comment="SUMMER 2000" />
+	
+	<psu:AcademicTerm rdf:ID="200001FA" rdfs:label="FALL 2000" rdfs:comment="FALL 2000" />
+	
+	<psu:AcademicTerm rdf:ID="200001SP" rdfs:label="SPRING 2001" rdfs:comment="SPRING 2001" />
+	
+	<psu:AcademicTerm rdf:ID="200001SU" rdfs:label="SUMMER 2001" rdfs:comment="SUMMER 2001" />
+	
+	<psu:AcademicTerm rdf:ID="200102FA" rdfs:label="FALL 2001" rdfs:comment="FALL 2001" />
+	
+	<psu:AcademicTerm rdf:ID="200102SP" rdfs:label="SPRING 2002" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="200102SU" rdfs:label="SUMMER 2002" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="200203FA" rdfs:label="FALL 2002" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="200203SP" rdfs:label="SPRING 2003" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="200203SU" rdfs:label="SUMMER 2003" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="200304FA" rdfs:label="FALL 2003" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="200304SP" rdfs:label="SPRING 2004" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="200304SU" rdfs:label="SUMMER 2004" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="200405FA" rdfs:label="FALL 2004" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="200405SP" rdfs:label="SPRING 2005" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="200405SU" rdfs:label="SUMMER 2005" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="200506FA" rdfs:label="FALL 2005" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="200506SP" rdfs:label="SPRING 2006" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="200506SU" rdfs:label="SUMMER 2006" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="200607FA" rdfs:label="FALL 2006" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="200607SP" rdfs:label="SPRING 2007" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="200607SU" rdfs:label="SUMMER 2007" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="200708FA" rdfs:label="FALL 2007" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="200708SP" rdfs:label="SPRING 2008" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="200708SU" rdfs:label="SUMMER 2008" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="200809FA" rdfs:label="FALL 2008" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="200809SP" rdfs:label="SPRING 2009" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="200809SU" rdfs:label="SUMMER 2009" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="200910FA" rdfs:label="FALL 2009" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="200910SP" rdfs:label="SPRING 2010" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="200910SU" rdfs:label="SUMMER 2010" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="201011FA" rdfs:label="FALL 2010" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="201011SP" rdfs:label="SPRING 2011" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="201011SU" rdfs:label="SUMMER 2011" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="201112FA" rdfs:label="FALL 2011" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="201112SP" rdfs:label="SPRING 2012" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="201112SU" rdfs:label="SUMMER 2012" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="201213FA" rdfs:label="FALL 2012" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="201213SP" rdfs:label="SPRING 2013" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="201213SU" rdfs:label="SUMMER 2013" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="201314FA" rdfs:label="FALL 2013" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="201314SP" rdfs:label="SPRING 2014" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="201314SU" rdfs:label="SUMMER 2014" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="201415FA" rdfs:label="FALL 2014" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="201415SP" rdfs:label="SPRING 2015" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="201415SU" rdfs:label="SUMMER 2015" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="201516FA" rdfs:label="FALL 2015" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="201516SP" rdfs:label="SPRING 2016" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="201516SU" rdfs:label="SUMMER 2016" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="201617FA" rdfs:label="FALL 2016" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="201617SP" rdfs:label="SPRING 2017" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="201617SU" rdfs:label="SUMMER 2017" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="201718FA" rdfs:label="FALL 2017" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="201718SP" rdfs:label="SPRING 2018" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="201718SU" rdfs:label="SUMMER 2018" rdfs:comment="" />
+	
+	<psu:AcademicTerm rdf:ID="201819FA" rdfs:label="FALL 2018" rdfs:comment="" />
+	
+</rdf:RDF>
+

@@ -45,6 +45,14 @@
 	  <rdfs:subClassOf rdf:resource="#AcademicProgram"/>
 	</rdfs:Class>
 
+	<rdfs:Class rdf:ID="DegreeMinorField">
+	  <rdfs:subClassOf rdf:resource="#AcademicProgram"/>
+	</rdfs:Class>
+
+	<rdfs:Class rdf:ID="DegreeProgramOption">
+	  <rdfs:subClassOf rdf:resource="#AcademicProgram"/>
+	</rdfs:Class>
+
 	<!-- ====================== Undergraduate Programs ====================== -->
 	<rdfs:Class rdf:ID="AssociateDegreeProgram">
 	  <rdfs:subClassOf rdf:resource="#UndergraduateDegreeProgram"/>
@@ -89,7 +97,36 @@
 	</rdfs:Class>
 	
 	<!-- ====================== Academic Units ====================== -->
-	<rdfs:Class rdf:ID="College"/>
+	<rdfs:Class rdf:ID="AcademicUnit"/>
+
+	<rdfs:Class rdf:ID="College">
+		  <rdfs:subClassOf rdf:resource="#AcademicUnit"/>
+	</rdfs:Class>
+
+	<rdfs:Class rdf:ID="School">
+		  <rdfs:subClassOf rdf:resource="#AcademicUnit"/>
+	</rdfs:Class>
+
+	<rdfs:Class rdf:ID="Department">
+		  <rdfs:subClassOf rdf:resource="#AcademicUnit"/>
+	</rdfs:Class>
 	
+	<!-- ====================== Predicates ====================== -->
+
+	<rdf:Property rdf:ID="isSubUnitOf">
+		<rdfs:domain rdf:resource="#AcademicUnit" />
+		<rdfs:range rdf:resource="#AcademicUnit" />
+	</rdf:Property>
+
+	<rdf:Property rdf:ID="isOfferedBy">
+		<rdfs:domain rdf:resource="#Course" />
+		<rdfs:range rdf:resource="#AcademicUnit" />
+	</rdf:Property>
+
+	<rdf:Property rdf:ID="hasShortDescription">
+		<rdfs:domain rdf:resource="#AcademicUnit" />
+		<rdfs:range  />
+	</rdf:Property>
+
 
 </rdf:RDF>

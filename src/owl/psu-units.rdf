@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<!DOCTYPE rdf:RDF [<!ENTITY xsd "http://www.w3.org/2001/XMLSchema#">]>
+
+<rdf:RDF   
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"  
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:psu="http://www.personal.psu.edu/bjp108/owl/psu.rdf#"
+  xml:base="http://www.personal.psu.edu/bjp108/owl/psu-units.rdf">
+
+  <!-- Produced from isiscodesets.ccoll -->
+	
+	<psu:AcademicUnit rdf:ID="AA" rdfs:label="A &amp; A" rdfs:comment="ARTS AND ARCHITECTURE" />
+	
+	<psu:AcademicUnit rdf:ID="AB" rdfs:label="AB" rdfs:comment="ABINGTON COLLEGE" />
+	
+	<psu:AcademicUnit rdf:ID="AG" rdfs:label="AG" rdfs:comment="AGRICULTURAL SCIENCES" />
+	
+	<psu:AcademicUnit rdf:ID="AL" rdfs:label="AL" rdfs:comment="ALTOONA COLLEGE" />
+	
+	<psu:AcademicUnit rdf:ID="BA" rdfs:label="B A" rdfs:comment="BUSINESS" />
+	
+	<psu:AcademicUnit rdf:ID="BC" rdfs:label="B COL" rdfs:comment="BEHREND COLLEGE" />
+	
+	<psu:AcademicUnit rdf:ID="BL" rdfs:label="BL" rdfs:comment="BERKS COLLEGE" />
+	
+	<psu:AcademicUnit rdf:ID="CA" rdfs:label="C COL" rdfs:comment="CAPITAL COLLEGE" />
+	
+	<psu:AcademicUnit rdf:ID="CC" rdfs:label="CC" rdfs:comment="UNIVERSITY COLLEGE" />
+	
+	<psu:AcademicUnit rdf:ID="CM" rdfs:label="COMM" rdfs:comment="COMMUNICATIONS                                                                                                                                                                                          COLLEGE OF COMMUNICATIONS" />
+	
+	<psu:AcademicUnit rdf:ID="DU" rdfs:label="D U S" rdfs:comment="DIVISION OF UNDERGRADUATE STUDIES" />
+	
+	<psu:AcademicUnit rdf:ID="ED" rdfs:label="ED" rdfs:comment="EDUCATION" />
+	
+	<psu:AcademicUnit rdf:ID="EM" rdfs:label="EM SC" rdfs:comment="EARTH AND MINERAL SCIENCES" />
+	
+	<psu:AcademicUnit rdf:ID="EN" rdfs:label="ENGR" rdfs:comment="ENGINEERING" />
+	
+	<psu:AcademicUnit rdf:ID="GN" rdfs:label="GR ND" rdfs:comment="GRADUATE NON-DEGREE" />
+	
+	<psu:AcademicUnit rdf:ID="GV" rdfs:label="GV" rdfs:comment="SCHOOL OF GRADUATE PROFESSIONAL STUDIES                                                                                                                                                                 EFF=SU98 NEW NAME EFF=SU98" />
+	
+	<psu:AcademicUnit rdf:ID="HD" rdfs:label="H DEV" rdfs:comment="HUMAN DEVELOPMENT                                                                                                                                                                                       END SP87 NOW HH EFF SU87" />
+	
+	<psu:AcademicUnit rdf:ID="HH" rdfs:label="H H D" rdfs:comment="HEALTH AND HUMAN DEVELOPMENT                                                                                                                                                                            EFF SU87" />
+	
+	<psu:AcademicUnit rdf:ID="HP" rdfs:label="HP ER" rdfs:comment="HEALTH, PHYSICAL EDUCATION &amp; RECREATION                                                                                                                                                                 END SP87 NOW HH EFF SU87" />
+	
+	<psu:AcademicUnit rdf:ID="IA" rdfs:label="IA" rdfs:comment="SCHOOL OF INTERNATIONAL AFFAIRS" />
+	
+	<psu:AcademicUnit rdf:ID="IC" rdfs:label="I COL" rdfs:comment="INTERCOLLEGE UNDERGRADUATE PROGRAMS" />
+	
+	<psu:AcademicUnit rdf:ID="ID" rdfs:label="I DIS" rdfs:comment="INTERDISCIPLINARY GRADUATE PROGRAMS" />
+	
+	<psu:AcademicUnit rdf:ID="IS" rdfs:label="I S T" rdfs:comment="INFORMATION SCIENCES AND TECHNOLOGY" />
+	
+	<psu:AcademicUnit rdf:ID="LA" rdfs:label="L A" rdfs:comment="THE LIBERAL ARTS" />
+	
+	<psu:AcademicUnit rdf:ID="LW" rdfs:label="LAW" rdfs:comment="DICKINSON SCHOOL OF LAW                                                                                                                                                                                 EFF 7/1/97" />
+	
+	<psu:AcademicUnit rdf:ID="MD" rdfs:label="MED" rdfs:comment="COLLEGE OF MEDICINE" />
+	
+	<psu:AcademicUnit rdf:ID="MS" rdfs:label="ROTC" rdfs:comment="ROTC" />
+	
+	<psu:AcademicUnit rdf:ID="NR" rdfs:label="NR" rdfs:comment="SCHOOL OF NURSING" />
+	
+	<psu:AcademicUnit rdf:ID="SC" rdfs:label="SC" rdfs:comment="SCIENCE" />
+	
+	<psu:AcademicUnit rdf:ID="UN" rdfs:label="UG ND" rdfs:comment="UNDERGRADUATE NON-DEGREE" />
+	
+	<psu:AcademicUnit rdf:ID="XX" rdfs:label="REG" rdfs:comment="THIS CODE DOES NOT REPRESENT A VALID COLLEGE BUT  RATHER ESTABLISHES A COLLEGE-LIKE UNIT FOR PURPOSES OF SORTING TO WHICH ITEMS CAN BE ASSIGNED THAT  ARE REQUIRED BUT DO NOT BELONG TO A PARTICULAR COLLEGE. ASSIGNED TO REGISTRAR." />
+	
+</rdf:RDF>
+

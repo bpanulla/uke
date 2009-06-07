@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<!DOCTYPE rdf:RDF [<!ENTITY xsd "http://www.w3.org/2001/XMLSchema#">]>
+
+<rdf:RDF   
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"  
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:psu="http://www.personal.psu.edu/bjp108/owl/psu.rdf#"
+  xml:base="http://www.personal.psu.edu/bjp108/owl/psu-locations.rdf">
+
+  <!-- Produced from isiscodesets.clocn -->
+	
+	<psu:AcademicLocation rdf:ID="" rdfs:label="" rdfs:comment="" />
+	
+	<psu:AcademicLocation rdf:ID="AA" rdfs:label="ALTOONA" rdfs:comment="ALTOONA CAMPUS                                    SOUTHWEST" />
+	
+	<psu:AcademicLocation rdf:ID="AN" rdfs:label="LEHIGH VALLEY" rdfs:comment="LEHIGH VALLEY CAMPUS                              SOUTHEAST" />
+	
+	<psu:AcademicLocation rdf:ID="BD" rdfs:label="ERIE" rdfs:comment="PENN STATE ERIE, THE BEHREND COLLEGE                                                                                                                                                                                                FINAL EXAM=Y" />
+	
+	<psu:AcademicLocation rdf:ID="BK" rdfs:label="BERKS" rdfs:comment="BERKS CAMPUS                                      SOUTHEAST                                                                                                                                                                         FINAL EXAM=Y" />
+	
+	<psu:AcademicLocation rdf:ID="BR" rdfs:label="BEAVER" rdfs:comment="BEAVER CAMPUS                                     SOUTHWEST" />
+	
+	<psu:AcademicLocation rdf:ID="CL" rdfs:label="HARRISBURG" rdfs:comment="PENN STATE HARRISBURG, THE CAPITAL COLLEGE" />
+	
+	<psu:AcademicLocation rdf:ID="DE" rdfs:label="BRANDYWINE" rdfs:comment="BRANDYWINE CAMPUS                                 SOUTHEAST" />
+	
+	<psu:AcademicLocation rdf:ID="DN" rdfs:label="CARLISLE" rdfs:comment="CARLISLE CAMPUS" />
+	
+	<psu:AcademicLocation rdf:ID="DS" rdfs:label="DU BOIS" rdfs:comment="DUBOIS CAMPUS                                     CENTRAL" />
+	
+	<psu:AcademicLocation rdf:ID="FE" rdfs:label="FAYETTE" rdfs:comment="FAYETTE CAMPUS                                    SOUTHWEST                                                                                                                                                                         FINAL EXAM=Y" />
+	
+	<psu:AcademicLocation rdf:ID="HN" rdfs:label="HAZLETON" rdfs:comment="HAZLETON CAMPUS                                   NORTHEAST" />
+	
+	<psu:AcademicLocation rdf:ID="HY" rdfs:label="HERSHEY MED CTR" rdfs:comment="MILTON S. HERSHEY MEDICAL CENTER                  CENTRAL" />
+	
+	<psu:AcademicLocation rdf:ID="KP" rdfs:label="GREAT VALLEY" rdfs:comment="PENN STATE GREAT VALLEY                           SOUTHEAST                                                                                           FORMERLY KING OF PRUSSIA GRADUATE CENTER          CHANGED ON 7/15/88" />
+	
+	<psu:AcademicLocation rdf:ID="MA" rdfs:label="MONT ALTO" rdfs:comment="MONT ALTO CAMPUS                                  CENTRAL" />
+	
+	<psu:AcademicLocation rdf:ID="MK" rdfs:label="GREATER ALLEGHENY" rdfs:comment="GREATER ALLEGHENY CAMPUS                          SOUTHWEST                                                                                                                                                                         FINAL EXAM=Y" />
+	
+	<psu:AcademicLocation rdf:ID="NK" rdfs:label="NEW KENSINGTON" rdfs:comment="NEW KENSINGTON CAMPUS                             SOUTHWEST" />
+	
+	<psu:AcademicLocation rdf:ID="OZ" rdfs:label="ABINGTON" rdfs:comment="ABINGTON CAMPUS                                   SOUTHEAST" />
+	
+	<psu:AcademicLocation rdf:ID="PC" rdfs:label="PENN COLLEGE" rdfs:comment="PENNSYLVANIA COLLEGE OF TECHNOLOGY CAMPUS" />
+	
+	<psu:AcademicLocation rdf:ID="SL" rdfs:label="SCHUYLKILL" rdfs:comment="SCHUYLKILL CAMPUS                                 NORTHEAST                                                                                                                                                                         FINAL EXAM=Y" />
+	
+	<psu:AcademicLocation rdf:ID="SV" rdfs:label="SHENANGO" rdfs:comment="SHENANGO CAMPUS                                   SOUTHWEST                                                                                                                                                                         FINAL EXAM=Y" />
+	
+	<psu:AcademicLocation rdf:ID="UP" rdfs:label="UNIVERSITY PARK" rdfs:comment="UNIVERSITY PARK CAMPUS                            UNIVERSITY PARK                                                                                                                                                                   FINAL EXAM=Y" />
+	
+	<psu:AcademicLocation rdf:ID="WB" rdfs:label="WILKES-BARRE" rdfs:comment="WILKES-BARRE CAMPUS                               NORTHEAST" />
+	
+	<psu:AcademicLocation rdf:ID="WD" rdfs:label="WORLD CAMPUS" rdfs:comment="WORLD CAMPUS" />
+	
+	<psu:AcademicLocation rdf:ID="WS" rdfs:label="WORTHINGTON SCRANTON" rdfs:comment="WORTHINGTON SCRANTON CAMPUS                       NORTHEAST" />
+	
+	<psu:AcademicLocation rdf:ID="XC" rdfs:label="STATE COLLEGE" rdfs:comment="STATE COLLEGE CONTINUING EDUCATION                STATE COLLEGE" />
+	
+	<psu:AcademicLocation rdf:ID="XP" rdfs:label="KELLER CONF. CENTER" rdfs:comment="KELLER CONFERENCE CENTER AT UNIVERSITY PARK.      KELLER CONF. CENTER" />
+	
+	<psu:AcademicLocation rdf:ID="XS" rdfs:label="FOREIGN STUDIES" rdfs:comment="FOREIGN STUDIES PROGRAM" />
+	
+	<psu:AcademicLocation rdf:ID="YK" rdfs:label="YORK" rdfs:comment="YORK CAMPUS                                       CENTRAL" />
+	
+</rdf:RDF>
+
