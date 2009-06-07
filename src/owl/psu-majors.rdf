@@ -9,1537 +9,1538 @@
 
   <!-- Produced from isiscodesets.cmajrcho -->
 	
-	<psu:DegreeProgram rdf:ID="2BACA" rdfs:label="2YR-BUSINESS ADMN" rdfs:comment="2-YEAR BUSINESS ADMINISTRATION" />
 	
-	<psu:DegreeProgram rdf:ID="2BACC" rdfs:label="2YR-BUSINESS-ADMN" rdfs:comment="2-YEAR BUSINESS ADMINISTRATION" />
+	<psu:DegreeProgram rdf:ID="_2BACA" psu:hasLegacyId="2BACA" rdfs:label="2YR-BUSINESS ADMN" rdfs:comment="2-YEAR BUSINESS ADMINISTRATION" />
 	
-	<psu:DegreeProgram rdf:ID="2BEST" rdfs:label="2YR-BLD-ENGY-SYS-TEC" rdfs:comment="2-YEAR BUILDING ENERGY SYSTEMS TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_2BACC" psu:hasLegacyId="2BACC" rdfs:label="2YR-BUSINESS-ADMN" rdfs:comment="2-YEAR BUSINESS ADMINISTRATION" />
 	
-	<psu:DegreeProgram rdf:ID="2BLET" rdfs:label="2YR-BLDG-ENG-TECH" rdfs:comment="2-YEAR BUILDING ENGINEERING TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_2BEST" psu:hasLegacyId="2BEST" rdfs:label="2YR-BLD-ENGY-SYS-TEC" rdfs:comment="2-YEAR BUILDING ENERGY SYSTEMS TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="2CPET" rdfs:label="2YR-CMPTER-ENG-TECH" rdfs:comment="2-YEAR COMPUTER ENGINEERING TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_2BLET" psu:hasLegacyId="2BLET" rdfs:label="2YR-BLDG-ENG-TECH" rdfs:comment="2-YEAR BUILDING ENGINEERING TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="2CPSC" rdfs:label="2YR-COMPUTER-SCI" rdfs:comment="2-YEAR COMPUTER SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_2CPET" psu:hasLegacyId="2CPET" rdfs:label="2YR-CMPTER-ENG-TECH" rdfs:comment="2-YEAR COMPUTER ENGINEERING TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="2EDSM" rdfs:label="2YR-DIETETIC-DIST-ED" rdfs:comment="2-YEAR DIETETIC PROGRAMS VIA DISTANCE EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_2CPSC" psu:hasLegacyId="2CPSC" rdfs:label="2YR-COMPUTER-SCI" rdfs:comment="2-YEAR COMPUTER SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="2EHFS" rdfs:label="2YR-HDV &amp; FAM ST-EX" rdfs:comment="2-YEAR HUMAN DEVELOPMENT &amp; FAMILY STUDIES" />
+	<psu:DegreeProgram rdf:ID="_2EDSM" psu:hasLegacyId="2EDSM" rdfs:label="2YR-DIETETIC-DIST-ED" rdfs:comment="2-YEAR DIETETIC PROGRAMS VIA DISTANCE EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="2EIFS" rdfs:label="2YR-INDI-FAM-ST-EX" rdfs:comment="2-YEAR INDIVIDUAL &amp; FAMILY STUDIES &amp; SERVICES" />
+	<psu:DegreeProgram rdf:ID="_2EHFS" psu:hasLegacyId="2EHFS" rdfs:label="2YR-HDV &amp; FAM ST-EX" rdfs:comment="2-YEAR HUMAN DEVELOPMENT &amp; FAMILY STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="2ELAS" rdfs:label="2YR-LTRS-ARTS-SC-EX" rdfs:comment="2-YEAR LETTERS, ARTS &amp; SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_2EIFS" psu:hasLegacyId="2EIFS" rdfs:label="2YR-INDI-FAM-ST-EX" rdfs:comment="2-YEAR INDIVIDUAL &amp; FAMILY STUDIES &amp; SERVICES" />
 	
-	<psu:DegreeProgram rdf:ID="2ELBR" rdfs:label="2YR-LABR-STDES-EX" rdfs:comment="2-YEAR LABOR STUDIES" />
+	<psu:DegreeProgram rdf:ID="_2ELAS" psu:hasLegacyId="2ELAS" rdfs:label="2YR-LTRS-ARTS-SC-EX" rdfs:comment="2-YEAR LETTERS, ARTS &amp; SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="2ESOC" rdfs:label="2YR-SOCIOLOGY-EXT" rdfs:comment="2-YEAR SOCIOLOGY" />
+	<psu:DegreeProgram rdf:ID="_2ELBR" psu:hasLegacyId="2ELBR" rdfs:label="2YR-LABR-STDES-EX" rdfs:comment="2-YEAR LABOR STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="2FORT" rdfs:label="2YR-FOREST-TECH" rdfs:comment="2-YEAR FOREST TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_2ESOC" psu:hasLegacyId="2ESOC" rdfs:label="2YR-SOCIOLOGY-EXT" rdfs:comment="2-YEAR SOCIOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="2FSAL" rdfs:label="2YR-HDV &amp; FAMILY STY" rdfs:comment="2-YEAR HUMAN DEVELOPMENT &amp; FAMILY STUDIES" />
+	<psu:DegreeProgram rdf:ID="_2FORT" psu:hasLegacyId="2FORT" rdfs:label="2YR-FOREST-TECH" rdfs:comment="2-YEAR FOREST TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="2FSCA" rdfs:label="2YR-HDV &amp; FAMILY STY" rdfs:comment="2-YEAR HUMAN DEVELOPMENT &amp; FAMILY STUDIES" />
+	<psu:DegreeProgram rdf:ID="_2FSAL" psu:hasLegacyId="2FSAL" rdfs:label="2YR-HDV &amp; FAMILY STY" rdfs:comment="2-YEAR HUMAN DEVELOPMENT &amp; FAMILY STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="2FSCC" rdfs:label="2YR-HDV &amp; FAMILY STY" rdfs:comment="2-YEAR HUMAN DEVELOPMENT &amp; FAMILY STUDIES" />
+	<psu:DegreeProgram rdf:ID="_2FSCA" psu:hasLegacyId="2FSCA" rdfs:label="2YR-HDV &amp; FAMILY STY" rdfs:comment="2-YEAR HUMAN DEVELOPMENT &amp; FAMILY STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="2GBBC" rdfs:label="2YR-GENERAL BUSINESS" rdfs:comment="2-YEAR GENERAL BUSINESS" />
+	<psu:DegreeProgram rdf:ID="_2FSCC" psu:hasLegacyId="2FSCC" rdfs:label="2YR-HDV &amp; FAMILY STY" rdfs:comment="2-YEAR HUMAN DEVELOPMENT &amp; FAMILY STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="2HRIM" rdfs:label="2YR-HTL-RES-IN-MG" rdfs:comment="2-YEAR HOTEL, RESTAURANT AND INSTL MANAGEMENT" />
+	<psu:DegreeProgram rdf:ID="_2GBBC" psu:hasLegacyId="2GBBC" rdfs:label="2YR-GENERAL BUSINESS" rdfs:comment="2-YEAR GENERAL BUSINESS" />
 	
-	<psu:DegreeProgram rdf:ID="2LAAB" rdfs:label="2YR-LTRS-ARTS-SCI" rdfs:comment="2-YEAR LETTERS, ARTS &amp; SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_2HRIM" psu:hasLegacyId="2HRIM" rdfs:label="2YR-HTL-RES-IN-MG" rdfs:comment="2-YEAR HOTEL, RESTAURANT AND INSTL MANAGEMENT" />
 	
-	<psu:DegreeProgram rdf:ID="2LAAL" rdfs:label="2YR-LTRS-ARTS-SCI" rdfs:comment="2-YEAR LETTERS, ARTS &amp; SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_2LAAB" psu:hasLegacyId="2LAAB" rdfs:label="2YR-LTRS-ARTS-SCI" rdfs:comment="2-YEAR LETTERS, ARTS &amp; SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="2LABC" rdfs:label="2YR-LTRS-ARTS-SCI" rdfs:comment="2-YEAR LETTERS, ARTS &amp; SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_2LAAL" psu:hasLegacyId="2LAAL" rdfs:label="2YR-LTRS-ARTS-SCI" rdfs:comment="2-YEAR LETTERS, ARTS &amp; SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="2LABL" rdfs:label="2YR-LTRS-ARTS-SCI" rdfs:comment="2-YEAR LETTERS, ARTS &amp; SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_2LABC" psu:hasLegacyId="2LABC" rdfs:label="2YR-LTRS-ARTS-SCI" rdfs:comment="2-YEAR LETTERS, ARTS &amp; SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="2LACA" rdfs:label="2YR-LTRS-ARTS-SCI" rdfs:comment="2-YEAR LETTERS, ARTS &amp; SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_2LABL" psu:hasLegacyId="2LABL" rdfs:label="2YR-LTRS-ARTS-SCI" rdfs:comment="2-YEAR LETTERS, ARTS &amp; SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="2LACC" rdfs:label="2YR-LTRS-ARTS-SCI" rdfs:comment="2-YEAR LETTERS, ARTS &amp; SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_2LACA" psu:hasLegacyId="2LACA" rdfs:label="2YR-LTRS-ARTS-SCI" rdfs:comment="2-YEAR LETTERS, ARTS &amp; SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="2MATE" rdfs:label="2YR-MATERLS-ENG-TECH" rdfs:comment="2-YEAR MATERIALS ENGINEERING TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_2LACC" psu:hasLegacyId="2LACC" rdfs:label="2YR-LTRS-ARTS-SCI" rdfs:comment="2-YEAR LETTERS, ARTS &amp; SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="2MCMP" rdfs:label="2YR-MICROCOMP-TEC" rdfs:comment="2-YEAR MICROCOMPUTER ENGINEERING TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_2MATE" psu:hasLegacyId="2MATE" rdfs:label="2YR-MATERLS-ENG-TECH" rdfs:comment="2-YEAR MATERIALS ENGINEERING TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="2MNGT" rdfs:label="2YR-MINING-TECH" rdfs:comment="2-YEAR MINING TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_2MCMP" psu:hasLegacyId="2MCMP" rdfs:label="2YR-MICROCOMP-TEC" rdfs:comment="2-YEAR MICROCOMPUTER ENGINEERING TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="2MTCC" rdfs:label="2YR-MANUFACTUR-TECH" rdfs:comment="2-YEAR MANUFACTURING TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_2MNGT" psu:hasLegacyId="2MNGT" rdfs:label="2YR-MINING-TECH" rdfs:comment="2-YEAR MINING TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="2NURS" rdfs:label="2YR-NURSING" rdfs:comment="2-YEAR NURSING" />
+	<psu:DegreeProgram rdf:ID="_2MTCC" psu:hasLegacyId="2MTCC" rdfs:label="2YR-MANUFACTUR-TECH" rdfs:comment="2-YEAR MANUFACTURING TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="2OTBL" rdfs:label="2YR-OCCUPTNL THERAPY" rdfs:comment="2-YEAR OCCUPATIONAL THERAPY" />
+	<psu:DegreeProgram rdf:ID="_2NURS" psu:hasLegacyId="2NURS" rdfs:label="2YR-NURSING" rdfs:comment="2-YEAR NURSING" />
 	
-	<psu:DegreeProgram rdf:ID="2OTCC" rdfs:label="2YR-OCCUPTNL THERAPY" rdfs:comment="2-YEAR OCCUPATIONAL THERAPY" />
+	<psu:DegreeProgram rdf:ID="_2OTBL" psu:hasLegacyId="2OTBL" rdfs:label="2YR-OCCUPTNL THERAPY" rdfs:comment="2-YEAR OCCUPATIONAL THERAPY" />
 	
-	<psu:DegreeProgram rdf:ID="2PBDC" rdfs:label="2YR-PROV-BEHREND COL" rdfs:comment="2-YEAR PROVISIONAL-BEHREND COLLEGE" />
+	<psu:DegreeProgram rdf:ID="_2OTCC" psu:hasLegacyId="2OTCC" rdfs:label="2YR-OCCUPTNL THERAPY" rdfs:comment="2-YEAR OCCUPATIONAL THERAPY" />
 	
-	<psu:DegreeProgram rdf:ID="2PEMS" rdfs:label="2YR-PROV-E-&amp;-M-SC" rdfs:comment="2-YEAR PROVISIONAL-EARTH &amp; MINERAL SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_2PBDC" psu:hasLegacyId="2PBDC" rdfs:label="2YR-PROV-BEHREND COL" rdfs:comment="2-YEAR PROVISIONAL-BEHREND COLLEGE" />
 	
-	<psu:DegreeProgram rdf:ID="2PENG" rdfs:label="2YR-PROV-ENGINRNG" rdfs:comment="2-YEAR PROVISIONAL-ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_2PEMS" psu:hasLegacyId="2PEMS" rdfs:label="2YR-PROV-E-&amp;-M-SC" rdfs:comment="2-YEAR PROVISIONAL-EARTH &amp; MINERAL SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="2PHDV" rdfs:label="2YR-PROV-HUMN-DEV" rdfs:comment="2-YEAR PROVISIONAL-HUMAN DEVELOPMENT" />
+	<psu:DegreeProgram rdf:ID="_2PENG" psu:hasLegacyId="2PENG" rdfs:label="2YR-PROV-ENGINRNG" rdfs:comment="2-YEAR PROVISIONAL-ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="2PHPE" rdfs:label="2YR-PROV-H-PE-&amp;-R" rdfs:comment="2-YEAR PROVISIONAL-HEALTH, PH ED &amp; RECREATION" />
+	<psu:DegreeProgram rdf:ID="_2PHDV" psu:hasLegacyId="2PHDV" rdfs:label="2YR-PROV-HUMN-DEV" rdfs:comment="2-YEAR PROVISIONAL-HUMAN DEVELOPMENT" />
 	
-	<psu:DegreeProgram rdf:ID="2PLET" rdfs:label="2YR-PLSTCS-ENG-TECH" rdfs:comment="2-YEAR PLASTICS ENGINEERING TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_2PHPE" psu:hasLegacyId="2PHPE" rdfs:label="2YR-PROV-H-PE-&amp;-R" rdfs:comment="2-YEAR PROVISIONAL-HEALTH, PH ED &amp; RECREATION" />
 	
-	<psu:DegreeProgram rdf:ID="2PRAG" rdfs:label="2YR-PROV-AGRICLTR" rdfs:comment="2-YEAR PROVISIONAL-AGRICULTURE" />
+	<psu:DegreeProgram rdf:ID="_2PLET" psu:hasLegacyId="2PLET" rdfs:label="2YR-PLSTCS-ENG-TECH" rdfs:comment="2-YEAR PLASTICS ENGINEERING TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="2PRBA" rdfs:label="2YR-PROV-BUS-ADMN" rdfs:comment="2-YEAR PROVISIONAL-BUSINESS ADMINISTRATION" />
+	<psu:DegreeProgram rdf:ID="_2PRAG" psu:hasLegacyId="2PRAG" rdfs:label="2YR-PROV-AGRICLTR" rdfs:comment="2-YEAR PROVISIONAL-AGRICULTURE" />
 	
-	<psu:DegreeProgram rdf:ID="2PRED" rdfs:label="2YR-PROV-EDUCATION" rdfs:comment="2-YEAR PROVISIONAL-EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_2PRBA" psu:hasLegacyId="2PRBA" rdfs:label="2YR-PROV-BUS-ADMN" rdfs:comment="2-YEAR PROVISIONAL-BUSINESS ADMINISTRATION" />
 	
-	<psu:DegreeProgram rdf:ID="2PRHH" rdfs:label="2YR-PROV-HL-HUMN-DEV" rdfs:comment="2-YEAR PROVISIONAL-HEALTH &amp; HUMAN DEVELOPMENT" />
+	<psu:DegreeProgram rdf:ID="_2PRED" psu:hasLegacyId="2PRED" rdfs:label="2YR-PROV-EDUCATION" rdfs:comment="2-YEAR PROVISIONAL-EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="2PRIS" rdfs:label="2YR-PROV-INF-SCI&amp;TEC" rdfs:comment="2-YEAR PROVISIONAL INFO SCIENCES &amp; TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_2PRHH" psu:hasLegacyId="2PRHH" rdfs:label="2YR-PROV-HL-HUMN-DEV" rdfs:comment="2-YEAR PROVISIONAL-HEALTH &amp; HUMAN DEVELOPMENT" />
 	
-	<psu:DegreeProgram rdf:ID="2PRLA" rdfs:label="2YR-PROV-LIB-ARTS" rdfs:comment="2-YEAR PROVISIONAL-LIBERAL ARTS" />
+	<psu:DegreeProgram rdf:ID="_2PRIS" psu:hasLegacyId="2PRIS" rdfs:label="2YR-PROV-INF-SCI&amp;TEC" rdfs:comment="2-YEAR PROVISIONAL INFO SCIENCES &amp; TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="2PROV" rdfs:label="2YR-PROVISIONAL" rdfs:comment="2-YEAR PROVISIONAL" />
+	<psu:DegreeProgram rdf:ID="_2PRLA" psu:hasLegacyId="2PRLA" rdfs:label="2YR-PROV-LIB-ARTS" rdfs:comment="2-YEAR PROVISIONAL-LIBERAL ARTS" />
 	
-	<psu:DegreeProgram rdf:ID="2PRSC" rdfs:label="2YR-PROV-SCIENCE" rdfs:comment="2-YEAR PROVISIONAL-SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_2PROV" psu:hasLegacyId="2PROV" rdfs:label="2YR-PROVISIONAL" rdfs:comment="2-YEAR PROVISIONAL" />
 	
-	<psu:DegreeProgram rdf:ID="2PRVC" rdfs:label="2YR-PROV CONT ED" rdfs:comment="2-YEAR PROVISIONAL-CONTINUING EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_2PRSC" psu:hasLegacyId="2PRSC" rdfs:label="2YR-PROV-SCIENCE" rdfs:comment="2-YEAR PROVISIONAL-SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="2RSCA" rdfs:label="2YR-RADIOLOGICAL SC" rdfs:comment="2-YEAR RADIOLOGICAL SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_2PRVC" psu:hasLegacyId="2PRVC" rdfs:label="2YR-PROV CONT ED" rdfs:comment="2-YEAR PROVISIONAL-CONTINUING EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="2RSCC" rdfs:label="2YR-RADIOLOGICAL SC" rdfs:comment="2-YEAR RADIOLOGICAL SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_2RSCA" psu:hasLegacyId="2RSCA" rdfs:label="2YR-RADIOLOGICAL SC" rdfs:comment="2-YEAR RADIOLOGICAL SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="2SCAL" rdfs:label="2YR-SCIENCE" rdfs:comment="2-YEAR SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_2RSCC" psu:hasLegacyId="2RSCC" rdfs:label="2YR-RADIOLOGICAL SC" rdfs:comment="2-YEAR RADIOLOGICAL SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="2SCCA" rdfs:label="2YR-SCIENCE" rdfs:comment="2-YEAR SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_2SCAL" psu:hasLegacyId="2SCAL" rdfs:label="2YR-SCIENCE" rdfs:comment="2-YEAR SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="2SCCC" rdfs:label="2YR-SCIENCE" rdfs:comment="2-YEAR SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_2SCCA" psu:hasLegacyId="2SCCA" rdfs:label="2YR-SCIENCE" rdfs:comment="2-YEAR SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="2SOLR" rdfs:label="2YR-SOLAR-TECH" rdfs:comment="2-YEAR SOLAR &amp; THERMAL TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_2SCCC" psu:hasLegacyId="2SCCC" rdfs:label="2YR-SCIENCE" rdfs:comment="2-YEAR SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="2TELT" rdfs:label="2YR-TELECOMM-TECH" rdfs:comment="2-YEAR TELECOMMUNICATIONS TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_2SOLR" psu:hasLegacyId="2SOLR" rdfs:label="2YR-SOLAR-TECH" rdfs:comment="2-YEAR SOLAR &amp; THERMAL TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="MTHBD" rdfs:label="BD MATHEMATICS" rdfs:comment="BEHREND COLLEGE MATHEMATICS" />
+	<psu:DegreeProgram rdf:ID="_2TELT" psu:hasLegacyId="2TELT" rdfs:label="2YR-TELECOMM-TECH" rdfs:comment="2-YEAR TELECOMMUNICATIONS TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="MTHBS" rdfs:label="MATH- B S DEGREE" rdfs:comment="MATHEMATICS BACHELOR OF SCIENCE DEGREE" />
+	<psu:DegreeProgram rdf:ID="_MTHBD" psu:hasLegacyId="MTHBD" rdfs:label="BD MATHEMATICS" rdfs:comment="BEHREND COLLEGE MATHEMATICS" />
 	
-	<psu:DegreeProgram rdf:ID="MTSAL" rdfs:label="ALTOONA MATH B S" rdfs:comment="THE ALTOONA COLLEGE B. S. MATHEMATICS DEGREE" />
+	<psu:DegreeProgram rdf:ID="_MTHBS" psu:hasLegacyId="MTHBS" rdfs:label="MATH- B S DEGREE" rdfs:comment="MATHEMATICS BACHELOR OF SCIENCE DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="MU ED" rdfs:label="MUSIC EDUCATION" rdfs:comment="MUSIC EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_MTSAL" psu:hasLegacyId="MTSAL" rdfs:label="ALTOONA MATH B S" rdfs:comment="THE ALTOONA COLLEGE B. S. MATHEMATICS DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="MUBMA" rdfs:label="MUSICAL ARTS" rdfs:comment="MUSICAL ARTS" />
+	<psu:DegreeProgram rdf:ID="_MU_ED" psu:hasLegacyId="MU ED" rdfs:label="MUSIC EDUCATION" rdfs:comment="MUSIC EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="MUCND" rdfs:label="CONDUCTING" rdfs:comment="CONDUCTING" />
+	<psu:DegreeProgram rdf:ID="_MUBMA" psu:hasLegacyId="MUBMA" rdfs:label="MUSICAL ARTS" rdfs:comment="MUSICAL ARTS" />
 	
-	<psu:DegreeProgram rdf:ID="MUCOM" rdfs:label="COMPOSITION/THEORY" rdfs:comment="COMPOSITION/THEORY" />
+	<psu:DegreeProgram rdf:ID="_MUCND" psu:hasLegacyId="MUCND" rdfs:label="CONDUCTING" rdfs:comment="CONDUCTING" />
 	
-	<psu:DegreeProgram rdf:ID="MUMCY" rdfs:label="MUSICOLOGY" rdfs:comment="MUSICOLOGY" />
+	<psu:DegreeProgram rdf:ID="_MUCOM" psu:hasLegacyId="MUCOM" rdfs:label="COMPOSITION/THEORY" rdfs:comment="COMPOSITION/THEORY" />
 	
-	<psu:DegreeProgram rdf:ID="MUMTH" rdfs:label="MUSIC THEORY &amp; HIST" rdfs:comment="MUSIC THEORY AND HISTORY" />
+	<psu:DegreeProgram rdf:ID="_MUMCY" psu:hasLegacyId="MUMCY" rdfs:label="MUSICOLOGY" rdfs:comment="MUSICOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="MUPER" rdfs:label="PERFORMANCE" rdfs:comment="PERFORMANCE" />
+	<psu:DegreeProgram rdf:ID="_MUMTH" psu:hasLegacyId="MUMTH" rdfs:label="MUSIC THEORY &amp; HIST" rdfs:comment="MUSIC THEORY AND HISTORY" />
 	
-	<psu:DegreeProgram rdf:ID="MUPPP" rdfs:label="PIANO PEDAGOGY &amp; PER" rdfs:comment="PIANO PEDAGOGY AND PERFORMANCE" />
+	<psu:DegreeProgram rdf:ID="_MUPER" psu:hasLegacyId="MUPER" rdfs:label="PERFORMANCE" rdfs:comment="PERFORMANCE" />
 	
-	<psu:DegreeProgram rdf:ID="MUSBA" rdfs:label="MUSIC- B A DEGREE" rdfs:comment="MUSIC BACHELOR OF ARTS DEGREE" />
+	<psu:DegreeProgram rdf:ID="_MUPPP" psu:hasLegacyId="MUPPP" rdfs:label="PIANO PEDAGOGY &amp; PER" rdfs:comment="PIANO PEDAGOGY AND PERFORMANCE" />
 	
-	<psu:DegreeProgram rdf:ID="MUSBM" rdfs:label="MUSIC- B MUS DEGR" rdfs:comment="MUSIC BACHELOR OF MUSIC DEGREE" />
+	<psu:DegreeProgram rdf:ID="_MUSBA" psu:hasLegacyId="MUSBA" rdfs:label="MUSIC- B A DEGREE" rdfs:comment="MUSIC BACHELOR OF ARTS DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="MUSIC" rdfs:label="MUSIC" rdfs:comment="MUSIC" />
+	<psu:DegreeProgram rdf:ID="_MUSBM" psu:hasLegacyId="MUSBM" rdfs:label="MUSIC- B MUS DEGR" rdfs:comment="MUSIC BACHELOR OF MUSIC DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="MUTH" rdfs:label="MUSIC THEORY" rdfs:comment="MUSIC THEORY" />
+	<psu:DegreeProgram rdf:ID="_MUSIC" psu:hasLegacyId="MUSIC" rdfs:label="MUSIC" rdfs:comment="MUSIC" />
 	
-	<psu:DegreeProgram rdf:ID="MUVPP" rdfs:label="VOICE PERF &amp; PEDAGOG" rdfs:comment="VOICE PERFORMANCE AND PEDAGOGY" />
+	<psu:DegreeProgram rdf:ID="_MUTH" psu:hasLegacyId="MUTH" rdfs:label="MUSIC THEORY" rdfs:comment="MUSIC THEORY" />
 	
-	<psu:DegreeProgram rdf:ID="NEURO" rdfs:label="NEUROSCIENCE" rdfs:comment="NEUROSCIENCE" />
+	<psu:DegreeProgram rdf:ID="_MUVPP" psu:hasLegacyId="MUVPP" rdfs:label="VOICE PERF &amp; PEDAGOG" rdfs:comment="VOICE PERFORMANCE AND PEDAGOGY" />
 	
-	<psu:DegreeProgram rdf:ID="NEURS" rdfs:label="NEURS" rdfs:comment="NEUROSCIENCE" />
+	<psu:DegreeProgram rdf:ID="_NEURO" psu:hasLegacyId="NEURO" rdfs:label="NEUROSCIENCE" rdfs:comment="NEUROSCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="NONE" rdfs:label="NON DEG GRAD STU" rdfs:comment="GRADUATE NON-DEGREE" />
+	<psu:DegreeProgram rdf:ID="_NEURS" psu:hasLegacyId="NEURS" rdfs:label="NEURS" rdfs:comment="NEUROSCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="NU PH" rdfs:label="NUTR PUB HLTH" rdfs:comment="NUTRITION IN PUBLIC HEALTH" />
+	<psu:DegreeProgram rdf:ID="_NONE" psu:hasLegacyId="NONE" rdfs:label="NON DEG GRAD STU" rdfs:comment="GRADUATE NON-DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="NUC E" rdfs:label="NUCLEAR ENGINERNG" rdfs:comment="NUCLEAR ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_NU_PH" psu:hasLegacyId="NU PH" rdfs:label="NUTR PUB HLTH" rdfs:comment="NUTRITION IN PUBLIC HEALTH" />
 	
-	<psu:DegreeProgram rdf:ID="NURN" rdfs:label="NURSING" rdfs:comment="NURSING" />
+	<psu:DegreeProgram rdf:ID="_NUC_E" psu:hasLegacyId="NUC E" rdfs:label="NUCLEAR ENGINERNG" rdfs:comment="NUCLEAR ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="NURS" rdfs:label="NURSING" rdfs:comment="NURSING" />
+	<psu:DegreeProgram rdf:ID="_NURN" psu:hasLegacyId="NURN" rdfs:label="NURSING" rdfs:comment="NURSING" />
 	
-	<psu:DegreeProgram rdf:ID="NURSE" rdfs:label="NURSING EXTENDED" rdfs:comment="NURSING" />
+	<psu:DegreeProgram rdf:ID="_NURS" psu:hasLegacyId="NURS" rdfs:label="NURSING" rdfs:comment="NURSING" />
 	
-	<psu:DegreeProgram rdf:ID="NUTR" rdfs:label="NUTRITIONAL SCIENCES" rdfs:comment="NUTRITIONAL SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_NURSE" psu:hasLegacyId="NURSE" rdfs:label="NURSING EXTENDED" rdfs:comment="NURSING" />
 	
-	<psu:DegreeProgram rdf:ID="NUTRN" rdfs:label="NUTRITION" rdfs:comment="NUTRITION" />
+	<psu:DegreeProgram rdf:ID="_NUTR" psu:hasLegacyId="NUTR" rdfs:label="NUTRITIONAL SCIENCES" rdfs:comment="NUTRITIONAL SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="OCCTH" rdfs:label="OCCUPATIONAL THERAPY" rdfs:comment="OCCUPATIONAL THERAPY" />
+	<psu:DegreeProgram rdf:ID="_NUTRN" psu:hasLegacyId="NUTRN" rdfs:label="NUTRITION" rdfs:comment="NUTRITION" />
 	
-	<psu:DegreeProgram rdf:ID="OCTCC" rdfs:label="OCCUPATIONAL THERAPY" rdfs:comment="OCCUPATIONAL THERAPY" />
+	<psu:DegreeProgram rdf:ID="_OCCTH" psu:hasLegacyId="OCCTH" rdfs:label="OCCUPATIONAL THERAPY" rdfs:comment="OCCUPATIONAL THERAPY" />
 	
-	<psu:DegreeProgram rdf:ID="OGEM" rdfs:label="OIL &amp; GAS ENGR MGT" rdfs:comment="OIL AND GAS ENGINEERING MANAGEMENT" />
+	<psu:DegreeProgram rdf:ID="_OCTCC" psu:hasLegacyId="OCTCC" rdfs:label="OCCUPATIONAL THERAPY" rdfs:comment="OCCUPATIONAL THERAPY" />
 	
-	<psu:DegreeProgram rdf:ID="OISIB" rdfs:label="OP &amp; INF SY M &amp; I B" rdfs:comment="OPERATIONS &amp; INFO SYSTEMS MANAGEMENT &amp; INTERNL BUS" />
+	<psu:DegreeProgram rdf:ID="_OGEM" psu:hasLegacyId="OGEM" rdfs:label="OIL &amp; GAS ENGR MGT" rdfs:comment="OIL AND GAS ENGINEERING MANAGEMENT" />
 	
-	<psu:DegreeProgram rdf:ID="OISM" rdfs:label="OPER &amp; INFO SYS MGMT" rdfs:comment="OPERATIONS &amp; INFORMATION SYSTEMS MANAGEMENT" />
+	<psu:DegreeProgram rdf:ID="_OISIB" psu:hasLegacyId="OISIB" rdfs:label="OP &amp; INF SY M &amp; I B" rdfs:comment="OPERATIONS &amp; INFO SYSTEMS MANAGEMENT &amp; INTERNL BUS" />
 	
-	<psu:DegreeProgram rdf:ID="OLEAD" rdfs:label="ORGANIZATIONAL LEAD" rdfs:comment="ORGANIZATIONAL LEADERSHIP" />
+	<psu:DegreeProgram rdf:ID="_OISM" psu:hasLegacyId="OISM" rdfs:label="OPER &amp; INFO SYS MGMT" rdfs:comment="OPERATIONS &amp; INFORMATION SYSTEMS MANAGEMENT" />
 	
-	<psu:DegreeProgram rdf:ID="OPMGT" rdfs:label="OPERATIONS MANGMT" rdfs:comment="OPERATIONS MANAGEMENT" />
+	<psu:DegreeProgram rdf:ID="_OLEAD" psu:hasLegacyId="OLEAD" rdfs:label="ORGANIZATIONAL LEAD" rdfs:comment="ORGANIZATIONAL LEADERSHIP" />
 	
-	<psu:DegreeProgram rdf:ID="OPMIB" rdfs:label="OPER MGMT &amp; INTL BUS" rdfs:comment="OPERATIONS MANAGEMENT &amp; INTERNATIONAL BUSINESS" />
+	<psu:DegreeProgram rdf:ID="_OPMGT" psu:hasLegacyId="OPMGT" rdfs:label="OPERATIONS MANGMT" rdfs:comment="OPERATIONS MANAGEMENT" />
 	
-	<psu:DegreeProgram rdf:ID="P ACC" rdfs:label="CL PROFSNL ACCTNC" rdfs:comment="PROFESSIONAL ACCOUNTANCY" />
+	<psu:DegreeProgram rdf:ID="_OPMIB" psu:hasLegacyId="OPMIB" rdfs:label="OPER MGMT &amp; INTL BUS" rdfs:comment="OPERATIONS MANAGEMENT &amp; INTERNATIONAL BUSINESS" />
 	
-	<psu:DegreeProgram rdf:ID="P ADM" rdfs:label="PUBLIC ADMIN" rdfs:comment="PUBLIC ADMINISTRATION" />
+	<psu:DegreeProgram rdf:ID="_P_ACC" psu:hasLegacyId="P ACC" rdfs:label="CL PROFSNL ACCTNC" rdfs:comment="PROFESSIONAL ACCOUNTANCY" />
 	
-	<psu:DegreeProgram rdf:ID="P H P" rdfs:label="PUBLIC HEALTH PREPAR" rdfs:comment="PUBLIC HEALTH PREPAREDNESS" />
+	<psu:DegreeProgram rdf:ID="_P_ADM" psu:hasLegacyId="P ADM" rdfs:label="PUBLIC ADMIN" rdfs:comment="PUBLIC ADMINISTRATION" />
 	
-	<psu:DegreeProgram rdf:ID="P M" rdfs:label="PREMEDICINE" rdfs:comment="PREMEDICINE" />
+	<psu:DegreeProgram rdf:ID="_P_H_P" psu:hasLegacyId="P H P" rdfs:label="PUBLIC HEALTH PREPAR" rdfs:comment="PUBLIC HEALTH PREPAREDNESS" />
 	
-	<psu:DegreeProgram rdf:ID="P M E" rdfs:label="PETROLEUM &amp; MIN ENG" rdfs:comment="PETROLEUM AND MINERAL ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_P_M" psu:hasLegacyId="P M" rdfs:label="PREMEDICINE" rdfs:comment="PREMEDICINE" />
 	
-	<psu:DegreeProgram rdf:ID="P M M" rdfs:label="PREMED MEDICAL" rdfs:comment="PREMEDICAL MEDICAL" />
+	<psu:DegreeProgram rdf:ID="_P_M_E" psu:hasLegacyId="P M E" rdfs:label="PETROLEUM &amp; MIN ENG" rdfs:comment="PETROLEUM AND MINERAL ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="P T M" rdfs:label="PLTRY TECH &amp; MGMT" rdfs:comment="POULTRY TECHNOLOGY &amp; MANAGEMENT" />
+	<psu:DegreeProgram rdf:ID="_P_M_M" psu:hasLegacyId="P M M" rdfs:label="PREMED MEDICAL" rdfs:comment="PREMEDICAL MEDICAL" />
 	
-	<psu:DegreeProgram rdf:ID="PANAL" rdfs:label="POLICY ANALYSIS" rdfs:comment="POLICY ANALYSIS" />
+	<psu:DegreeProgram rdf:ID="_P_T_M" psu:hasLegacyId="P T M" rdfs:label="PLTRY TECH &amp; MGMT" rdfs:comment="POULTRY TECHNOLOGY &amp; MANAGEMENT" />
 	
-	<psu:DegreeProgram rdf:ID="PATHB" rdfs:label="PATHOBIOLOGY" rdfs:comment="PATHOBIOLOGY" />
+	<psu:DegreeProgram rdf:ID="_PANAL" psu:hasLegacyId="PANAL" rdfs:label="POLICY ANALYSIS" rdfs:comment="POLICY ANALYSIS" />
 	
-	<psu:DegreeProgram rdf:ID="PH ED" rdfs:label="PHYSICAL EDUCATN" rdfs:comment="PHYSICAL EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_PATHB" psu:hasLegacyId="PATHB" rdfs:label="PATHOBIOLOGY" rdfs:comment="PATHOBIOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="PHARM" rdfs:label="PHARMACOLOGY" rdfs:comment="PHARMACOLOGY" />
+	<psu:DegreeProgram rdf:ID="_PH_ED" psu:hasLegacyId="PH ED" rdfs:label="PHYSICAL EDUCATN" rdfs:comment="PHYSICAL EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="PHIL" rdfs:label="PHILOSOPHY" rdfs:comment="PHILOSOPHY" />
+	<psu:DegreeProgram rdf:ID="_PHARM" psu:hasLegacyId="PHARM" rdfs:label="PHARMACOLOGY" rdfs:comment="PHARMACOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="PHS" rdfs:label="PUBLIC HEALTH SCI" rdfs:comment="PUBLIC HEALTH SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_PHIL" psu:hasLegacyId="PHIL" rdfs:label="PHILOSOPHY" rdfs:comment="PHILOSOPHY" />
 	
-	<psu:DegreeProgram rdf:ID="PHSIO" rdfs:label="PHYSIOLOGY" rdfs:comment="PHYSIOLOGY" />
+	<psu:DegreeProgram rdf:ID="_PHS" psu:hasLegacyId="PHS" rdfs:label="PUBLIC HEALTH SCI" rdfs:comment="PUBLIC HEALTH SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="PHYBD" rdfs:label="BD PHYSICS B S" rdfs:comment="BEHREND COLLEGE PHYSICS" />
+	<psu:DegreeProgram rdf:ID="_PHSIO" psu:hasLegacyId="PHSIO" rdfs:label="PHYSIOLOGY" rdfs:comment="PHYSIOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="PHYS" rdfs:label="PHYSICS" rdfs:comment="PHYSICS" />
+	<psu:DegreeProgram rdf:ID="_PHYBD" psu:hasLegacyId="PHYBD" rdfs:label="BD PHYSICS B S" rdfs:comment="BEHREND COLLEGE PHYSICS" />
 	
-	<psu:DegreeProgram rdf:ID="PHYSC" rdfs:label="BD PHYSICL SCIENC" rdfs:comment="PHYSICAL SCIENCE BEHREND" />
+	<psu:DegreeProgram rdf:ID="_PHYS" psu:hasLegacyId="PHYS" rdfs:label="PHYSICS" rdfs:comment="PHYSICS" />
 	
-	<psu:DegreeProgram rdf:ID="PIANO" rdfs:label="PIANO" rdfs:comment="PIANO PERFORMANCE" />
+	<psu:DegreeProgram rdf:ID="_PHYSC" psu:hasLegacyId="PHYSC" rdfs:label="BD PHYSICL SCIENC" rdfs:comment="PHYSICAL SCIENCE BEHREND" />
 	
-	<psu:DegreeProgram rdf:ID="PL ET" rdfs:label="BD PLASTICS ENGR TC" rdfs:comment="PLASTICS ENGINEERING TECHNOLOGY BEHREND COLLEGE" />
+	<psu:DegreeProgram rdf:ID="_PIANO" psu:hasLegacyId="PIANO" rdfs:label="PIANO" rdfs:comment="PIANO PERFORMANCE" />
 	
-	<psu:DegreeProgram rdf:ID="PL SC" rdfs:label="POLITICAL SCIENCE" rdfs:comment="POLITICAL SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_PL_ET" psu:hasLegacyId="PL ET" rdfs:label="BD PLASTICS ENGR TC" rdfs:comment="PLASTICS ENGINEERING TECHNOLOGY BEHREND COLLEGE" />
 	
-	<psu:DegreeProgram rdf:ID="PLBIO" rdfs:label="PLANT BIOL" rdfs:comment="PLANT BIOLOGY" />
+	<psu:DegreeProgram rdf:ID="_PL_SC" psu:hasLegacyId="PL SC" rdfs:label="POLITICAL SCIENCE" rdfs:comment="POLITICAL SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="PLMSC" rdfs:label="POLYMER SCIENCE" rdfs:comment="POLYMER SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_PLBIO" psu:hasLegacyId="PLBIO" rdfs:label="PLANT BIOL" rdfs:comment="PLANT BIOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="PLPHY" rdfs:label="PLANT PHYSIOLOGY" rdfs:comment="PLANT PHYSIOLOGY" />
+	<psu:DegreeProgram rdf:ID="_PLMSC" psu:hasLegacyId="PLMSC" rdfs:label="POLYMER SCIENCE" rdfs:comment="POLYMER SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="PLSAL" rdfs:label="ALTOONA POLITICAL SC" rdfs:comment="THE ALTOONA COLLEGE B.A. POLITICAL SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_PLPHY" psu:hasLegacyId="PLPHY" rdfs:label="PLANT PHYSIOLOGY" rdfs:comment="PLANT PHYSIOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="PLSCA" rdfs:label="CL POLITICAL SCI" rdfs:comment="POLITICAL SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_PLSAL" psu:hasLegacyId="PLSAL" rdfs:label="ALTOONA POLITICAL SC" rdfs:comment="THE ALTOONA COLLEGE B.A. POLITICAL SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="PLTBD" rdfs:label="PLASTICS ENGR TECH" rdfs:comment="PLASTICS ENGINEERING TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_PLSCA" psu:hasLegacyId="PLSCA" rdfs:label="CL POLITICAL SCI" rdfs:comment="POLITICAL SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="PLTSC" rdfs:label="PLANT SCIENCE" rdfs:comment="PLANT SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_PLTBD" psu:hasLegacyId="PLTBD" rdfs:label="PLASTICS ENGR TECH" rdfs:comment="PLASTICS ENGINEERING TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="PNG E" rdfs:label="PETRL NAT GAS ENG" rdfs:comment="PETROLEUM AND NATURAL GAS ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_PLTSC" psu:hasLegacyId="PLTSC" rdfs:label="PLANT SCIENCE" rdfs:comment="PLANT SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="POLSC" rdfs:label="BD POLITICAL SCI" rdfs:comment="BEHREND COLLEGE POLITICAL SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_PNG_E" psu:hasLegacyId="PNG E" rdfs:label="PETRL NAT GAS ENG" rdfs:comment="PETROLEUM AND NATURAL GAS ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="PPATH" rdfs:label="PLANT PATHOLOGY" rdfs:comment="PLANT PATHOLOGY" />
+	<psu:DegreeProgram rdf:ID="_POLSC" psu:hasLegacyId="POLSC" rdfs:label="BD POLITICAL SCI" rdfs:comment="BEHREND COLLEGE POLITICAL SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="PR AG" rdfs:label="PROVISIONAL AG" rdfs:comment="PROVISIONAL AGRICULTURE" />
+	<psu:DegreeProgram rdf:ID="_PPATH" psu:hasLegacyId="PPATH" rdfs:label="PLANT PATHOLOGY" rdfs:comment="PLANT PATHOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="PR BA" rdfs:label="PROVISIONAL BUS A" rdfs:comment="PROVISIONAL BUSINESS ADMINISTRATION" />
+	<psu:DegreeProgram rdf:ID="_PR_AG" psu:hasLegacyId="PR AG" rdfs:label="PROVISIONAL AG" rdfs:comment="PROVISIONAL AGRICULTURE" />
 	
-	<psu:DegreeProgram rdf:ID="PR CC" rdfs:label="PROV CAPITAL COLL" rdfs:comment="PROVISIONAL CAPITAL COLLEGE" />
+	<psu:DegreeProgram rdf:ID="_PR_BA" psu:hasLegacyId="PR BA" rdfs:label="PROVISIONAL BUS A" rdfs:comment="PROVISIONAL BUSINESS ADMINISTRATION" />
 	
-	<psu:DegreeProgram rdf:ID="PR ED" rdfs:label="PROVISIONAL EDUCN" rdfs:comment="PROVISIONAL EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_PR_CC" psu:hasLegacyId="PR CC" rdfs:label="PROV CAPITAL COLL" rdfs:comment="PROVISIONAL CAPITAL COLLEGE" />
 	
-	<psu:DegreeProgram rdf:ID="PR HH" rdfs:label="PROVISIONAL H H D" rdfs:comment="PROVISIONAL HEALTH &amp; HUMAN DEVELOPMENT" />
+	<psu:DegreeProgram rdf:ID="_PR_ED" psu:hasLegacyId="PR ED" rdfs:label="PROVISIONAL EDUCN" rdfs:comment="PROVISIONAL EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="PR IS" rdfs:label="PROV INFO SCI &amp; TECH" rdfs:comment="PROVISIONAL INFORMATION SCIENCES AND TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_PR_HH" psu:hasLegacyId="PR HH" rdfs:label="PROVISIONAL H H D" rdfs:comment="PROVISIONAL HEALTH &amp; HUMAN DEVELOPMENT" />
 	
-	<psu:DegreeProgram rdf:ID="PR LA" rdfs:label="PROVISIONAL L A" rdfs:comment="PROVISIONAL LIBERAL ARTS" />
+	<psu:DegreeProgram rdf:ID="_PR_IS" psu:hasLegacyId="PR IS" rdfs:label="PROV INFO SCI &amp; TECH" rdfs:comment="PROVISIONAL INFORMATION SCIENCES AND TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="PR SC" rdfs:label="PROVISIONAL SCI" rdfs:comment="PROVISIONAL SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_PR_LA" psu:hasLegacyId="PR LA" rdfs:label="PROVISIONAL L A" rdfs:comment="PROVISIONAL LIBERAL ARTS" />
 	
-	<psu:DegreeProgram rdf:ID="PRA&A" rdfs:label="PROVISIONAL A &amp; A" rdfs:comment="PROVISIONAL ARTS &amp; ARCHITECTURE" />
+	<psu:DegreeProgram rdf:ID="_PR_SC" psu:hasLegacyId="PR SC" rdfs:label="PROVISIONAL SCI" rdfs:comment="PROVISIONAL SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="PRBDC" rdfs:label="PROV BEHREND COLL" rdfs:comment="PROVISIONAL BEHREND COLLEGE" />
+	<psu:DegreeProgram rdf:ID="_PRAnA" psu:hasLegacyId="PRA&amp;A" rdfs:label="PROVISIONAL A &amp; A" rdfs:comment="PROVISIONAL ARTS &amp; ARCHITECTURE" />
 	
-	<psu:DegreeProgram rdf:ID="PRCOM" rdfs:label="PROVISIONAL COMM" rdfs:comment="PROVISIONAL COMMUNICATIONS" />
+	<psu:DegreeProgram rdf:ID="_PRBDC" psu:hasLegacyId="PRBDC" rdfs:label="PROV BEHREND COLL" rdfs:comment="PROVISIONAL BEHREND COLLEGE" />
 	
-	<psu:DegreeProgram rdf:ID="PRE L" rdfs:label="PRE LAW" rdfs:comment="PRE LAW" />
+	<psu:DegreeProgram rdf:ID="_PRCOM" psu:hasLegacyId="PRCOM" rdfs:label="PROVISIONAL COMM" rdfs:comment="PROVISIONAL COMMUNICATIONS" />
 	
-	<psu:DegreeProgram rdf:ID="PREMS" rdfs:label="PROVISIONAL E&amp;M S" rdfs:comment="PROVISIONAL EARTH &amp; MINERAL SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_PRE_L" psu:hasLegacyId="PRE L" rdfs:label="PRE LAW" rdfs:comment="PRE LAW" />
 	
-	<psu:DegreeProgram rdf:ID="PRENG" rdfs:label="PROVISIONAL ENGR" rdfs:comment="PROVISIONAL ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_PREMS" psu:hasLegacyId="PREMS" rdfs:label="PROVISIONAL E&amp;M S" rdfs:comment="PROVISIONAL EARTH &amp; MINERAL SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="PRESC" rdfs:label="PRE SCIENCE" rdfs:comment="PRESCIENCE" />
+	<psu:DegreeProgram rdf:ID="_PRENG" psu:hasLegacyId="PRENG" rdfs:label="PROVISIONAL ENGR" rdfs:comment="PROVISIONAL ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="PRHDV" rdfs:label="PROVISIONAL H DEV" rdfs:comment="PROVISIONAL HUMAN DEVELOPMENT" />
+	<psu:DegreeProgram rdf:ID="_PRESC" psu:hasLegacyId="PRESC" rdfs:label="PRE SCIENCE" rdfs:comment="PRESCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="PRHPE" rdfs:label="PROVISIONAL HPER" rdfs:comment="PROVISIONAL HEALTH, PHYSICAL ED &amp; RECREATION" />
+	<psu:DegreeProgram rdf:ID="_PRHDV" psu:hasLegacyId="PRHDV" rdfs:label="PROVISIONAL H DEV" rdfs:comment="PROVISIONAL HUMAN DEVELOPMENT" />
 	
-	<psu:DegreeProgram rdf:ID="PRINT" rdfs:label="PRINT JOURNALISM" rdfs:comment="PRINT JOURNALISM" />
+	<psu:DegreeProgram rdf:ID="_PRHPE" psu:hasLegacyId="PRHPE" rdfs:label="PROVISIONAL HPER" rdfs:comment="PROVISIONAL HEALTH, PHYSICAL ED &amp; RECREATION" />
 	
-	<psu:DegreeProgram rdf:ID="PRMGT" rdfs:label="PROJECT MANAGEMENT" rdfs:comment="PROJECT MANAGEMENT" />
+	<psu:DegreeProgram rdf:ID="_PRINT" psu:hasLegacyId="PRINT" rdfs:label="PRINT JOURNALISM" rdfs:comment="PRINT JOURNALISM" />
 	
-	<psu:DegreeProgram rdf:ID="PROV" rdfs:label="PROVISIONAL" rdfs:comment="PROVISIONAL" />
+	<psu:DegreeProgram rdf:ID="_PRMGT" psu:hasLegacyId="PRMGT" rdfs:label="PROJECT MANAGEMENT" rdfs:comment="PROJECT MANAGEMENT" />
 	
-	<psu:DegreeProgram rdf:ID="PROVC" rdfs:label="PROVISIONAL CONT ED" rdfs:comment="PROVISIONAL-CONTINUING EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_PROV" psu:hasLegacyId="PROV" rdfs:label="PROVISIONAL" rdfs:comment="PROVISIONAL" />
 	
-	<psu:DegreeProgram rdf:ID="PS BA" rdfs:label="PUBLIC SRVC--B-A" rdfs:comment="PUBLIC SERVICE BACHELOR OF ARTS DEGREE" />
+	<psu:DegreeProgram rdf:ID="_PROVC" psu:hasLegacyId="PROVC" rdfs:label="PROVISIONAL CONT ED" rdfs:comment="PROVISIONAL-CONTINUING EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="PS BS" rdfs:label="PUBLIC SRVC--B-S" rdfs:comment="PUBLIC SERVICE BACHELOR OF SCIENCE DEGREE" />
+	<psu:DegreeProgram rdf:ID="_PS_BA" psu:hasLegacyId="PS BA" rdfs:label="PUBLIC SRVC--B-A" rdfs:comment="PUBLIC SERVICE BACHELOR OF ARTS DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="PS SC" rdfs:label="PSYSCL SC" rdfs:comment="PSYCHOSOCIAL SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_PS_BS" psu:hasLegacyId="PS BS" rdfs:label="PUBLIC SRVC--B-S" rdfs:comment="PUBLIC SERVICE BACHELOR OF SCIENCE DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="PSCBA" rdfs:label="ALTOONA PSYC B A" rdfs:comment="THE ALTOONA COLLEGE B. A. PSYCHOLOGY DEGREE" />
+	<psu:DegreeProgram rdf:ID="_PS_SC" psu:hasLegacyId="PS SC" rdfs:label="PSYSCL SC" rdfs:comment="PSYCHOSOCIAL SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="PSCBS" rdfs:label="ALTOONA PSYC B S" rdfs:comment="THE ALTOONA COLLEGE B. S. PSYCHOLOGY DEGREE" />
+	<psu:DegreeProgram rdf:ID="_PSCBA" psu:hasLegacyId="PSCBA" rdfs:label="ALTOONA PSYC B A" rdfs:comment="THE ALTOONA COLLEGE B. A. PSYCHOLOGY DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="PSHBA" rdfs:label="BD PSYCHOLOGY B A" rdfs:comment="BEHREND COLLEGE BACHELOR OF ARTS PSYCHOLOGY" />
+	<psu:DegreeProgram rdf:ID="_PSCBS" psu:hasLegacyId="PSCBS" rdfs:label="ALTOONA PSYC B S" rdfs:comment="THE ALTOONA COLLEGE B. S. PSYCHOLOGY DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="PSHBS" rdfs:label="BD PSYCHOLOGY B S" rdfs:comment="BEHREND COLLEGE BACHELOR OF SCIENCE PSYCHOLOGY" />
+	<psu:DegreeProgram rdf:ID="_PSHBA" psu:hasLegacyId="PSHBA" rdfs:label="BD PSYCHOLOGY B A" rdfs:comment="BEHREND COLLEGE BACHELOR OF ARTS PSYCHOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="PSIC" rdfs:label="PHYSIOLOGY" rdfs:comment="PHYSIOLOGY (GRADUATE--COLLEGE OF MEDICINE)" />
+	<psu:DegreeProgram rdf:ID="_PSHBS" psu:hasLegacyId="PSHBS" rdfs:label="BD PSYCHOLOGY B S" rdfs:comment="BEHREND COLLEGE BACHELOR OF SCIENCE PSYCHOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="PSIO" rdfs:label="PHYSIOLOGY" rdfs:comment="PHYSIOLOGY" />
+	<psu:DegreeProgram rdf:ID="_PSIC" psu:hasLegacyId="PSIC" rdfs:label="PHYSIOLOGY" rdfs:comment="PHYSIOLOGY (GRADUATE--COLLEGE OF MEDICINE)" />
 	
-	<psu:DegreeProgram rdf:ID="PSSBA" rdfs:label="ABINGTON PSY &amp; SOC S" rdfs:comment="ABINGTON COLLEGE PSYCHOLOGICAL &amp; SOCIAL SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_PSIO" psu:hasLegacyId="PSIO" rdfs:label="PHYSIOLOGY" rdfs:comment="PHYSIOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="PSSBS" rdfs:label="ABINGTON PSY &amp; SOC S" rdfs:comment="ABINGTON COLLEGE PSYCHOLOGICAL &amp; SOCIAL SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_PSSBA" psu:hasLegacyId="PSSBA" rdfs:label="ABINGTON PSY &amp; SOC S" rdfs:comment="ABINGTON COLLEGE PSYCHOLOGICAL &amp; SOCIAL SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="PSY" rdfs:label="PSYCHOLOGY" rdfs:comment="PSYCHOLOGY" />
+	<psu:DegreeProgram rdf:ID="_PSSBS" psu:hasLegacyId="PSSBS" rdfs:label="ABINGTON PSY &amp; SOC S" rdfs:comment="ABINGTON COLLEGE PSYCHOLOGICAL &amp; SOCIAL SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="PSYBA" rdfs:label="PSYCH- B A DEGREE" rdfs:comment="PSYCHOLOGY BACHELOR OF ARTS DEGREE" />
+	<psu:DegreeProgram rdf:ID="_PSY" psu:hasLegacyId="PSY" rdfs:label="PSYCHOLOGY" rdfs:comment="PSYCHOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="PSYBS" rdfs:label="PSYCH- B S DEGREE" rdfs:comment="PSYCHOLOGY BACHELOR OF SCIENCE DEGREE" />
+	<psu:DegreeProgram rdf:ID="_PSYBA" psu:hasLegacyId="PSYBA" rdfs:label="PSYCH- B A DEGREE" rdfs:comment="PSYCHOLOGY BACHELOR OF ARTS DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="PSYC" rdfs:label="CL PSYCHOLOGY" rdfs:comment="PSYCHOLOGY" />
+	<psu:DegreeProgram rdf:ID="_PSYBS" psu:hasLegacyId="PSYBS" rdfs:label="PSYCH- B S DEGREE" rdfs:comment="PSYCHOLOGY BACHELOR OF SCIENCE DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="PTYSC" rdfs:label="PLTRY SCIENC" rdfs:comment="POULTRY SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_PSYC" psu:hasLegacyId="PSYC" rdfs:label="CL PSYCHOLOGY" rdfs:comment="PSYCHOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="PUB A" rdfs:label="PUBLIC ADMIN" rdfs:comment="PUBLIC ADMINISTRATION" />
+	<psu:DegreeProgram rdf:ID="_PTYSC" psu:hasLegacyId="PTYSC" rdfs:label="PLTRY SCIENC" rdfs:comment="POULTRY SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="PUBPL" rdfs:label="CL PUBLIC POLICY" rdfs:comment="PUBLIC POLICY" />
+	<psu:DegreeProgram rdf:ID="_PUB_A" psu:hasLegacyId="PUB A" rdfs:label="PUBLIC ADMIN" rdfs:comment="PUBLIC ADMINISTRATION" />
 	
-	<psu:DegreeProgram rdf:ID="PWRIT" rdfs:label="BERKS PR WRITING" rdfs:comment="BERKS COLLEGE PROFESSIONAL WRITING" />
+	<psu:DegreeProgram rdf:ID="_PUBPL" psu:hasLegacyId="PUBPL" rdfs:label="CL PUBLIC POLICY" rdfs:comment="PUBLIC POLICY" />
 	
-	<psu:DegreeProgram rdf:ID="Q B A" rdfs:label="QUANT BUS ANLYSIS" rdfs:comment="QUANTITATIVE BUSINESS ANALYSIS" />
+	<psu:DegreeProgram rdf:ID="_PWRIT" psu:hasLegacyId="PWRIT" rdfs:label="BERKS PR WRITING" rdfs:comment="BERKS COLLEGE PROFESSIONAL WRITING" />
 	
-	<psu:DegreeProgram rdf:ID="Q M M" rdfs:label="QUAL &amp; MANUFACT MGMT" rdfs:comment="QUALITY AND MANUFACTURING MANAGEMENT" />
+	<psu:DegreeProgram rdf:ID="_Q_B_A" psu:hasLegacyId="Q B A" rdfs:label="QUANT BUS ANLYSIS" rdfs:comment="QUANTITATIVE BUSINESS ANALYSIS" />
 	
-	<psu:DegreeProgram rdf:ID="R EST" rdfs:label="REAL ESTATE" rdfs:comment="REAL ESTATE" />
+	<psu:DegreeProgram rdf:ID="_Q_M_M" psu:hasLegacyId="Q M M" rdfs:label="QUAL &amp; MANUFACT MGMT" rdfs:comment="QUALITY AND MANUFACTURING MANAGEMENT" />
 	
-	<psu:DegreeProgram rdf:ID="R P M" rdfs:label="REC &amp; PARK MGMT" rdfs:comment="RECREATION &amp; PARK MANAGEMENT" />
+	<psu:DegreeProgram rdf:ID="_R_EST" psu:hasLegacyId="R EST" rdfs:label="REAL ESTATE" rdfs:comment="REAL ESTATE" />
 	
-	<psu:DegreeProgram rdf:ID="R PL" rdfs:label="REGIONAL PLNG" rdfs:comment="REGIONAL PLANNING" />
+	<psu:DegreeProgram rdf:ID="_R_P_M" psu:hasLegacyId="R P M" rdfs:label="REC &amp; PARK MGMT" rdfs:comment="RECREATION &amp; PARK MANAGEMENT" />
 	
-	<psu:DegreeProgram rdf:ID="R SOC" rdfs:label="RURAL SOCLGY" rdfs:comment="RURAL SOCIOLOGY" />
+	<psu:DegreeProgram rdf:ID="_R_PL" psu:hasLegacyId="R PL" rdfs:label="REGIONAL PLNG" rdfs:comment="REGIONAL PLANNING" />
 	
-	<psu:DegreeProgram rdf:ID="RC PK" rdfs:label="RECREATION &amp; PRKS" rdfs:comment="RECREATION AND PARKS" />
+	<psu:DegreeProgram rdf:ID="_R_SOC" psu:hasLegacyId="R SOC" rdfs:label="RURAL SOCLGY" rdfs:comment="RURAL SOCIOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="REHAB" rdfs:label="REHABILITATION SERVS" rdfs:comment="REHABILITATION SERVICES" />
+	<psu:DegreeProgram rdf:ID="_RC_PK" psu:hasLegacyId="RC PK" rdfs:label="RECREATION &amp; PRKS" rdfs:comment="RECREATION AND PARKS" />
 	
-	<psu:DegreeProgram rdf:ID="REHED" rdfs:label="REHAB SERVICES ED" rdfs:comment="REHABILITATION SERVICES EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_REHAB" psu:hasLegacyId="REHAB" rdfs:label="REHABILITATION SERVS" rdfs:comment="REHABILITATION SERVICES" />
 	
-	<psu:DegreeProgram rdf:ID="RESIB" rdfs:label="R ESTATE &amp; INTL BUS" rdfs:comment="REAL ESTATE &amp; INTERNATIONAL BUSINESS" />
+	<psu:DegreeProgram rdf:ID="_REHED" psu:hasLegacyId="REHED" rdfs:label="REHAB SERVICES ED" rdfs:comment="REHABILITATION SERVICES EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="RHS" rdfs:label="REHAB &amp; HUMAN SRVCES" rdfs:comment="REHABILITATION AND HUMAN SERVICES" />
+	<psu:DegreeProgram rdf:ID="_RESIB" psu:hasLegacyId="RESIB" rdfs:label="R ESTATE &amp; INTL BUS" rdfs:comment="REAL ESTATE &amp; INTERNATIONAL BUSINESS" />
 	
-	<psu:DegreeProgram rdf:ID="RL ST" rdfs:label="RELIGIOUS STUDIES" rdfs:comment="RELIGIOUS STUDIES" />
+	<psu:DegreeProgram rdf:ID="_RHS" psu:hasLegacyId="RHS" rdfs:label="REHAB &amp; HUMAN SRVCES" rdfs:comment="REHABILITATION AND HUMAN SERVICES" />
 	
-	<psu:DegreeProgram rdf:ID="RPTM" rdfs:label="REC PARK &amp; TOUR MGT" rdfs:comment="RECREATION, PARK &amp; TOURISM MANAGEMENT" />
+	<psu:DegreeProgram rdf:ID="_RL_ST" psu:hasLegacyId="RL ST" rdfs:label="RELIGIOUS STUDIES" rdfs:comment="RELIGIOUS STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="RUS" rdfs:label="RUSSIAN" rdfs:comment="RUSSIAN" />
+	<psu:DegreeProgram rdf:ID="_RPTM" psu:hasLegacyId="RPTM" rdfs:label="REC PARK &amp; TOUR MGT" rdfs:comment="RECREATION, PARK &amp; TOURISM MANAGEMENT" />
 	
-	<psu:DegreeProgram rdf:ID="RUS T" rdfs:label="RUSSIAN TRANSLATION" rdfs:comment="RUSSIAN TRANSLATION" />
+	<psu:DegreeProgram rdf:ID="_RUS" psu:hasLegacyId="RUS" rdfs:label="RUSSIAN" rdfs:comment="RUSSIAN" />
 	
-	<psu:DegreeProgram rdf:ID="RUSCL" rdfs:label="RUSSIAN &amp; COMP LIT" rdfs:comment="RUSSIAN AND COMPARATIVE LITERATURE" />
+	<psu:DegreeProgram rdf:ID="_RUS_T" psu:hasLegacyId="RUS T" rdfs:label="RUSSIAN TRANSLATION" rdfs:comment="RUSSIAN TRANSLATION" />
 	
-	<psu:DegreeProgram rdf:ID="RUSTT" rdfs:label="RUSSIAN TRANSLATION" rdfs:comment="RUSSIAN TRANSLATION" />
+	<psu:DegreeProgram rdf:ID="_RUSCL" psu:hasLegacyId="RUSCL" rdfs:label="RUSSIAN &amp; COMP LIT" rdfs:comment="RUSSIAN AND COMPARATIVE LITERATURE" />
 	
-	<psu:DegreeProgram rdf:ID="S C M" rdfs:label="SUPPLY CHAIN MGMT" rdfs:comment="SUPPLY CHAIN MANAGEMENT" />
+	<psu:DegreeProgram rdf:ID="_RUSTT" psu:hasLegacyId="RUSTT" rdfs:label="RUSSIAN TRANSLATION" rdfs:comment="RUSSIAN TRANSLATION" />
 	
-	<psu:DegreeProgram rdf:ID="S E" rdfs:label="SANITARY ENGR" rdfs:comment="SANITARY ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_S_C_M" psu:hasLegacyId="S C M" rdfs:label="SUPPLY CHAIN MGMT" rdfs:comment="SUPPLY CHAIN MANAGEMENT" />
 	
-	<psu:DegreeProgram rdf:ID="S L L" rdfs:label="SLAVIC LANG LIT" rdfs:comment="SLAVIC LANGUAGE LITERATURE" />
+	<psu:DegreeProgram rdf:ID="_S_E" psu:hasLegacyId="S E" rdfs:label="SANITARY ENGR" rdfs:comment="SANITARY ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="S P A" rdfs:label="SPCH PATH AUD" rdfs:comment="SPEECH PATHOLOGY AND AUDIOLOGY" />
+	<psu:DegreeProgram rdf:ID="_S_L_L" psu:hasLegacyId="S L L" rdfs:label="SLAVIC LANG LIT" rdfs:comment="SLAVIC LANGUAGE LITERATURE" />
 	
-	<psu:DegreeProgram rdf:ID="S PSY" rdfs:label="SCHOOL PSYCH" rdfs:comment="SCHOOL PSYCHOLOGY" />
+	<psu:DegreeProgram rdf:ID="_S_P_A" psu:hasLegacyId="S P A" rdfs:label="SPCH PATH AUD" rdfs:comment="SPEECH PATHOLOGY AND AUDIOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="S S S" rdfs:label="SOLID ST SCI" rdfs:comment="SOLID STATE SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_S_PSY" psu:hasLegacyId="S PSY" rdfs:label="SCHOOL PSYCH" rdfs:comment="SCHOOL PSYCHOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="SC BA" rdfs:label="SCIENCE- B A DEGR" rdfs:comment="SCIENCE BACHELOR OF ARTS DEGREE" />
+	<psu:DegreeProgram rdf:ID="_S_S_S" psu:hasLegacyId="S S S" rdfs:label="SOLID ST SCI" rdfs:comment="SOLID STATE SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="SC BS" rdfs:label="SCIENCE- B S DEGR" rdfs:comment="SCIENCE BACHELOR OF SCIENCE DEGREE" />
+	<psu:DegreeProgram rdf:ID="_SC_BA" psu:hasLegacyId="SC BA" rdfs:label="SCIENCE- B A DEGR" rdfs:comment="SCIENCE BACHELOR OF ARTS DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="SC&IS" rdfs:label="SUPPLY CH &amp; INFO SYS" rdfs:comment="SUPPLY CHAIN AND INFORMATION SYSTEMS" />
+	<psu:DegreeProgram rdf:ID="_SC_BS" psu:hasLegacyId="SC BS" rdfs:label="SCIENCE- B S DEGR" rdfs:comment="SCIENCE BACHELOR OF SCIENCE DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="SCBUS" rdfs:label="SCI BUS / M B A" rdfs:comment="SCIENCE BUSINESS / M B A" />
+	<psu:DegreeProgram rdf:ID="_SCnIS" psu:hasLegacyId="SC&amp;IS" rdfs:label="SUPPLY CH &amp; INFO SYS" rdfs:comment="SUPPLY CHAIN AND INFORMATION SYSTEMS" />
 	
-	<psu:DegreeProgram rdf:ID="SCIAB" rdfs:label="ABINGTON SCIENCE" rdfs:comment="ABINGTON COLLEGE SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_SCBUS" psu:hasLegacyId="SCBUS" rdfs:label="SCI BUS / M B A" rdfs:comment="SCIENCE BUSINESS / M B A" />
 	
-	<psu:DegreeProgram rdf:ID="SCIAL" rdfs:label="ALTOONA SCIENCE" rdfs:comment="ALTOONA COLLEGE SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_SCIAB" psu:hasLegacyId="SCIAB" rdfs:label="ABINGTON SCIENCE" rdfs:comment="ABINGTON COLLEGE SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="SCIBL" rdfs:label="BERKS SCI" rdfs:comment="BERKS COLLEGE SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_SCIAL" psu:hasLegacyId="SCIAL" rdfs:label="ALTOONA SCIENCE" rdfs:comment="ALTOONA COLLEGE SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="SCICA" rdfs:label="CL SCIENCE" rdfs:comment="SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_SCIBL" psu:hasLegacyId="SCIBL" rdfs:label="BERKS SCI" rdfs:comment="BERKS COLLEGE SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="SCICC" rdfs:label="UNIV COLLEGE SCI" rdfs:comment="UNIVERSITY COLLEGE SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_SCICA" psu:hasLegacyId="SCICA" rdfs:label="CL SCIENCE" rdfs:comment="SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="SCIEN" rdfs:label="SCIENCE" rdfs:comment="THE EBERLY COLLEGE OF SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_SCICC" psu:hasLegacyId="SCICC" rdfs:label="UNIV COLLEGE SCI" rdfs:comment="UNIVERSITY COLLEGE SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="SCNBD" rdfs:label="BD SCIENCE B S" rdfs:comment="BEHREND COLLEGE BACHELOR OF SCIENCE SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_SCIEN" psu:hasLegacyId="SCIEN" rdfs:label="SCIENCE" rdfs:comment="THE EBERLY COLLEGE OF SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="SCNCE" rdfs:label="BD SCIENCE B A" rdfs:comment="BEHREND COLLEGE BACHELOR OF ARTS SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_SCNBD" psu:hasLegacyId="SCNBD" rdfs:label="BD SCIENCE B S" rdfs:comment="BEHREND COLLEGE BACHELOR OF SCIENCE SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="SDCET" rdfs:label="CL STR DES/CONS T" rdfs:comment="STRUCTURAL DESIGN AND CONSTRUCTION ENGR TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_SCNCE" psu:hasLegacyId="SCNCE" rdfs:label="BD SCIENCE B A" rdfs:comment="BEHREND COLLEGE BACHELOR OF ARTS SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="SE BD" rdfs:label="BD SOFTWARE ENGR" rdfs:comment="BEHREND COLLEGE SOFTWARE ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_SDCET" psu:hasLegacyId="SDCET" rdfs:label="CL STR DES/CONS T" rdfs:comment="STRUCTURAL DESIGN AND CONSTRUCTION ENGR TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="SECAB" rdfs:label="ABINGTON SECNDARY ED" rdfs:comment="ABINGTON COLLEGE SECONDARY EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_SE_BD" psu:hasLegacyId="SE BD" rdfs:label="BD SOFTWARE ENGR" rdfs:comment="BEHREND COLLEGE SOFTWARE ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="SECBC" rdfs:label="SECONDARY ED MATH" rdfs:comment="SECONDARY EDUCATION MATHEMATICS" />
+	<psu:DegreeProgram rdf:ID="_SECAB" psu:hasLegacyId="SECAB" rdfs:label="ABINGTON SECNDARY ED" rdfs:comment="ABINGTON COLLEGE SECONDARY EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="SECED" rdfs:label="SECONDARY EDUCATN" rdfs:comment="SECONDARY EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_SECBC" psu:hasLegacyId="SECBC" rdfs:label="SECONDARY ED MATH" rdfs:comment="SECONDARY EDUCATION MATHEMATICS" />
 	
-	<psu:DegreeProgram rdf:ID="SESST" rdfs:label="CL SEC ED SOC STDIES" rdfs:comment="SECONDARY EDUCATION SOCIAL STUDIES" />
+	<psu:DegreeProgram rdf:ID="_SECED" psu:hasLegacyId="SECED" rdfs:label="SECONDARY EDUCATN" rdfs:comment="SECONDARY EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="SOC" rdfs:label="SOCIOLOGY" rdfs:comment="SOCIOLOGY" />
+	<psu:DegreeProgram rdf:ID="_SESST" psu:hasLegacyId="SESST" rdfs:label="CL SEC ED SOC STDIES" rdfs:comment="SECONDARY EDUCATION SOCIAL STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="SOC W" rdfs:label="SOCIAL WORK" rdfs:comment="SOCIAL WORK" />
+	<psu:DegreeProgram rdf:ID="_SOC" psu:hasLegacyId="SOC" rdfs:label="SOCIOLOGY" rdfs:comment="SOCIOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="SOCBA" rdfs:label="SOCIOLOGY B A DEG" rdfs:comment="SOCIOLOGY BACHELOR OF ARTS DEGREE" />
+	<psu:DegreeProgram rdf:ID="_SOC_W" psu:hasLegacyId="SOC W" rdfs:label="SOCIAL WORK" rdfs:comment="SOCIAL WORK" />
 	
-	<psu:DegreeProgram rdf:ID="SOCBS" rdfs:label="SOCIOLOGY B S DEG" rdfs:comment="SOCIOLOGY BACHELOR OF SCIENCE DEGREE" />
+	<psu:DegreeProgram rdf:ID="_SOCBA" psu:hasLegacyId="SOCBA" rdfs:label="SOCIOLOGY B A DEG" rdfs:comment="SOCIOLOGY BACHELOR OF ARTS DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="SOCIO" rdfs:label="CL SOCIOLOGY" rdfs:comment="SOCIOLOGY" />
+	<psu:DegreeProgram rdf:ID="_SOCBS" psu:hasLegacyId="SOCBS" rdfs:label="SOCIOLOGY B S DEG" rdfs:comment="SOCIOLOGY BACHELOR OF SCIENCE DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="SOILS" rdfs:label="SOIL SCIENCE" rdfs:comment="SOIL SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_SOCIO" psu:hasLegacyId="SOCIO" rdfs:label="CL SOCIOLOGY" rdfs:comment="SOCIOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="SPAN" rdfs:label="SPANISH" rdfs:comment="SPANISH" />
+	<psu:DegreeProgram rdf:ID="_SOILS" psu:hasLegacyId="SOILS" rdfs:label="SOIL SCIENCE" rdfs:comment="SOIL SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="SPCOM" rdfs:label="SPEECH COMMUNICATION" rdfs:comment="SPEECH COMMUNICATION" />
+	<psu:DegreeProgram rdf:ID="_SPAN" psu:hasLegacyId="SPAN" rdfs:label="SPANISH" rdfs:comment="SPANISH" />
 	
-	<psu:DegreeProgram rdf:ID="SPEC" rdfs:label="SPECIAL GRAD PGM" rdfs:comment="SPECIAL GRADUATE PROGRAM" />
+	<psu:DegreeProgram rdf:ID="_SPCOM" psu:hasLegacyId="SPCOM" rdfs:label="SPEECH COMMUNICATION" rdfs:comment="SPEECH COMMUNICATION" />
 	
-	<psu:DegreeProgram rdf:ID="SPHCC" rdfs:label="UNIV COL SPCH COM" rdfs:comment="UNIVERSITY COLLEGE SPEECH COMMUNICATION" />
+	<psu:DegreeProgram rdf:ID="_SPEC" psu:hasLegacyId="SPEC" rdfs:label="SPECIAL GRAD PGM" rdfs:comment="SPECIAL GRADUATE PROGRAM" />
 	
-	<psu:DegreeProgram rdf:ID="SPLED" rdfs:label="SPECIAL EDUCATION" rdfs:comment="SPECIAL EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_SPHCC" psu:hasLegacyId="SPHCC" rdfs:label="UNIV COL SPCH COM" rdfs:comment="UNIVERSITY COLLEGE SPEECH COMMUNICATION" />
 	
-	<psu:DegreeProgram rdf:ID="SPNBA" rdfs:label="SPANISH- B A DEGR" rdfs:comment="SPANISH BACHELOR OF ARTS DEGREE" />
+	<psu:DegreeProgram rdf:ID="_SPLED" psu:hasLegacyId="SPLED" rdfs:label="SPECIAL EDUCATION" rdfs:comment="SPECIAL EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="SPNBS" rdfs:label="SPANISH- B S DEGR" rdfs:comment="SPANISH BACHELOR OF SCIENCE DEGREE" />
+	<psu:DegreeProgram rdf:ID="_SPNBA" psu:hasLegacyId="SPNBA" rdfs:label="SPANISH- B A DEGR" rdfs:comment="SPANISH BACHELOR OF ARTS DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="SPTAB" rdfs:label="B S SCI - DOCT P T" rdfs:comment="B S SCIENCE - DOCTORATE PHYSICAL THERAPY" />
+	<psu:DegreeProgram rdf:ID="_SPNBS" psu:hasLegacyId="SPNBS" rdfs:label="SPANISH- B S DEGR" rdfs:comment="SPANISH BACHELOR OF SCIENCE DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="SRA" rdfs:label="SECURITY &amp; RSK ANALY" rdfs:comment="SECURITY AND RISK ANALYSIS" />
+	<psu:DegreeProgram rdf:ID="_SPTAB" psu:hasLegacyId="SPTAB" rdfs:label="B S SCI - DOCT P T" rdfs:comment="B S SCIENCE - DOCTORATE PHYSICAL THERAPY" />
 	
-	<psu:DegreeProgram rdf:ID="SRACA" rdfs:label="SECURITY &amp; RISK ANLY" rdfs:comment="SECURITY AND RISK ANALYSIS" />
+	<psu:DegreeProgram rdf:ID="_SRA" psu:hasLegacyId="SRA" rdfs:label="SECURITY &amp; RSK ANALY" rdfs:comment="SECURITY AND RISK ANALYSIS" />
 	
-	<psu:DegreeProgram rdf:ID="STAT" rdfs:label="STATISTICS" rdfs:comment="STATISTICS" />
+	<psu:DegreeProgram rdf:ID="_SRACA" psu:hasLegacyId="SRACA" rdfs:label="SECURITY &amp; RISK ANLY" rdfs:comment="SECURITY AND RISK ANALYSIS" />
 	
-	<psu:DegreeProgram rdf:ID="SUR" rdfs:label="SURVEYING" rdfs:comment="SURVEYING" />
+	<psu:DegreeProgram rdf:ID="_STAT" psu:hasLegacyId="STAT" rdfs:label="STATISTICS" rdfs:comment="STATISTICS" />
 	
-	<psu:DegreeProgram rdf:ID="SUR E" rdfs:label="SURVEYING ENGR" rdfs:comment="SURVEYING ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_SUR" psu:hasLegacyId="SUR" rdfs:label="SURVEYING" rdfs:comment="SURVEYING" />
 	
-	<psu:DegreeProgram rdf:ID="SWENG" rdfs:label="SOFTWARE ENGINEERING" rdfs:comment="SOFTWARE ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_SUR_E" psu:hasLegacyId="SUR E" rdfs:label="SURVEYING ENGR" rdfs:comment="SURVEYING ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="SYSEN" rdfs:label="SYSTEMS ENGINEERING" rdfs:comment="SYSTEMS ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_SWENG" psu:hasLegacyId="SWENG" rdfs:label="SOFTWARE ENGINEERING" rdfs:comment="SOFTWARE ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="T C" rdfs:label="TEACH &amp; CURRIC" rdfs:comment="TEACHING AND CURRICULUM" />
+	<psu:DegreeProgram rdf:ID="_SYSEN" psu:hasLegacyId="SYSEN" rdfs:label="SYSTEMS ENGINEERING" rdfs:comment="SYSTEMS ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="T E T" rdfs:label="CL TRNS ENGR TECH" rdfs:comment="TRANSPORTATION ENGINEERING TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_T_C" psu:hasLegacyId="T C" rdfs:label="TEACH &amp; CURRIC" rdfs:comment="TEACHING AND CURRICULUM" />
 	
-	<psu:DegreeProgram rdf:ID="TELCM" rdfs:label="TELECOMMUNICATIONS" rdfs:comment="TELECOMMUNICATIONS" />
+	<psu:DegreeProgram rdf:ID="_T_E_T" psu:hasLegacyId="T E T" rdfs:label="CL TRNS ENGR TECH" rdfs:comment="TRANSPORTATION ENGINEERING TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="TELEC" rdfs:label="TELECOMM STUDIES" rdfs:comment="TELECOMMUNICATIONS STUDIES" />
+	<psu:DegreeProgram rdf:ID="_TELCM" psu:hasLegacyId="TELCM" rdfs:label="TELECOMMUNICATIONS" rdfs:comment="TELECOMMUNICATIONS" />
 	
-	<psu:DegreeProgram rdf:ID="TESL" rdfs:label="TEACH ENGL 2ND LANG" rdfs:comment="TEACHING ENGLISH AS A SECOND LANGUAGE" />
+	<psu:DegreeProgram rdf:ID="_TELEC" psu:hasLegacyId="TELEC" rdfs:label="TELECOMM STUDIES" rdfs:comment="TELECOMMUNICATIONS STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="THABL" rdfs:label="BERKS THEATRE" rdfs:comment="BERKS COLLEGE THEATRE" />
+	<psu:DegreeProgram rdf:ID="_TESL" psu:hasLegacyId="TESL" rdfs:label="TEACH ENGL 2ND LANG" rdfs:comment="TEACHING ENGLISH AS A SECOND LANGUAGE" />
 	
-	<psu:DegreeProgram rdf:ID="THEA" rdfs:label="THEATRE" rdfs:comment="THEATRE" />
+	<psu:DegreeProgram rdf:ID="_THABL" psu:hasLegacyId="THABL" rdfs:label="BERKS THEATRE" rdfs:comment="BERKS COLLEGE THEATRE" />
 	
-	<psu:DegreeProgram rdf:ID="THRBA" rdfs:label="THEATRE - B A DEG" rdfs:comment="THEATRE BACHELOR OF ARTS DEGREE" />
+	<psu:DegreeProgram rdf:ID="_THEA" psu:hasLegacyId="THEA" rdfs:label="THEATRE" rdfs:comment="THEATRE" />
 	
-	<psu:DegreeProgram rdf:ID="THRFA" rdfs:label="THEATRE-BFA DEGR" rdfs:comment="THEATRE BACHELOR OF FINE ARTS DEGREE" />
+	<psu:DegreeProgram rdf:ID="_THRBA" psu:hasLegacyId="THRBA" rdfs:label="THEATRE - B A DEG" rdfs:comment="THEATRE BACHELOR OF ARTS DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="THRMT" rdfs:label="MUSICAL THEATRE-BFA" rdfs:comment="MUSICAL THEATRE BACHELOR OF FINE ARTS DEGREE" />
+	<psu:DegreeProgram rdf:ID="_THRFA" psu:hasLegacyId="THRFA" rdfs:label="THEATRE-BFA DEGR" rdfs:comment="THEATRE BACHELOR OF FINE ARTS DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="TLCOM" rdfs:label="TELECOMMUNICATNS" rdfs:comment="TELECOMMUNICATIONS" />
+	<psu:DegreeProgram rdf:ID="_THRMT" psu:hasLegacyId="THRMT" rdfs:label="MUSICAL THEATRE-BFA" rdfs:comment="MUSICAL THEATRE BACHELOR OF FINE ARTS DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="TOX" rdfs:label="TOXICOLOGY" rdfs:comment="TOXICOLOGY" />
+	<psu:DegreeProgram rdf:ID="_TLCOM" psu:hasLegacyId="TLCOM" rdfs:label="TELECOMMUNICATNS" rdfs:comment="TELECOMMUNICATIONS" />
 	
-	<psu:DegreeProgram rdf:ID="TRDEV" rdfs:label="TRAINING AND DEVELOP" rdfs:comment="TRAINING AND DEVELOPMENT" />
+	<psu:DegreeProgram rdf:ID="_TOX" psu:hasLegacyId="TOX" rdfs:label="TOXICOLOGY" rdfs:comment="TOXICOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="TURF" rdfs:label="TURFGRASS SCIENCE" rdfs:comment="TURFGRASS SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_TRDEV" psu:hasLegacyId="TRDEV" rdfs:label="TRAINING AND DEVELOP" rdfs:comment="TRAINING AND DEVELOPMENT" />
 	
-	<psu:DegreeProgram rdf:ID="UR PL" rdfs:label="URBAN &amp; REGION PLAN" rdfs:comment="URBAN AND REGIONAL PLANNING" />
+	<psu:DegreeProgram rdf:ID="_TURF" psu:hasLegacyId="TURF" rdfs:label="TURFGRASS SCIENCE" rdfs:comment="TURFGRASS SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="URBCC" rdfs:label="URB ERLY &amp; ML CLD ED" rdfs:comment="URBAN EARLY &amp; MIDDLE CHILDHOOD EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_UR_PL" psu:hasLegacyId="UR PL" rdfs:label="URBAN &amp; REGION PLAN" rdfs:comment="URBAN AND REGIONAL PLANNING" />
 	
-	<psu:DegreeProgram rdf:ID="URBED" rdfs:label="URB ERLY &amp; ML CLD ED" rdfs:comment="URBAN EARLY &amp; MIDDLE CHILDHOOD EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_URBCC" psu:hasLegacyId="URBCC" rdfs:label="URB ERLY &amp; ML CLD ED" rdfs:comment="URBAN EARLY &amp; MIDDLE CHILDHOOD EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="V SC" rdfs:label="VET SCIENCE" rdfs:comment="VETERINARY SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_URBED" psu:hasLegacyId="URBED" rdfs:label="URB ERLY &amp; ML CLD ED" rdfs:comment="URBAN EARLY &amp; MIDDLE CHILDHOOD EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="VAST" rdfs:label="VISUAL ARTS STUDIES" rdfs:comment="VISUAL ARTS STUDIES" />
+	<psu:DegreeProgram rdf:ID="_V_SC" psu:hasLegacyId="V SC" rdfs:label="VET SCIENCE" rdfs:comment="VETERINARY SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="VB SC" rdfs:label="VET &amp; BIOMEDICAL SC" rdfs:comment="VETERINARY AND BIOMEDICAL SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_VAST" psu:hasLegacyId="VAST" rdfs:label="VISUAL ARTS STUDIES" rdfs:comment="VISUAL ARTS STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="VI ED" rdfs:label="VOC INDUSTRIAL ED" rdfs:comment="VOCATIONAL AND INDUSTRIAL EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_VB_SC" psu:hasLegacyId="VB SC" rdfs:label="VET &amp; BIOMEDICAL SC" rdfs:comment="VETERINARY AND BIOMEDICAL SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="VOCED" rdfs:label="VOCATIONAL ED" rdfs:comment="VOCATIONAL EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_VI_ED" psu:hasLegacyId="VI ED" rdfs:label="VOC INDUSTRIAL ED" rdfs:comment="VOCATIONAL AND INDUSTRIAL EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="W F S" rdfs:label="WILDLIFE &amp; FISH SCI" rdfs:comment="WILDLIFE AND FISHERIES SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_VOCED" psu:hasLegacyId="VOCED" rdfs:label="VOCATIONAL ED" rdfs:comment="VOCATIONAL EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="W L M" rdfs:label="WILDLIFE MGT" rdfs:comment="WILDLIFE MANAGEMENT" />
+	<psu:DegreeProgram rdf:ID="_W_F_S" psu:hasLegacyId="W F S" rdfs:label="WILDLIFE &amp; FISH SCI" rdfs:comment="WILDLIFE AND FISHERIES SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="W L S" rdfs:label="WILDLIFE SCIENCE" rdfs:comment="WILDLIFE SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_W_L_M" psu:hasLegacyId="W L M" rdfs:label="WILDLIFE MGT" rdfs:comment="WILDLIFE MANAGEMENT" />
 	
-	<psu:DegreeProgram rdf:ID="W LIT" rdfs:label="WORLD LITERATURE" rdfs:comment="WORLD LITERATURE" />
+	<psu:DegreeProgram rdf:ID="_W_L_S" psu:hasLegacyId="W L S" rdfs:label="WILDLIFE SCIENCE" rdfs:comment="WILDLIFE SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="W P" rdfs:label="WOOD PRODUCTS" rdfs:comment="WOOD PRODUCTS" />
+	<psu:DegreeProgram rdf:ID="_W_LIT" psu:hasLegacyId="W LIT" rdfs:label="WORLD LITERATURE" rdfs:comment="WORLD LITERATURE" />
 	
-	<psu:DegreeProgram rdf:ID="WF ED" rdfs:label="WORKFORCE ED &amp; DEV" rdfs:comment="WORKFORCE EDUCATION AND DEVELOPMENT" />
+	<psu:DegreeProgram rdf:ID="_W_P" psu:hasLegacyId="W P" rdfs:label="WOOD PRODUCTS" rdfs:comment="WOOD PRODUCTS" />
 	
-	<psu:DegreeProgram rdf:ID="WL ED" rdfs:label="WORLD LANGUAGES EDUC" rdfs:comment="WORLD LANGUAGES EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_WF_ED" psu:hasLegacyId="WF ED" rdfs:label="WORKFORCE ED &amp; DEV" rdfs:comment="WORKFORCE EDUCATION AND DEVELOPMENT" />
 	
-	<psu:DegreeProgram rdf:ID="WMNST" rdfs:label="WOMEN'S STUDIES" rdfs:comment="WOMEN'S STUDIES" />
+	<psu:DegreeProgram rdf:ID="_WL_ED" psu:hasLegacyId="WL ED" rdfs:label="WORLD LANGUAGES EDUC" rdfs:comment="WORLD LANGUAGES EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="WS BA" rdfs:label="WOMEN'S STUDIES B.A." rdfs:comment="WOMEN'S STUDIES BACHELOR OF ARTS DEGREE" />
+	<psu:DegreeProgram rdf:ID="_WMNST" psu:hasLegacyId="WMNST" rdfs:label="WOMEN'S STUDIES" rdfs:comment="WOMEN'S STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="WS BS" rdfs:label="WOMEN'S STUDIES B.S." rdfs:comment="WOMEN'S STUDIES BACHELOR OF SCIENCE DEGREE" />
+	<psu:DegreeProgram rdf:ID="_WS_BA" psu:hasLegacyId="WS BA" rdfs:label="WOMEN'S STUDIES B.A." rdfs:comment="WOMEN'S STUDIES BACHELOR OF ARTS DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="YFE" rdfs:label="YOUTH &amp; FAMILY EDUC" rdfs:comment="YOUTH AND FAMILY EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_WS_BS" psu:hasLegacyId="WS BS" rdfs:label="WOMEN'S STUDIES B.S." rdfs:comment="WOMEN'S STUDIES BACHELOR OF SCIENCE DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="ZOOL" rdfs:label="ZOOLOGY" rdfs:comment="ZOOLOGY" />
+	<psu:DegreeProgram rdf:ID="_YFE" psu:hasLegacyId="YFE" rdfs:label="YOUTH &amp; FAMILY EDUC" rdfs:comment="YOUTH AND FAMILY EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="2 AET" rdfs:label="2YR-ARCH-ENG-TECH" rdfs:comment="2-YEAR ARCHITECTURAL ENGINEERING TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_ZOOL" psu:hasLegacyId="ZOOL" rdfs:label="ZOOLOGY" rdfs:comment="ZOOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="2 AGB" rdfs:label="2YR-AG-BUSINESS" rdfs:comment="2-YEAR AGRICULTURAL BUSINESS" />
+	<psu:DegreeProgram rdf:ID="_2_AET" psu:hasLegacyId="2 AET" rdfs:label="2YR-ARCH-ENG-TECH" rdfs:comment="2-YEAR ARCHITECTURAL ENGINEERING TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="2 B A" rdfs:label="2YR-BUSINESS-ADMN" rdfs:comment="2-YEAR BUSINESS ADMINISTRATION" />
+	<psu:DegreeProgram rdf:ID="_2_AGB" psu:hasLegacyId="2 AGB" rdfs:label="2YR-AG-BUSINESS" rdfs:comment="2-YEAR AGRICULTURAL BUSINESS" />
 	
-	<psu:DegreeProgram rdf:ID="2 BET" rdfs:label="2YR-BIOMED-ENG-TECH" rdfs:comment="2-YEAR BIOMEDICAL ENGINEERING TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_2_B_A" psu:hasLegacyId="2 B A" rdfs:label="2YR-BUSINESS-ADMN" rdfs:comment="2-YEAR BUSINESS ADMINISTRATION" />
 	
-	<psu:DegreeProgram rdf:ID="2 CJ" rdfs:label="2YR-CRIML JUSTICE" rdfs:comment="2-YEAR CRIMINAL JUSTICE" />
+	<psu:DegreeProgram rdf:ID="_2_BET" psu:hasLegacyId="2 BET" rdfs:label="2YR-BIOMED-ENG-TECH" rdfs:comment="2-YEAR BIOMEDICAL ENGINEERING TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="2 DUS" rdfs:label="2YR-DIV-UNDRGR-ST" rdfs:comment="2-YEAR DIVISION OF UNDERGRADUATE STUDIES" />
+	<psu:DegreeProgram rdf:ID="_2_CJ" psu:hasLegacyId="2 CJ" rdfs:label="2YR-CRIML JUSTICE" rdfs:comment="2-YEAR CRIMINAL JUSTICE" />
 	
-	<psu:DegreeProgram rdf:ID="2 EBA" rdfs:label="2YR-BUS-ADMN-EX" rdfs:comment="2-YEAR BUSINESS ADMINISTRATION" />
+	<psu:DegreeProgram rdf:ID="_2_DUS" psu:hasLegacyId="2 DUS" rdfs:label="2YR-DIV-UNDRGR-ST" rdfs:comment="2-YEAR DIVISION OF UNDERGRADUATE STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="2 EET" rdfs:label="2YR-ELEC-ENG-TECH" rdfs:comment="2-YEAR ELECTRICAL ENGINEERING TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_2_EBA" psu:hasLegacyId="2 EBA" rdfs:label="2YR-BUS-ADMN-EX" rdfs:comment="2-YEAR BUSINESS ADMINISTRATION" />
 	
-	<psu:DegreeProgram rdf:ID="2 IST" rdfs:label="2YR-INFO-SCI-TECH" rdfs:comment="2-YEAR INFORMATION SCIENCES &amp; TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_2_EET" psu:hasLegacyId="2 EET" rdfs:label="2YR-ELEC-ENG-TECH" rdfs:comment="2-YEAR ELECTRICAL ENGINEERING TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="2 LAS" rdfs:label="2YR-LTRS-ARTS-SCI" rdfs:comment="2-YEAR LETTERS, ARTS &amp; SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_2_IST" psu:hasLegacyId="2 IST" rdfs:label="2YR-INFO-SCI-TECH" rdfs:comment="2-YEAR INFORMATION SCIENCES &amp; TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="2 MET" rdfs:label="2YR-MECH-ENG-TECH" rdfs:comment="2-YEAR MECHANICAL ENGINEERING TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_2_LAS" psu:hasLegacyId="2 LAS" rdfs:label="2YR-LTRS-ARTS-SCI" rdfs:comment="2-YEAR LETTERS, ARTS &amp; SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="2 MFT" rdfs:label="2YR-MANUFACTUR-TECH" rdfs:comment="2-YEAR MANUFACTURING TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_2_MET" psu:hasLegacyId="2 MET" rdfs:label="2YR-MECH-ENG-TECH" rdfs:comment="2-YEAR MECHANICAL ENGINEERING TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="2 MLT" rdfs:label="2YR-MEDCL-LAB-TEC" rdfs:comment="2-YEAR MEDICAL LABORATORY TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_2_MFT" psu:hasLegacyId="2 MFT" rdfs:label="2YR-MANUFACTUR-TECH" rdfs:comment="2-YEAR MANUFACTURING TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="2 NET" rdfs:label="2YR-NUC-ENGR-TECH" rdfs:comment="2-YEAR NUCLEAR ENGINEERING TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_2_MLT" psu:hasLegacyId="2 MLT" rdfs:label="2YR-MEDCL-LAB-TEC" rdfs:comment="2-YEAR MEDICAL LABORATORY TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="2 NMT" rdfs:label="2YR-NANOFAB MFG TECH" rdfs:comment="2-YEAR NANOFABRICATION MANUFACTURING TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_2_NET" psu:hasLegacyId="2 NET" rdfs:label="2YR-NUC-ENGR-TECH" rdfs:comment="2-YEAR NUCLEAR ENGINEERING TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="2 O T" rdfs:label="2YR-OCCUPTNL THERAPY" rdfs:comment="2-YEAR OCCUPATIONAL THERAPY" />
+	<psu:DegreeProgram rdf:ID="_2_NMT" psu:hasLegacyId="2 NMT" rdfs:label="2YR-NANOFAB MFG TECH" rdfs:comment="2-YEAR NANOFABRICATION MANUFACTURING TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="2 PTA" rdfs:label="2YR-PHYS-THER-AST" rdfs:comment="2-YEAR PHYSICAL THERAPIST ASSISTANCE" />
+	<psu:DegreeProgram rdf:ID="_2_O_T" psu:hasLegacyId="2 O T" rdfs:label="2YR-OCCUPTNL THERAPY" rdfs:comment="2-YEAR OCCUPATIONAL THERAPY" />
 	
-	<psu:DegreeProgram rdf:ID="2 SC" rdfs:label="2YR-SCIENCE" rdfs:comment="2-YEAR SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_2_PTA" psu:hasLegacyId="2 PTA" rdfs:label="2YR-PHYS-THER-AST" rdfs:comment="2-YEAR PHYSICAL THERAPIST ASSISTANCE" />
 	
-	<psu:DegreeProgram rdf:ID="2 SRT" rdfs:label="2YR-SURVEYNG-TECH" rdfs:comment="2-YEAR SURVEYING TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_2_SC" psu:hasLegacyId="2 SC" rdfs:label="2YR-SCIENCE" rdfs:comment="2-YEAR SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="2 WLT" rdfs:label="2YR-WILDLIFE-TECH" rdfs:comment="2-YEAR WILDLIFE TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_2_SRT" psu:hasLegacyId="2 SRT" rdfs:label="2YR-SURVEYNG-TECH" rdfs:comment="2-YEAR SURVEYING TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="2BAAB" rdfs:label="2YR-BUSINESS ADMN" rdfs:comment="2-YEAR BUSINESS ADMINISTRATION" />
+	<psu:DegreeProgram rdf:ID="_2_WLT" psu:hasLegacyId="2 WLT" rdfs:label="2YR-WILDLIFE-TECH" rdfs:comment="2-YEAR WILDLIFE TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="2BAAL" rdfs:label="2YR-BUSINESS-ADMN" rdfs:comment="2-YEAR BUSINESS ADMINISTRATION" />
+	<psu:DegreeProgram rdf:ID="_2BAAB" psu:hasLegacyId="2BAAB" rdfs:label="2YR-BUSINESS ADMN" rdfs:comment="2-YEAR BUSINESS ADMINISTRATION" />
 	
-	<psu:DegreeProgram rdf:ID="2BABC" rdfs:label="2YR-BUSINESS-ADMN" rdfs:comment="2-YEAR BUSINESS ADMINISTRATION" />
+	<psu:DegreeProgram rdf:ID="_2BAAL" psu:hasLegacyId="2BAAL" rdfs:label="2YR-BUSINESS-ADMN" rdfs:comment="2-YEAR BUSINESS ADMINISTRATION" />
 	
-	<psu:DegreeProgram rdf:ID="2BABL" rdfs:label="2YR-BUSINESS-ADMN" rdfs:comment="2-YEAR BUSINESS ADMINISTRATION" />
+	<psu:DegreeProgram rdf:ID="_2BABC" psu:hasLegacyId="2BABC" rdfs:label="2YR-BUSINESS-ADMN" rdfs:comment="2-YEAR BUSINESS ADMINISTRATION" />
 	
-	<psu:DegreeProgram rdf:ID="EIART" rdfs:label="INTEGRATIVE ARTS" rdfs:comment="INTEGRATIVE ARTS" />
+	<psu:DegreeProgram rdf:ID="_2BABL" psu:hasLegacyId="2BABL" rdfs:label="2YR-BUSINESS-ADMN" rdfs:comment="2-YEAR BUSINESS ADMINISTRATION" />
 	
-	<psu:DegreeProgram rdf:ID="EK ED" rdfs:label="EL &amp; KINDRGRTN ED" rdfs:comment="ELEMENTARY &amp; KINDERGARTEN EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_EIART" psu:hasLegacyId="EIART" rdfs:label="INTEGRATIVE ARTS" rdfs:comment="INTEGRATIVE ARTS" />
 	
-	<psu:DegreeProgram rdf:ID="EL ED" rdfs:label="ELEMENTARY EDUCATION" rdfs:comment="ELEMENTARY EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_EK_ED" psu:hasLegacyId="EK ED" rdfs:label="EL &amp; KINDRGRTN ED" rdfs:comment="ELEMENTARY &amp; KINDERGARTEN EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="ELAS" rdfs:label="LTRS-ARTS-SCIENCE-EX" rdfs:comment="LETTERS, ARTS, &amp; SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_EL_ED" psu:hasLegacyId="EL ED" rdfs:label="ELEMENTARY EDUCATION" rdfs:comment="ELEMENTARY EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="ELEDM" rdfs:label="ELEM ED MULTICUL SET" rdfs:comment="ELEMENTARY EDUCATION IN MULTICULTURAL SETTINGS" />
+	<psu:DegreeProgram rdf:ID="_ELAS" psu:hasLegacyId="ELAS" rdfs:label="LTRS-ARTS-SCIENCE-EX" rdfs:comment="LETTERS, ARTS, &amp; SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="ELEM" rdfs:label="CL ELEMENTARY ED" rdfs:comment="ELEMENTARY EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_ELEDM" psu:hasLegacyId="ELEDM" rdfs:label="ELEM ED MULTICUL SET" rdfs:comment="ELEMENTARY EDUCATION IN MULTICULTURAL SETTINGS" />
 	
-	<psu:DegreeProgram rdf:ID="ELISH" rdfs:label="BD ENGLISH" rdfs:comment="BEHREND COLLEGE ENGLISH" />
+	<psu:DegreeProgram rdf:ID="_ELEM" psu:hasLegacyId="ELEM" rdfs:label="CL ELEMENTARY ED" rdfs:comment="ELEMENTARY EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="EM SC" rdfs:label="EARTH &amp; MINRL SCI" rdfs:comment="THE COLLEGE OF EARTH &amp; MINERAL SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_ELISH" psu:hasLegacyId="ELISH" rdfs:label="BD ENGLISH" rdfs:comment="BEHREND COLLEGE ENGLISH" />
 	
-	<psu:DegreeProgram rdf:ID="EME" rdfs:label="ENERGY &amp; MIN ENGR" rdfs:comment="ENERGY AND MINERAL ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_EM_SC" psu:hasLegacyId="EM SC" rdfs:label="EARTH &amp; MINRL SCI" rdfs:comment="THE COLLEGE OF EARTH &amp; MINERAL SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="EME T" rdfs:label="MECH ENGR TECH-EX" rdfs:comment="MECHANICAL ENGINEERING TECHNOLOGY EXTENDED" />
+	<psu:DegreeProgram rdf:ID="_EME" psu:hasLegacyId="EME" rdfs:label="ENERGY &amp; MIN ENGR" rdfs:comment="ENERGY AND MINERAL ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="EMET" rdfs:label="ELEC-MECH ENGR TECH" rdfs:comment="ELECTRO - MECHANICAL ENGINEERING TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_EME_T" psu:hasLegacyId="EME T" rdfs:label="MECH ENGR TECH-EX" rdfs:comment="MECHANICAL ENGINEERING TECHNOLOGY EXTENDED" />
 	
-	<psu:DegreeProgram rdf:ID="ENENG" rdfs:label="ENERGY ENGINEERING" rdfs:comment="ENERGY ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_EMET" psu:hasLegacyId="EMET" rdfs:label="ELEC-MECH ENGR TECH" rdfs:comment="ELECTRO - MECHANICAL ENGINEERING TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="ENGAB" rdfs:label="ABINGTON ENGLISH" rdfs:comment="ABINGTON COLLEGE ENGLISH" />
+	<psu:DegreeProgram rdf:ID="_ENENG" psu:hasLegacyId="ENENG" rdfs:label="ENERGY ENGINEERING" rdfs:comment="ENERGY ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="ENGAL" rdfs:label="ALTOONA ENGLISH" rdfs:comment="ALTOONA COLLEGE ENGLISH" />
+	<psu:DegreeProgram rdf:ID="_ENGAB" psu:hasLegacyId="ENGAB" rdfs:label="ABINGTON ENGLISH" rdfs:comment="ABINGTON COLLEGE ENGLISH" />
 	
-	<psu:DegreeProgram rdf:ID="ENGBD" rdfs:label="ENGINEERING BD" rdfs:comment="ENGINEERING BEHREND" />
+	<psu:DegreeProgram rdf:ID="_ENGAL" psu:hasLegacyId="ENGAL" rdfs:label="ALTOONA ENGLISH" rdfs:comment="ALTOONA COLLEGE ENGLISH" />
 	
-	<psu:DegreeProgram rdf:ID="ENGCC" rdfs:label="UNIV COLL ENGLISH" rdfs:comment="UNIVERSITY COLLEGE ENGLISH" />
+	<psu:DegreeProgram rdf:ID="_ENGBD" psu:hasLegacyId="ENGBD" rdfs:label="ENGINEERING BD" rdfs:comment="ENGINEERING BEHREND" />
 	
-	<psu:DegreeProgram rdf:ID="ENGCL" rdfs:label="CL ENGLISH" rdfs:comment="ENGLISH" />
+	<psu:DegreeProgram rdf:ID="_ENGCC" psu:hasLegacyId="ENGCC" rdfs:label="UNIV COLL ENGLISH" rdfs:comment="UNIVERSITY COLLEGE ENGLISH" />
 	
-	<psu:DegreeProgram rdf:ID="ENGL" rdfs:label="ENGLISH" rdfs:comment="ENGLISH" />
+	<psu:DegreeProgram rdf:ID="_ENGCL" psu:hasLegacyId="ENGCL" rdfs:label="CL ENGLISH" rdfs:comment="ENGLISH" />
 	
-	<psu:DegreeProgram rdf:ID="ENGMT" rdfs:label="ENGINEERING MGMT" rdfs:comment="ENGINEERING MGMT" />
+	<psu:DegreeProgram rdf:ID="_ENGL" psu:hasLegacyId="ENGL" rdfs:label="ENGLISH" rdfs:comment="ENGLISH" />
 	
-	<psu:DegreeProgram rdf:ID="ENGR" rdfs:label="ENGINEERING" rdfs:comment="THE COLLEGE OF ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_ENGMT" psu:hasLegacyId="ENGMT" rdfs:label="ENGINEERING MGMT" rdfs:comment="ENGINEERING MGMT" />
 	
-	<psu:DegreeProgram rdf:ID="ENGYT" rdfs:label="CL ENERGY TECHNOL" rdfs:comment="ENERGY TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_ENGR" psu:hasLegacyId="ENGR" rdfs:label="ENGINEERING" rdfs:comment="THE COLLEGE OF ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="ENNEC" rdfs:label="ENERGY, ENV, MIN ECO" rdfs:comment="ENERGY, ENVIRONMENTAL, AND MINERAL ECONOMICS" />
+	<psu:DegreeProgram rdf:ID="_ENGYT" psu:hasLegacyId="ENGYT" rdfs:label="CL ENERGY TECHNOL" rdfs:comment="ENERGY TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="ENRGY" rdfs:label="BD ENRGY SC &amp; ENG" rdfs:comment="ENERGY SCIENCE &amp; ENGINEERING-BEHREND" />
+	<psu:DegreeProgram rdf:ID="_ENNEC" psu:hasLegacyId="ENNEC" rdfs:label="ENERGY, ENV, MIN ECO" rdfs:comment="ENERGY, ENVIRONMENTAL, AND MINERAL ECONOMICS" />
 	
-	<psu:DegreeProgram rdf:ID="ENT" rdfs:label="ENTOMOLOGY" rdfs:comment="ENTOMOLOGY" />
+	<psu:DegreeProgram rdf:ID="_ENRGY" psu:hasLegacyId="ENRGY" rdfs:label="BD ENRGY SC &amp; ENG" rdfs:comment="ENERGY SCIENCE &amp; ENGINEERING-BEHREND" />
 	
-	<psu:DegreeProgram rdf:ID="ENV E" rdfs:label="ENVIRONMENTL ENGR" rdfs:comment="ENVIRONMENTAL ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_ENT" psu:hasLegacyId="ENT" rdfs:label="ENTOMOLOGY" rdfs:comment="ENTOMOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="ENVE" rdfs:label="CL ENVIRON ENGR" rdfs:comment="ENVIRONMENTAL ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_ENV_E" psu:hasLegacyId="ENV E" rdfs:label="ENVIRONMENTL ENGR" rdfs:comment="ENVIRONMENTAL ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="ENVET" rdfs:label="CL ENVIRON ENGR TECH" rdfs:comment="ENVIRONMENTAL ENGINEERING TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_ENVE" psu:hasLegacyId="ENVE" rdfs:label="CL ENVIRON ENGR" rdfs:comment="ENVIRONMENTAL ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="ENVRN" rdfs:label="BD ENV SCI &amp; ENGR" rdfs:comment="ENVIRONMENTAL SCIENCE &amp; ENGINEERING BEHREND" />
+	<psu:DegreeProgram rdf:ID="_ENVET" psu:hasLegacyId="ENVET" rdfs:label="CL ENVIRON ENGR TECH" rdfs:comment="ENVIRONMENTAL ENGINEERING TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="ENVSE" rdfs:label="ENVIRONMENTAL SYS EN" rdfs:comment="ENVIRONMENTAL SYSTEMS ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_ENVRN" psu:hasLegacyId="ENVRN" rdfs:label="BD ENV SCI &amp; ENGR" rdfs:comment="ENVIRONMENTAL SCIENCE &amp; ENGINEERING BEHREND" />
 	
-	<psu:DegreeProgram rdf:ID="ENVST" rdfs:label="ALTOONA ENVR STUDIES" rdfs:comment="ALTOONA COLLEGE ENVIRONMENTAL STUDIES" />
+	<psu:DegreeProgram rdf:ID="_ENVSE" psu:hasLegacyId="ENVSE" rdfs:label="ENVIRONMENTAL SYS EN" rdfs:comment="ENVIRONMENTAL SYSTEMS ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="EPP" rdfs:label="EDUC &amp; PUBLIC POLICY" rdfs:comment="EDUCATION AND PUBLIC POLICY" />
+	<psu:DegreeProgram rdf:ID="_ENVST" psu:hasLegacyId="ENVST" rdfs:label="ALTOONA ENVR STUDIES" rdfs:comment="ALTOONA COLLEGE ENVIRONMENTAL STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="ESCBS" rdfs:label="SCIENCE- BS DEG" rdfs:comment="SCIENCE BACHELOR OF SCIENCE DEGREE" />
+	<psu:DegreeProgram rdf:ID="_EPP" psu:hasLegacyId="EPP" rdfs:label="EDUC &amp; PUBLIC POLICY" rdfs:comment="EDUCATION AND PUBLIC POLICY" />
 	
-	<psu:DegreeProgram rdf:ID="ESMCH" rdfs:label="ENGINEER SCI AND MEC" rdfs:comment="ENGINEERING SCIENCE AND MECHANICS" />
+	<psu:DegreeProgram rdf:ID="_ESCBS" psu:hasLegacyId="ESCBS" rdfs:label="SCIENCE- BS DEG" rdfs:comment="SCIENCE BACHELOR OF SCIENCE DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="ESOIL" rdfs:label="ENVIRONMNTAL SOIL SC" rdfs:comment="ENVIRONMENTAL SOIL SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_ESMCH" psu:hasLegacyId="ESMCH" rdfs:label="ENGINEER SCI AND MEC" rdfs:comment="ENGINEERING SCIENCE AND MECHANICS" />
 	
-	<psu:DegreeProgram rdf:ID="ESPCM" rdfs:label="SPEECH COMMUNICATION" rdfs:comment="SPEECH COMMUNICATION" />
+	<psu:DegreeProgram rdf:ID="_ESOIL" psu:hasLegacyId="ESOIL" rdfs:label="ENVIRONMNTAL SOIL SC" rdfs:comment="ENVIRONMENTAL SOIL SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="EVIED" rdfs:label="VOC IND ED -EXTND" rdfs:comment="VOCATIONAL INDUSTRIAL EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_ESPCM" psu:hasLegacyId="ESPCM" rdfs:label="SPEECH COMMUNICATION" rdfs:comment="SPEECH COMMUNICATION" />
 	
-	<psu:DegreeProgram rdf:ID="EWFED" rdfs:label="WRKFRCE ED &amp; DEV-EX" rdfs:comment="WORKFORCE EDUCATION &amp; DEVELOPMENT" />
+	<psu:DegreeProgram rdf:ID="_EVIED" psu:hasLegacyId="EVIED" rdfs:label="VOC IND ED -EXTND" rdfs:comment="VOCATIONAL INDUSTRIAL EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="EXMBA" rdfs:label="BUSINESS ADMINISTRAT" rdfs:comment="BUSINESS ADMINISTRATION" />
+	<psu:DegreeProgram rdf:ID="_EWFED" psu:hasLegacyId="EWFED" rdfs:label="WRKFRCE ED &amp; DEV-EX" rdfs:comment="WORKFORCE EDUCATION &amp; DEVELOPMENT" />
 	
-	<psu:DegreeProgram rdf:ID="EXSCI" rdfs:label="EXER &amp; SPORT SCIENCE" rdfs:comment="EXERCISE AND SPORT SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_EXMBA" psu:hasLegacyId="EXMBA" rdfs:label="BUSINESS ADMINISTRAT" rdfs:comment="BUSINESS ADMINISTRATION" />
 	
-	<psu:DegreeProgram rdf:ID="EXTED" rdfs:label="EXTENSION ED" rdfs:comment="EXTENSION EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_EXSCI" psu:hasLegacyId="EXSCI" rdfs:label="EXER &amp; SPORT SCIENCE" rdfs:comment="EXERCISE AND SPORT SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="F P" rdfs:label="FOREST PRODUCTS" rdfs:comment="FOREST PRODUCTS" />
+	<psu:DegreeProgram rdf:ID="_EXTED" psu:hasLegacyId="EXTED" rdfs:label="EXTENSION ED" rdfs:comment="EXTENSION EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="F SC" rdfs:label="FUEL SCIENCE" rdfs:comment="FUEL SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_F_P" psu:hasLegacyId="F P" rdfs:label="FOREST PRODUCTS" rdfs:comment="FOREST PRODUCTS" />
 	
-	<psu:DegreeProgram rdf:ID="F SER" rdfs:label="FRGN SVC INTL POL" rdfs:comment="FOREIGN SERVICE &amp; INTERNATIONAL POLITICS" />
+	<psu:DegreeProgram rdf:ID="_F_SC" psu:hasLegacyId="F SC" rdfs:label="FUEL SCIENCE" rdfs:comment="FUEL SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="F W S" rdfs:label="FISH &amp; WILDLIFE SCI" rdfs:comment="FISH AND WILDLIFE SCIENCE AT UNIVERSITY PARK" />
+	<psu:DegreeProgram rdf:ID="_F_SER" psu:hasLegacyId="F SER" rdfs:label="FRGN SVC INTL POL" rdfs:comment="FOREIGN SERVICE &amp; INTERNATIONAL POLITICS" />
 	
-	<psu:DegreeProgram rdf:ID="FD SC" rdfs:label="FOOD SCIENCE" rdfs:comment="FOOD SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_F_W_S" psu:hasLegacyId="F W S" rdfs:label="FISH &amp; WILDLIFE SCI" rdfs:comment="FISH AND WILDLIFE SCIENCE AT UNIVERSITY PARK" />
 	
-	<psu:DegreeProgram rdf:ID="FE HM" rdfs:label="FAM ECON &amp;_HOME MGMT" rdfs:comment="FAMILY ECONOMICS AND HOME MANAGEMENT                                                                THIS MAJOR IS NO LONGER OFFERED AT PSU, BUT IT IS NEEDED BY THE GRAD SCHOOL TO REINSTATE THE        TRANSCRIPT  ON AIS" />
+	<psu:DegreeProgram rdf:ID="_FD_SC" psu:hasLegacyId="FD SC" rdfs:label="FOOD SCIENCE" rdfs:comment="FOOD SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="FILM" rdfs:label="FILM &amp; VIDEO" rdfs:comment="FILM AND VIDEO" />
+	<psu:DegreeProgram rdf:ID="_FE_HM" psu:hasLegacyId="FE HM" rdfs:label="FAM ECON &amp;_HOME MGMT" rdfs:comment="FAMILY ECONOMICS AND HOME MANAGEMENT                                                                THIS MAJOR IS NO LONGER OFFERED AT PSU, BUT IT IS NEEDED BY THE GRAD SCHOOL TO REINSTATE THE        TRANSCRIPT  ON AIS" />
 	
-	<psu:DegreeProgram rdf:ID="FIN" rdfs:label="FINANCE" rdfs:comment="FINANCE" />
+	<psu:DegreeProgram rdf:ID="_FILM" psu:hasLegacyId="FILM" rdfs:label="FILM &amp; VIDEO" rdfs:comment="FILM AND VIDEO" />
 	
-	<psu:DegreeProgram rdf:ID="FINAN" rdfs:label="GV FINANCE" rdfs:comment="GREAT VALLEY FINANCE" />
+	<psu:DegreeProgram rdf:ID="_FIN" psu:hasLegacyId="FIN" rdfs:label="FINANCE" rdfs:comment="FINANCE" />
 	
-	<psu:DegreeProgram rdf:ID="FINCE" rdfs:label="CL FINANCE" rdfs:comment="FINANCE" />
+	<psu:DegreeProgram rdf:ID="_FINAN" psu:hasLegacyId="FINAN" rdfs:label="GV FINANCE" rdfs:comment="GREAT VALLEY FINANCE" />
 	
-	<psu:DegreeProgram rdf:ID="FINIB" rdfs:label="FINANCE &amp; INTL BUS" rdfs:comment="FINANCE &amp; INTERNATIONAL BUSINESS" />
+	<psu:DegreeProgram rdf:ID="_FINCE" psu:hasLegacyId="FINCE" rdfs:label="CL FINANCE" rdfs:comment="FINANCE" />
 	
-	<psu:DegreeProgram rdf:ID="FNC" rdfs:label="BD FINANCE" rdfs:comment="BEHREND COLLEGE FINANCE" />
+	<psu:DegreeProgram rdf:ID="_FINIB" psu:hasLegacyId="FINIB" rdfs:label="FINANCE &amp; INTL BUS" rdfs:comment="FINANCE &amp; INTERNATIONAL BUSINESS" />
 	
-	<psu:DegreeProgram rdf:ID="FOR R" rdfs:label="FORST RESRCS" rdfs:comment="FOREST RESOURCES" />
+	<psu:DegreeProgram rdf:ID="_FNC" psu:hasLegacyId="FNC" rdfs:label="BD FINANCE" rdfs:comment="BEHREND COLLEGE FINANCE" />
 	
-	<psu:DegreeProgram rdf:ID="FORSC" rdfs:label="FOREST SCIENCE" rdfs:comment="FOREST SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_FOR_R" psu:hasLegacyId="FOR R" rdfs:label="FORST RESRCS" rdfs:comment="FOREST RESOURCES" />
 	
-	<psu:DegreeProgram rdf:ID="FR" rdfs:label="FRENCH" rdfs:comment="FRENCH" />
+	<psu:DegreeProgram rdf:ID="_FORSC" psu:hasLegacyId="FORSC" rdfs:label="FOREST SCIENCE" rdfs:comment="FOREST SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="FR BA" rdfs:label="FRENCH- B A DEGR" rdfs:comment="FRENCH &amp; FRANCOPHONE STUDIES BACH OF ARTS DEGREE" />
+	<psu:DegreeProgram rdf:ID="_FR" psu:hasLegacyId="FR" rdfs:label="FRENCH" rdfs:comment="FRENCH" />
 	
-	<psu:DegreeProgram rdf:ID="FR BS" rdfs:label="FRENCH- B S DEGR" rdfs:comment="FRENCH &amp; FRANCOPHONE STUDIES BACH OF SCI DEGREE" />
+	<psu:DegreeProgram rdf:ID="_FR_BA" psu:hasLegacyId="FR BA" rdfs:label="FRENCH- B A DEGR" rdfs:comment="FRENCH &amp; FRANCOPHONE STUDIES BACH OF ARTS DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="FRNPA" rdfs:label="FRENCH STUDIES" rdfs:comment="FRENCH STUDIES" />
+	<psu:DegreeProgram rdf:ID="_FR_BS" psu:hasLegacyId="FR BS" rdfs:label="FRENCH- B S DEGR" rdfs:comment="FRENCH &amp; FRANCOPHONE STUDIES BACH OF SCI DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="FRNSC" rdfs:label="FORENSIC SCIENCE" rdfs:comment="FORENSIC SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_FRNPA" psu:hasLegacyId="FRNPA" rdfs:label="FRENCH STUDIES" rdfs:comment="FRENCH STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="FRNST" rdfs:label="FRNCH STDIES" rdfs:comment="FRENCH STUDIES" />
+	<psu:DegreeProgram rdf:ID="_FRNSC" psu:hasLegacyId="FRNSC" rdfs:label="FORENSIC SCIENCE" rdfs:comment="FORENSIC SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="G ART" rdfs:label="G ART" rdfs:comment="GENERAL ARTS" />
+	<psu:DegreeProgram rdf:ID="_FRNST" psu:hasLegacyId="FRNST" rdfs:label="FRNCH STDIES" rdfs:comment="FRENCH STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="G BUS" rdfs:label="CL GENRL BUSINESS" rdfs:comment="GENERAL BUSINESS" />
+	<psu:DegreeProgram rdf:ID="_G_ART" psu:hasLegacyId="G ART" rdfs:label="G ART" rdfs:comment="GENERAL ARTS" />
 	
-	<psu:DegreeProgram rdf:ID="G HUM" rdfs:label="CL GEN HUMANITIES" rdfs:comment="GENERAL HUMANITIES" />
+	<psu:DegreeProgram rdf:ID="_G_BUS" psu:hasLegacyId="G BUS" rdfs:label="CL GENRL BUSINESS" rdfs:comment="GENERAL BUSINESS" />
 	
-	<psu:DegreeProgram rdf:ID="G M" rdfs:label="GEOCHEM &amp; MINERAL" rdfs:comment="GEOCHEMISTRY AND MINERALOGY" />
+	<psu:DegreeProgram rdf:ID="_G_HUM" psu:hasLegacyId="G HUM" rdfs:label="CL GEN HUMANITIES" rdfs:comment="GENERAL HUMANITIES" />
 	
-	<psu:DegreeProgram rdf:ID="GAS" rdfs:label="BD GEN ARTS &amp; SCI" rdfs:comment="BEHREND COLLEGE GENERAL ARTS &amp; SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_G_M" psu:hasLegacyId="G M" rdfs:label="GEOCHEM &amp; MINERAL" rdfs:comment="GEOCHEMISTRY AND MINERALOGY" />
 	
-	<psu:DegreeProgram rdf:ID="GD" rdfs:label="GRAPHIC DESIGN" rdfs:comment="GRAPHIC DESIGN" />
+	<psu:DegreeProgram rdf:ID="_GAS" psu:hasLegacyId="GAS" rdfs:label="BD GEN ARTS &amp; SCI" rdfs:comment="BEHREND COLLEGE GENERAL ARTS &amp; SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="GD PH" rdfs:label="GRAPHIC DES &amp; PHOTO" rdfs:comment="GRAPHIC DESIGN &amp; PHOTOGRAPHY" />
+	<psu:DegreeProgram rdf:ID="_GD" psu:hasLegacyId="GD" rdfs:label="GRAPHIC DESIGN" rdfs:comment="GRAPHIC DESIGN" />
 	
-	<psu:DegreeProgram rdf:ID="GENET" rdfs:label="GENETICS" rdfs:comment="GENETICS" />
+	<psu:DegreeProgram rdf:ID="_GD_PH" psu:hasLegacyId="GD PH" rdfs:label="GRAPHIC DES &amp; PHOTO" rdfs:comment="GRAPHIC DESIGN &amp; PHOTOGRAPHY" />
 	
-	<psu:DegreeProgram rdf:ID="GEOBA" rdfs:label="GEOGRAPHY - B A DEGR" rdfs:comment="GEOGRAPHY BACHELOR OF ARTS DEGREE" />
+	<psu:DegreeProgram rdf:ID="_GENET" psu:hasLegacyId="GENET" rdfs:label="GENETICS" rdfs:comment="GENETICS" />
 	
-	<psu:DegreeProgram rdf:ID="GEOBI" rdfs:label="GEOBIOLOGY" rdfs:comment="GEOBIOLOGY" />
+	<psu:DegreeProgram rdf:ID="_GEOBA" psu:hasLegacyId="GEOBA" rdfs:label="GEOGRAPHY - B A DEGR" rdfs:comment="GEOGRAPHY BACHELOR OF ARTS DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="GEOBS" rdfs:label="GEOGRAPHY - B S DEGR" rdfs:comment="GEOGRAPHY BACHELOR OF SCIENCE DEGREE" />
+	<psu:DegreeProgram rdf:ID="_GEOBI" psu:hasLegacyId="GEOBI" rdfs:label="GEOBIOLOGY" rdfs:comment="GEOBIOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="GEOEE" rdfs:label="GEO-ENVIRONMTL ENGR" rdfs:comment="GEO-ENVIRONMENTAL ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_GEOBS" psu:hasLegacyId="GEOBS" rdfs:label="GEOGRAPHY - B S DEGR" rdfs:comment="GEOGRAPHY BACHELOR OF SCIENCE DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="GEOG" rdfs:label="GEOGRAPHY" rdfs:comment="GEOGRAPHY" />
+	<psu:DegreeProgram rdf:ID="_GEOEE" psu:hasLegacyId="GEOEE" rdfs:label="GEO-ENVIRONMTL ENGR" rdfs:comment="GEO-ENVIRONMENTAL ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="GEOL" rdfs:label="GEOLOGY" rdfs:comment="GEOLOGY" />
+	<psu:DegreeProgram rdf:ID="_GEOG" psu:hasLegacyId="GEOG" rdfs:label="GEOGRAPHY" rdfs:comment="GEOGRAPHY" />
 	
-	<psu:DegreeProgram rdf:ID="GEOSC" rdfs:label="GEOSCIENCES" rdfs:comment="GEOSCIENCES" />
+	<psu:DegreeProgram rdf:ID="_GEOL" psu:hasLegacyId="GEOL" rdfs:label="GEOLOGY" rdfs:comment="GEOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="GER" rdfs:label="GERMAN" rdfs:comment="GERMAN" />
+	<psu:DegreeProgram rdf:ID="_GEOSC" psu:hasLegacyId="GEOSC" rdfs:label="GEOSCIENCES" rdfs:comment="GEOSCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="GERBA" rdfs:label="GERMAN- B A DEGR" rdfs:comment="GERMAN BACHELOR OF ARTS DEGREE" />
+	<psu:DegreeProgram rdf:ID="_GER" psu:hasLegacyId="GER" rdfs:label="GERMAN" rdfs:comment="GERMAN" />
 	
-	<psu:DegreeProgram rdf:ID="GERBS" rdfs:label="GERMAN- B S DEGR" rdfs:comment="GERMAN BACHELOR OF SCIENCE DEGREE" />
+	<psu:DegreeProgram rdf:ID="_GERBA" psu:hasLegacyId="GERBA" rdfs:label="GERMAN- B A DEGR" rdfs:comment="GERMAN BACHELOR OF ARTS DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="GHHD" rdfs:label="REC &amp; PARK GOLF MGMT" rdfs:comment="RECREATION &amp; PARKS GOLF MANAGEMENT" />
+	<psu:DegreeProgram rdf:ID="_GERBS" psu:hasLegacyId="GERBS" rdfs:label="GERMAN- B S DEGR" rdfs:comment="GERMAN BACHELOR OF SCIENCE DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="GIS" rdfs:label="GEOGRAPHIC INFO SYST" rdfs:comment="GEOGRAPHIC INFORMATION SYSTEMS" />
+	<psu:DegreeProgram rdf:ID="_GHHD" psu:hasLegacyId="GHHD" rdfs:label="REC &amp; PARK GOLF MGMT" rdfs:comment="RECREATION &amp; PARKS GOLF MANAGEMENT" />
 	
-	<psu:DegreeProgram rdf:ID="GLBST" rdfs:label="BERKS GLOBAL ST" rdfs:comment="BERKS COLLEGE GLOBAL STUDIES" />
+	<psu:DegreeProgram rdf:ID="_GIS" psu:hasLegacyId="GIS" rdfs:label="GEOGRAPHIC INFO SYST" rdfs:comment="GEOGRAPHIC INFORMATION SYSTEMS" />
 	
-	<psu:DegreeProgram rdf:ID="GN AS" rdfs:label="GENL ARTS &amp; SCIEN" rdfs:comment="GENERAL ARTS &amp; SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_GLBST" psu:hasLegacyId="GLBST" rdfs:label="BERKS GLOBAL ST" rdfs:comment="BERKS COLLEGE GLOBAL STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="GNBUS" rdfs:label="CL GENERAL BUSINESS" rdfs:comment="GENERAL BUSINESS" />
+	<psu:DegreeProgram rdf:ID="_GN_AS" psu:hasLegacyId="GN AS" rdfs:label="GENL ARTS &amp; SCIEN" rdfs:comment="GENERAL ARTS &amp; SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="GPHYS" rdfs:label="GEOPHYSICS" rdfs:comment="GEOPHYSICS" />
+	<psu:DegreeProgram rdf:ID="_GNBUS" psu:hasLegacyId="GNBUS" rdfs:label="CL GENERAL BUSINESS" rdfs:comment="GENERAL BUSINESS" />
 	
-	<psu:DegreeProgram rdf:ID="GSCBA" rdfs:label="GEOSCIENCES B A DEG" rdfs:comment="GEOSCIENCES BACHELOR OF ARTS DEGREE" />
+	<psu:DegreeProgram rdf:ID="_GPHYS" psu:hasLegacyId="GPHYS" rdfs:label="GEOPHYSICS" rdfs:comment="GEOPHYSICS" />
 	
-	<psu:DegreeProgram rdf:ID="GSCBS" rdfs:label="GEOSCIENCES B S DEG" rdfs:comment="GEOSCIENCES BACHELOR OF SCIENCE DEGREE" />
+	<psu:DegreeProgram rdf:ID="_GSCBA" psu:hasLegacyId="GSCBA" rdfs:label="GEOSCIENCES B A DEG" rdfs:comment="GEOSCIENCES BACHELOR OF ARTS DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="GSOSC" rdfs:label="CL GEN SOC SCIENCE" rdfs:comment="GENERAL SOCIAL SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_GSCBS" psu:hasLegacyId="GSCBS" rdfs:label="GEOSCIENCES B S DEG" rdfs:comment="GEOSCIENCES BACHELOR OF SCIENCE DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="H ADM" rdfs:label="HEALTH ADMIN" rdfs:comment="HEALTH ADMINISTRATION" />
+	<psu:DegreeProgram rdf:ID="_GSOSC" psu:hasLegacyId="GSOSC" rdfs:label="CL GEN SOC SCIENCE" rdfs:comment="GENERAL SOCIAL SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="H DEV" rdfs:label="HUMAN DEVELOPMENT" rdfs:comment="HUMAN DEVELOPMENT" />
+	<psu:DegreeProgram rdf:ID="_H_ADM" psu:hasLegacyId="H ADM" rdfs:label="HEALTH ADMIN" rdfs:comment="HEALTH ADMINISTRATION" />
 	
-	<psu:DegreeProgram rdf:ID="H H D" rdfs:label="HEALTH &amp; HUMAN DEVEL" rdfs:comment="THE COLLEGE OF HEALTH &amp; HUMAN DEVELOPMENT" />
+	<psu:DegreeProgram rdf:ID="_H_DEV" psu:hasLegacyId="H DEV" rdfs:label="HUMAN DEVELOPMENT" rdfs:comment="HUMAN DEVELOPMENT" />
 	
-	<psu:DegreeProgram rdf:ID="H P A" rdfs:label="HEALTH POLICY &amp; ADM" rdfs:comment="HEALTH POLICY AND ADMINISTRATION" />
+	<psu:DegreeProgram rdf:ID="_H_H_D" psu:hasLegacyId="H H D" rdfs:label="HEALTH &amp; HUMAN DEVEL" rdfs:comment="THE COLLEGE OF HEALTH &amp; HUMAN DEVELOPMENT" />
 	
-	<psu:DegreeProgram rdf:ID="HD FS" rdfs:label="HUMAN DEV &amp; FAM ST" rdfs:comment="HUMAN DEVELOPMENT AND FAMILY STUDIES" />
+	<psu:DegreeProgram rdf:ID="_H_P_A" psu:hasLegacyId="H P A" rdfs:label="HEALTH POLICY &amp; ADM" rdfs:comment="HEALTH POLICY AND ADMINISTRATION" />
 	
-	<psu:DegreeProgram rdf:ID="HDNRE" rdfs:label="HUMAN DIMENSIONS" rdfs:comment="HUMAN DIMENSIONS OF NATURAL RESOURCES AND THE ENVIRONMENT" />
+	<psu:DegreeProgram rdf:ID="_HD_FS" psu:hasLegacyId="HD FS" rdfs:label="HUMAN DEV &amp; FAM ST" rdfs:comment="HUMAN DEVELOPMENT AND FAMILY STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="HE ED" rdfs:label="HOME ECONOMICS ED" rdfs:comment="HOME ECONOMICS EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_HDNRE" psu:hasLegacyId="HDNRE" rdfs:label="HUMAN DIMENSIONS" rdfs:comment="HUMAN DIMENSIONS OF NATURAL RESOURCES AND THE ENVIRONMENT" />
 	
-	<psu:DegreeProgram rdf:ID="HES" rdfs:label="HEALTH EVAL SCIENCES" rdfs:comment="HEALTH EVALUATION SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_HE_ED" psu:hasLegacyId="HE ED" rdfs:label="HOME ECONOMICS ED" rdfs:comment="HOME ECONOMICS EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="HFSAL" rdfs:label="ALTOONA COL HUM D FS" rdfs:comment="ALTOONA COLLEGE HUMAN DEVELOPMENT &amp; FAMILY STUDIES" />
+	<psu:DegreeProgram rdf:ID="_HES" psu:hasLegacyId="HES" rdfs:label="HEALTH EVAL SCIENCES" rdfs:comment="HEALTH EVALUATION SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="HFSCA" rdfs:label="HUMAN DEV &amp; FAM STUD" rdfs:comment="HUMAN DEVELOPMENT AND FAMILY STUDIES" />
+	<psu:DegreeProgram rdf:ID="_HFSAL" psu:hasLegacyId="HFSAL" rdfs:label="ALTOONA COL HUM D FS" rdfs:comment="ALTOONA COLLEGE HUMAN DEVELOPMENT &amp; FAMILY STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="HFSCC" rdfs:label="UNIV COL HUM DV FS" rdfs:comment="UNIVERSITY COLLEGE HUMAN DEV &amp; FAMILY STUDIES" />
+	<psu:DegreeProgram rdf:ID="_HFSCA" psu:hasLegacyId="HFSCA" rdfs:label="HUMAN DEV &amp; FAM STUD" rdfs:comment="HUMAN DEVELOPMENT AND FAMILY STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="HI ED" rdfs:label="HIGHER ED" rdfs:comment="HIGHER EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_HFSCC" psu:hasLegacyId="HFSCC" rdfs:label="UNIV COL HUM DV FS" rdfs:comment="UNIVERSITY COLLEGE HUMAN DEV &amp; FAMILY STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="HISAL" rdfs:label="ALTOONA HISTORY" rdfs:comment="ALTOONA COLLEGE HISTORY" />
+	<psu:DegreeProgram rdf:ID="_HI_ED" psu:hasLegacyId="HI ED" rdfs:label="HIGHER ED" rdfs:comment="HIGHER EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="HIST" rdfs:label="HISTORY" rdfs:comment="HISTORY" />
+	<psu:DegreeProgram rdf:ID="_HISAL" psu:hasLegacyId="HISAL" rdfs:label="ALTOONA HISTORY" rdfs:comment="ALTOONA COLLEGE HISTORY" />
 	
-	<psu:DegreeProgram rdf:ID="HL ED" rdfs:label="HEALTH EDUCATION" rdfs:comment="HEALTH EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_HIST" psu:hasLegacyId="HIST" rdfs:label="HISTORY" rdfs:comment="HISTORY" />
 	
-	<psu:DegreeProgram rdf:ID="HLHED" rdfs:label="HEALTH EDUCATION" rdfs:comment="HEALTH EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_HL_ED" psu:hasLegacyId="HL ED" rdfs:label="HEALTH EDUCATION" rdfs:comment="HEALTH EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="HNUTR" rdfs:label="HUMAN NUTR" rdfs:comment="HUMAN NUTRITION" />
+	<psu:DegreeProgram rdf:ID="_HLHED" psu:hasLegacyId="HLHED" rdfs:label="HEALTH EDUCATION" rdfs:comment="HEALTH EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="HORT" rdfs:label="HORTICULTURE" rdfs:comment="HORTICULTURE" />
+	<psu:DegreeProgram rdf:ID="_HNUTR" psu:hasLegacyId="HNUTR" rdfs:label="HUMAN NUTR" rdfs:comment="HUMAN NUTRITION" />
 	
-	<psu:DegreeProgram rdf:ID="HP ER" rdfs:label="HLTH PH ED RECRTN" rdfs:comment="HEALTH, PHYSICAL EDUCATION &amp; RECREATION" />
+	<psu:DegreeProgram rdf:ID="_HORT" psu:hasLegacyId="HORT" rdfs:label="HORTICULTURE" rdfs:comment="HORTICULTURE" />
 	
-	<psu:DegreeProgram rdf:ID="HR&IM" rdfs:label="HTL RST INST MGMT" rdfs:comment="HOTEL, RESTAURANT, AND INSTITUTIONAL MANAGEMENT" />
+	<psu:DegreeProgram rdf:ID="_HP_ER" psu:hasLegacyId="HP ER" rdfs:label="HLTH PH ED RECRTN" rdfs:comment="HEALTH, PHYSICAL EDUCATION &amp; RECREATION" />
 	
-	<psu:DegreeProgram rdf:ID="HRER" rdfs:label="HUMAN RES &amp; EMPL REL" rdfs:comment="HUMAN RESOURCES AND EMPLOYMENT RELATIONS" />
+	<psu:DegreeProgram rdf:ID="_HRnIM" psu:hasLegacyId="HR&amp;IM" rdfs:label="HTL RST INST MGMT" rdfs:comment="HOTEL, RESTAURANT, AND INSTITUTIONAL MANAGEMENT" />
 	
-	<psu:DegreeProgram rdf:ID="HRIM" rdfs:label="HTL RES INST MGMT" rdfs:comment="HOTEL, RESTAURANT, AND INSTITUTIONAL MANAGEMENT" />
+	<psu:DegreeProgram rdf:ID="_HRER" psu:hasLegacyId="HRER" rdfs:label="HUMAN RES &amp; EMPL REL" rdfs:comment="HUMAN RESOURCES AND EMPLOYMENT RELATIONS" />
 	
-	<psu:DegreeProgram rdf:ID="HSTAB" rdfs:label="ABINGTON HISTORY" rdfs:comment="ABINGTON COLLEGE HISTORY" />
+	<psu:DegreeProgram rdf:ID="_HRIM" psu:hasLegacyId="HRIM" rdfs:label="HTL RES INST MGMT" rdfs:comment="HOTEL, RESTAURANT, AND INSTITUTIONAL MANAGEMENT" />
 	
-	<psu:DegreeProgram rdf:ID="HSTBA" rdfs:label="BD HISTORY- B A" rdfs:comment="BEHREND COLLEGE BACHELOR OF ARTS HISTORY" />
+	<psu:DegreeProgram rdf:ID="_HSTAB" psu:hasLegacyId="HSTAB" rdfs:label="ABINGTON HISTORY" rdfs:comment="ABINGTON COLLEGE HISTORY" />
 	
-	<psu:DegreeProgram rdf:ID="HSTBS" rdfs:label="BD HISTORY- B S" rdfs:comment="BEHREND COLLEGE BACHELOR OF SCIENCE HISTORY" />
+	<psu:DegreeProgram rdf:ID="_HSTBA" psu:hasLegacyId="HSTBA" rdfs:label="BD HISTORY- B A" rdfs:comment="BEHREND COLLEGE BACHELOR OF ARTS HISTORY" />
 	
-	<psu:DegreeProgram rdf:ID="HUM" rdfs:label="CL HUMANITIES" rdfs:comment="HUMANITIES" />
+	<psu:DegreeProgram rdf:ID="_HSTBS" psu:hasLegacyId="HSTBS" rdfs:label="BD HISTORY- B S" rdfs:comment="BEHREND COLLEGE BACHELOR OF SCIENCE HISTORY" />
 	
-	<psu:DegreeProgram rdf:ID="HUM B" rdfs:label="HUMANITIES/BUSINESS" rdfs:comment="HUMANITIES/BUSINESS" />
+	<psu:DegreeProgram rdf:ID="_HUM" psu:hasLegacyId="HUM" rdfs:label="CL HUMANITIES" rdfs:comment="HUMANITIES" />
 	
-	<psu:DegreeProgram rdf:ID="I E" rdfs:label="INDUSTRIAL ENGR" rdfs:comment="INDUSTRIAL ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_HUM_B" psu:hasLegacyId="HUM B" rdfs:label="HUMANITIES/BUSINESS" rdfs:comment="HUMANITIES/BUSINESS" />
 	
-	<psu:DegreeProgram rdf:ID="I F S" rdfs:label="IND &amp; FAM STUDIES" rdfs:comment="INDIVIDUAL AND FAMILY STUDIES" />
+	<psu:DegreeProgram rdf:ID="_I_E" psu:hasLegacyId="I E" rdfs:label="INDUSTRIAL ENGR" rdfs:comment="INDUSTRIAL ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="I H S" rdfs:label="INDTRL HLTH &amp; SAFETY" rdfs:comment="INDUSTRIAL HEALTH &amp; SAFETY" />
+	<psu:DegreeProgram rdf:ID="_I_F_S" psu:hasLegacyId="I F S" rdfs:label="IND &amp; FAM STUDIES" rdfs:comment="INDIVIDUAL AND FAMILY STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="I HUM" rdfs:label="CL INTERD HUMANITIES" rdfs:comment="INTERDISCIPLINARY HUMANITIES" />
+	<psu:DegreeProgram rdf:ID="_I_H_S" psu:hasLegacyId="I H S" rdfs:label="INDTRL HLTH &amp; SAFETY" rdfs:comment="INDUSTRIAL HEALTH &amp; SAFETY" />
 	
-	<psu:DegreeProgram rdf:ID="I L A" rdfs:label="INTERDIS LIB ARTS" rdfs:comment="INTERDISCIPLINARY LIBERAL ARTS" />
+	<psu:DegreeProgram rdf:ID="_I_HUM" psu:hasLegacyId="I HUM" rdfs:label="CL INTERD HUMANITIES" rdfs:comment="INTERDISCIPLINARY HUMANITIES" />
 	
-	<psu:DegreeProgram rdf:ID="I MBA" rdfs:label="BUSINESS ADMIN" rdfs:comment="BUSINESS ADMINISTRATION" />
+	<psu:DegreeProgram rdf:ID="_I_L_A" psu:hasLegacyId="I L A" rdfs:label="INTERDIS LIB ARTS" rdfs:comment="INTERDISCIPLINARY LIBERAL ARTS" />
 	
-	<psu:DegreeProgram rdf:ID="I&ID" rdfs:label="IMNLGY &amp; INFCTUS DIS" rdfs:comment="IMMUNOLOGY AND INFECTIOUS DISEASES" />
+	<psu:DegreeProgram rdf:ID="_I_MBA" psu:hasLegacyId="I MBA" rdfs:label="BUSINESS ADMIN" rdfs:comment="BUSINESS ADMINISTRATION" />
 	
-	<psu:DegreeProgram rdf:ID="IA ED" rdfs:label="INDUST ART ED" rdfs:comment="INDUSTRIAL ARTS EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_InID" psu:hasLegacyId="I&amp;ID" rdfs:label="IMNLGY &amp; INFCTUS DIS" rdfs:comment="IMMUNOLOGY AND INFECTIOUS DISEASES" />
 	
-	<psu:DegreeProgram rdf:ID="IARAB" rdfs:label="ABINGTON INTG ARTS" rdfs:comment="ABINGTON COLLEGE INTEGRATIVE ARTS" />
+	<psu:DegreeProgram rdf:ID="_IA_ED" psu:hasLegacyId="IA ED" rdfs:label="INDUST ART ED" rdfs:comment="INDUSTRIAL ARTS EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="IARAL" rdfs:label="ALTOONA INTEGR ARTS" rdfs:comment="ALTOONA COLLEGE INTEGRATIVE ARTS" />
+	<psu:DegreeProgram rdf:ID="_IARAB" psu:hasLegacyId="IARAB" rdfs:label="ABINGTON INTG ARTS" rdfs:comment="ABINGTON COLLEGE INTEGRATIVE ARTS" />
 	
-	<psu:DegreeProgram rdf:ID="IBE" rdfs:label="IDISC BUS W/ENGR ST" rdfs:comment="INTERDISCIPLINARY BUSINESS WITH ENGR STUDIES" />
+	<psu:DegreeProgram rdf:ID="_IARAL" psu:hasLegacyId="IARAL" rdfs:label="ALTOONA INTEGR ARTS" rdfs:comment="ALTOONA COLLEGE INTEGRATIVE ARTS" />
 	
-	<psu:DegreeProgram rdf:ID="IBIOS" rdfs:label="INTEGRATIVE BIOSCIEN" rdfs:comment="INTEGRATIVE BIOSCIENCES" />
+	<psu:DegreeProgram rdf:ID="_IBE" psu:hasLegacyId="IBE" rdfs:label="IDISC BUS W/ENGR ST" rdfs:comment="INTERDISCIPLINARY BUSINESS WITH ENGR STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="IDS" rdfs:label="INTRDIS DIGTL STUDIO" rdfs:comment="INTERDISCIPLINARY DIGITAL STUDIO" />
+	<psu:DegreeProgram rdf:ID="_IBIOS" psu:hasLegacyId="IBIOS" rdfs:label="INTEGRATIVE BIOSCIEN" rdfs:comment="INTEGRATIVE BIOSCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="IID" rdfs:label="IMNLGY &amp; INFCTUS DIS" rdfs:comment="IMMUNOLOGY AND INFECTIOUS DISEASES" />
+	<psu:DegreeProgram rdf:ID="_IDS" psu:hasLegacyId="IDS" rdfs:label="INTRDIS DIGTL STUDIO" rdfs:comment="INTERDISCIPLINARY DIGITAL STUDIO" />
 	
-	<psu:DegreeProgram rdf:ID="IN SC" rdfs:label="INFORMATION SCIENCE" rdfs:comment="INFORMATION SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_IID" psu:hasLegacyId="IID" rdfs:label="IMNLGY &amp; INFCTUS DIS" rdfs:comment="IMMUNOLOGY AND INFECTIOUS DISEASES" />
 	
-	<psu:DegreeProgram rdf:ID="INART" rdfs:label="INTEGRATIVE ARTS" rdfs:comment="INTEGRATIVE ARTS" />
+	<psu:DegreeProgram rdf:ID="_IN_SC" psu:hasLegacyId="IN SC" rdfs:label="INFORMATION SCIENCE" rdfs:comment="INFORMATION SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="INFST" rdfs:label="INFO SCI &amp; TECH" rdfs:comment="THE COLLEGE OF INFORMATION SCIENCES &amp; TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_INART" psu:hasLegacyId="INART" rdfs:label="INTEGRATIVE ARTS" rdfs:comment="INTEGRATIVE ARTS" />
 	
-	<psu:DegreeProgram rdf:ID="INFSY" rdfs:label="CL INFO SYSTEMS" rdfs:comment="INFORMATION SYSTEMS" />
+	<psu:DegreeProgram rdf:ID="_INFST" psu:hasLegacyId="INFST" rdfs:label="INFO SCI &amp; TECH" rdfs:comment="THE COLLEGE OF INFORMATION SCIENCES &amp; TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="INS" rdfs:label="INSURANCE" rdfs:comment="INSURANCE" />
+	<psu:DegreeProgram rdf:ID="_INFSY" psu:hasLegacyId="INFSY" rdfs:label="CL INFO SYSTEMS" rdfs:comment="INFORMATION SYSTEMS" />
 	
-	<psu:DegreeProgram rdf:ID="INSCI" rdfs:label="INFORMATION SCIENCE" rdfs:comment="INFORMATION SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_INS" psu:hasLegacyId="INS" rdfs:label="INSURANCE" rdfs:comment="INSURANCE" />
 	
-	<psu:DegreeProgram rdf:ID="INSIB" rdfs:label="INSURANCE &amp; INTL BUS" rdfs:comment="INSURANCE &amp; INTERNATIONAL BUSINESS" />
+	<psu:DegreeProgram rdf:ID="_INSCI" psu:hasLegacyId="INSCI" rdfs:label="INFORMATION SCIENCE" rdfs:comment="INFORMATION SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="INSYS" rdfs:label="INSTRUCT SYSTEMS" rdfs:comment="INSTRUCTIONAL SYSTEMS" />
+	<psu:DegreeProgram rdf:ID="_INSIB" psu:hasLegacyId="INSIB" rdfs:label="INSURANCE &amp; INTL BUS" rdfs:comment="INSURANCE &amp; INTERNATIONAL BUSINESS" />
 	
-	<psu:DegreeProgram rdf:ID="INT B" rdfs:label="BD INTERNATL BUS" rdfs:comment="THE BEHREND COLLEGE INTERNATIONAL BUSINESS" />
+	<psu:DegreeProgram rdf:ID="_INSYS" psu:hasLegacyId="INSYS" rdfs:label="INSTRUCT SYSTEMS" rdfs:comment="INSTRUCTIONAL SYSTEMS" />
 	
-	<psu:DegreeProgram rdf:ID="INTAF" rdfs:label="INTERNATIONL AFFAIRS" rdfs:comment="INTERNATIONAL AFFAIRS" />
+	<psu:DegreeProgram rdf:ID="_INT_B" psu:hasLegacyId="INT B" rdfs:label="BD INTERNATL BUS" rdfs:comment="THE BEHREND COLLEGE INTERNATIONAL BUSINESS" />
 	
-	<psu:DegreeProgram rdf:ID="INTPL" rdfs:label="INTERNAT'L POLITICS" rdfs:comment="INTERNATIONAL POLITICS" />
+	<psu:DegreeProgram rdf:ID="_INTAF" psu:hasLegacyId="INTAF" rdfs:label="INTERNATIONL AFFAIRS" rdfs:comment="INTERNATIONAL AFFAIRS" />
 	
-	<psu:DegreeProgram rdf:ID="IR HR" rdfs:label="INDUST REL &amp; HUM REL" rdfs:comment="INDUSTRIAL RELATIONS AND HUMAN RESOURCES" />
+	<psu:DegreeProgram rdf:ID="_INTPL" psu:hasLegacyId="INTPL" rdfs:label="INTERNAT'L POLITICS" rdfs:comment="INTERNATIONAL POLITICS" />
 	
-	<psu:DegreeProgram rdf:ID="IST" rdfs:label="INFO SCI &amp; TECH" rdfs:comment="INFORMATION SCIENCES &amp; TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_IR_HR" psu:hasLegacyId="IR HR" rdfs:label="INDUST REL &amp; HUM REL" rdfs:comment="INDUSTRIAL RELATIONS AND HUMAN RESOURCES" />
 	
-	<psu:DegreeProgram rdf:ID="IT" rdfs:label="ITALIAN" rdfs:comment="ITALIAN" />
+	<psu:DegreeProgram rdf:ID="_IST" psu:hasLegacyId="IST" rdfs:label="INFO SCI &amp; TECH" rdfs:comment="INFORMATION SCIENCES &amp; TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="IT BA" rdfs:label="ITALIAN - B A DEGR" rdfs:comment="ITALIAN BACHELOR OF ARTS DEGREE" />
+	<psu:DegreeProgram rdf:ID="_IT" psu:hasLegacyId="IT" rdfs:label="ITALIAN" rdfs:comment="ITALIAN" />
 	
-	<psu:DegreeProgram rdf:ID="IT BS" rdfs:label="ITALIAN - B S DEGR" rdfs:comment="ITALIAN BACHELOR OF SCIENCE DEGREE" />
+	<psu:DegreeProgram rdf:ID="_IT_BA" psu:hasLegacyId="IT BA" rdfs:label="ITALIAN - B A DEGR" rdfs:comment="ITALIAN BACHELOR OF ARTS DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="J ST" rdfs:label="JEWISH STUDIES" rdfs:comment="JEWISH STUDIES" />
+	<psu:DegreeProgram rdf:ID="_IT_BS" psu:hasLegacyId="IT BS" rdfs:label="ITALIAN - B S DEGR" rdfs:comment="ITALIAN BACHELOR OF SCIENCE DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="JAPNS" rdfs:label="JAPANESE" rdfs:comment="JAPANESE" />
+	<psu:DegreeProgram rdf:ID="_J_ST" psu:hasLegacyId="J ST" rdfs:label="JEWISH STUDIES" rdfs:comment="JEWISH STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="JOURN" rdfs:label="JOURNALISM" rdfs:comment="JOURNALISM" />
+	<psu:DegreeProgram rdf:ID="_JAPNS" psu:hasLegacyId="JAPNS" rdfs:label="JAPANESE" rdfs:comment="JAPANESE" />
 	
-	<psu:DegreeProgram rdf:ID="KINBL" rdfs:label="BK KINESIOLOGY" rdfs:comment="BERKS COLLEGE KINESIOLOGY" />
+	<psu:DegreeProgram rdf:ID="_JOURN" psu:hasLegacyId="JOURN" rdfs:label="JOURNALISM" rdfs:comment="JOURNALISM" />
 	
-	<psu:DegreeProgram rdf:ID="KINES" rdfs:label="KINESIOLOGY" rdfs:comment="KINESIOLOGY" />
+	<psu:DegreeProgram rdf:ID="_KINBL" psu:hasLegacyId="KINBL" rdfs:label="BK KINESIOLOGY" rdfs:comment="BERKS COLLEGE KINESIOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="L A" rdfs:label="LIBERAL ARTS" rdfs:comment="THE COLLEGE OF THE LIBERAL ARTS" />
+	<psu:DegreeProgram rdf:ID="_KINES" psu:hasLegacyId="KINES" rdfs:label="KINESIOLOGY" rdfs:comment="KINESIOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="L A M" rdfs:label="LAB ANML MED" rdfs:comment="LABORATORY ANIMAL MEDICINE" />
+	<psu:DegreeProgram rdf:ID="_L_A" psu:hasLegacyId="L A" rdfs:label="LIBERAL ARTS" rdfs:comment="THE COLLEGE OF THE LIBERAL ARTS" />
 	
-	<psu:DegreeProgram rdf:ID="L I R" rdfs:label="LABOR &amp; INDUSTR REL" rdfs:comment="LABOR &amp; INDUSTRIAL RELATIONS" />
+	<psu:DegreeProgram rdf:ID="_L_A_M" psu:hasLegacyId="L A M" rdfs:label="LAB ANML MED" rdfs:comment="LABORATORY ANIMAL MEDICINE" />
 	
-	<psu:DegreeProgram rdf:ID="L S" rdfs:label="LABOR STUDIES" rdfs:comment="LABOR STUDIES" />
+	<psu:DegreeProgram rdf:ID="_L_I_R" psu:hasLegacyId="L I R" rdfs:label="LABOR &amp; INDUSTR REL" rdfs:comment="LABOR &amp; INDUSTRIAL RELATIONS" />
 	
-	<psu:DegreeProgram rdf:ID="LAGEO" rdfs:label="LIB ARTS GEOGRPHY" rdfs:comment="GEOGRAPHY LIBERAL ARTS" />
+	<psu:DegreeProgram rdf:ID="_L_S" psu:hasLegacyId="L S" rdfs:label="LABOR STUDIES" rdfs:comment="LABOR STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="LARBS" rdfs:label="LANDSCAPE ARCHTCR" rdfs:comment="LANDSCAPE ARCHITECTURE-BACHELOR OF SCIENCE DEGREE" />
+	<psu:DegreeProgram rdf:ID="_LAGEO" psu:hasLegacyId="LAGEO" rdfs:label="LIB ARTS GEOGRPHY" rdfs:comment="GEOGRAPHY LIBERAL ARTS" />
 	
-	<psu:DegreeProgram rdf:ID="LARCH" rdfs:label="LANDSCAPE ARCHITCTR" rdfs:comment="LANDSCAPE ARCHITECTURE" />
+	<psu:DegreeProgram rdf:ID="_LARBS" psu:hasLegacyId="LARBS" rdfs:label="LANDSCAPE ARCHTCR" rdfs:comment="LANDSCAPE ARCHITECTURE-BACHELOR OF SCIENCE DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="LARIP" rdfs:label="LANDSCAPE ARCHITCTR" rdfs:comment="LANDSCAPE ARCHITECTURE" />
+	<psu:DegreeProgram rdf:ID="_LARCH" psu:hasLegacyId="LARCH" rdfs:label="LANDSCAPE ARCHITCTR" rdfs:comment="LANDSCAPE ARCHITECTURE" />
 	
-	<psu:DegreeProgram rdf:ID="LAS" rdfs:label="LTRS-ARTS-SCIENCES" rdfs:comment="4-YEAR LETTERS, ARTS, &amp; SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_LARIP" psu:hasLegacyId="LARIP" rdfs:label="LANDSCAPE ARCHITCTR" rdfs:comment="LANDSCAPE ARCHITECTURE" />
 	
-	<psu:DegreeProgram rdf:ID="LASAB" rdfs:label="ABINGTON LTR-ART-SC" rdfs:comment="ABINGTON COLLEGE LETTERS, ARTS, &amp; SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_LAS" psu:hasLegacyId="LAS" rdfs:label="LTRS-ARTS-SCIENCES" rdfs:comment="4-YEAR LETTERS, ARTS, &amp; SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="LASAL" rdfs:label="ALTOONA LTR-ART-SC" rdfs:comment="ALTOONA COLLEGE LETTERS, ARTS, &amp; SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_LASAB" psu:hasLegacyId="LASAB" rdfs:label="ABINGTON LTR-ART-SC" rdfs:comment="ABINGTON COLLEGE LETTERS, ARTS, &amp; SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="LASCA" rdfs:label="CAPITAL LTR-ART-SCI" rdfs:comment="CAPITAL COLLEGE LETTERS, ARTS &amp; SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_LASAL" psu:hasLegacyId="LASAL" rdfs:label="ALTOONA LTR-ART-SC" rdfs:comment="ALTOONA COLLEGE LETTERS, ARTS, &amp; SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="LASCC" rdfs:label="UNIV COL LTR-ART-S" rdfs:comment="UNIVERSITY COLLEGE LETTERS, ARTS, &amp; SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_LASCA" psu:hasLegacyId="LASCA" rdfs:label="CAPITAL LTR-ART-SCI" rdfs:comment="CAPITAL COLLEGE LETTERS, ARTS &amp; SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="LATAM" rdfs:label="LATIN AMER STDIES" rdfs:comment="LATIN AMERICAN STUDIES" />
+	<psu:DegreeProgram rdf:ID="_LASCC" psu:hasLegacyId="LASCC" rdfs:label="UNIV COL LTR-ART-S" rdfs:comment="UNIVERSITY COLLEGE LETTERS, ARTS, &amp; SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="LAWSC" rdfs:label="LAW AND SOCIETY" rdfs:comment="LAW AND SOCIETY" />
+	<psu:DegreeProgram rdf:ID="_LATAM" psu:hasLegacyId="LATAM" rdfs:label="LATIN AMER STDIES" rdfs:comment="LATIN AMERICAN STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="LE ST" rdfs:label="LEISURE STUDIES" rdfs:comment="LEISURE STUDIES" />
+	<psu:DegreeProgram rdf:ID="_LAWSC" psu:hasLegacyId="LAWSC" rdfs:label="LAW AND SOCIETY" rdfs:comment="LAW AND SOCIETY" />
 	
-	<psu:DegreeProgram rdf:ID="LEAD" rdfs:label="LEADERSHIP DEVEL" rdfs:comment="LEADERSHIP DEVELOPMENT" />
+	<psu:DegreeProgram rdf:ID="_LE_ST" psu:hasLegacyId="LE ST" rdfs:label="LEISURE STUDIES" rdfs:comment="LEISURE STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="LEDUC" rdfs:label="LITERACY EDUC" rdfs:comment="LITERACY EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_LEAD" psu:hasLegacyId="LEAD" rdfs:label="LEADERSHIP DEVEL" rdfs:comment="LEADERSHIP DEVELOPMENT" />
 	
-	<psu:DegreeProgram rdf:ID="LERBA" rdfs:label="LABOR &amp; EMP REL B A" rdfs:comment="LABOR STUDIES &amp; EMPLOYMENT RELATIONS BACHELOR ARTS" />
+	<psu:DegreeProgram rdf:ID="_LEDUC" psu:hasLegacyId="LEDUC" rdfs:label="LITERACY EDUC" rdfs:comment="LITERACY EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="LERBS" rdfs:label="LABOR &amp; EMPLY REL BS" rdfs:comment="LABOR STUDIES &amp; EMPLOYMENT RELATIONS BACHELOR SCI" />
+	<psu:DegreeProgram rdf:ID="_LERBA" psu:hasLegacyId="LERBA" rdfs:label="LABOR &amp; EMP REL B A" rdfs:comment="LABOR STUDIES &amp; EMPLOYMENT RELATIONS BACHELOR ARTS" />
 	
-	<psu:DegreeProgram rdf:ID="LING" rdfs:label="LINGUISTICS" rdfs:comment="LINGUISTICS" />
+	<psu:DegreeProgram rdf:ID="_LERBS" psu:hasLegacyId="LERBS" rdfs:label="LABOR &amp; EMPLY REL BS" rdfs:comment="LABOR STUDIES &amp; EMPLOYMENT RELATIONS BACHELOR SCI" />
 	
-	<psu:DegreeProgram rdf:ID="LIRBA" rdfs:label="LABOR &amp; IND RL B A" rdfs:comment="LABOR &amp; INDUSTRIAL RELATIONS BACHELOR OF ARTS" />
+	<psu:DegreeProgram rdf:ID="_LING" psu:hasLegacyId="LING" rdfs:label="LINGUISTICS" rdfs:comment="LINGUISTICS" />
 	
-	<psu:DegreeProgram rdf:ID="LIRBS" rdfs:label="LABOR &amp; IND RL B S" rdfs:comment="LABOR &amp; INDUSTRIAL RELATIONS BACHELOR OF SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_LIRBA" psu:hasLegacyId="LIRBA" rdfs:label="LABOR &amp; IND RL B A" rdfs:comment="LABOR &amp; INDUSTRIAL RELATIONS BACHELOR OF ARTS" />
 	
-	<psu:DegreeProgram rdf:ID="LIT" rdfs:label="CL LITERATURE" rdfs:comment="LITERATURE" />
+	<psu:DegreeProgram rdf:ID="_LIRBS" psu:hasLegacyId="LIRBS" rdfs:label="LABOR &amp; IND RL B S" rdfs:comment="LABOR &amp; INDUSTRIAL RELATIONS BACHELOR OF SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="LSCPE" rdfs:label="LANDSCAPE CONTRACTNG" rdfs:comment="LANDSCAPE CONTRACTING" />
+	<psu:DegreeProgram rdf:ID="_LIT" psu:hasLegacyId="LIT" rdfs:label="CL LITERATURE" rdfs:comment="LITERATURE" />
 	
-	<psu:DegreeProgram rdf:ID="M C B" rdfs:label="MOLECULR CELL BIO" rdfs:comment="MOLECULAR AND CELL BIOLOGY" />
+	<psu:DegreeProgram rdf:ID="_LSCPE" psu:hasLegacyId="LSCPE" rdfs:label="LANDSCAPE CONTRACTNG" rdfs:comment="LANDSCAPE CONTRACTING" />
 	
-	<psu:DegreeProgram rdf:ID="M E" rdfs:label="MECHANICAL ENGR" rdfs:comment="MECHANICAL ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_M_C_B" psu:hasLegacyId="M C B" rdfs:label="MOLECULR CELL BIO" rdfs:comment="MOLECULAR AND CELL BIOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="M E M" rdfs:label="MIN ENG MGMT" rdfs:comment="MINERAL ENGINEERING MANAGEMENT" />
+	<psu:DegreeProgram rdf:ID="_M_E" psu:hasLegacyId="M E" rdfs:label="MECHANICAL ENGR" rdfs:comment="MECHANICAL ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="M E R" rdfs:label="MAN ENV RLTNS" rdfs:comment="MAN ENVIRONMENT RELATIONS" />
+	<psu:DegreeProgram rdf:ID="_M_E_M" psu:hasLegacyId="M E M" rdfs:label="MIN ENG MGMT" rdfs:comment="MINERAL ENGINEERING MANAGEMENT" />
 	
-	<psu:DegreeProgram rdf:ID="M E T" rdfs:label="CL MECH ENGR TECH" rdfs:comment="MECHANICAL ENGINEERING TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_M_E_R" psu:hasLegacyId="M E R" rdfs:label="MAN ENV RLTNS" rdfs:comment="MAN ENVIRONMENT RELATIONS" />
 	
-	<psu:DegreeProgram rdf:ID="M I S" rdfs:label="MGMT INFO SYSTMS" rdfs:comment="MANAGEMENT INFORMATION SYSTEMS" />
+	<psu:DegreeProgram rdf:ID="_M_E_T" psu:hasLegacyId="M E T" rdfs:label="CL MECH ENGR TECH" rdfs:comment="MECHANICAL ENGINEERING TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="M M" rdfs:label="MOLECULAR MED" rdfs:comment="MOLECULAR MEDICINE" />
+	<psu:DegreeProgram rdf:ID="_M_I_S" psu:hasLegacyId="M I S" rdfs:label="MGMT INFO SYSTMS" rdfs:comment="MANAGEMENT INFORMATION SYSTEMS" />
 	
-	<psu:DegreeProgram rdf:ID="M T" rdfs:label="MOLECULAR TOXICOLOGY" rdfs:comment="MOLECULAR TOXICOLOGY" />
+	<psu:DegreeProgram rdf:ID="_M_M" psu:hasLegacyId="M M" rdfs:label="MOLECULAR MED" rdfs:comment="MOLECULAR MEDICINE" />
 	
-	<psu:DegreeProgram rdf:ID="MA SC" rdfs:label="CL MATH SCIENCES" rdfs:comment="MATHEMATICAL SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_M_T" psu:hasLegacyId="M T" rdfs:label="MOLECULAR TOXICOLOGY" rdfs:comment="MOLECULAR TOXICOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="MANGT" rdfs:label="BD MANAGEMENT" rdfs:comment="BEHREND COLLEGE MANAGEMENT" />
+	<psu:DegreeProgram rdf:ID="_MA_SC" psu:hasLegacyId="MA SC" rdfs:label="CL MATH SCIENCES" rdfs:comment="MATHEMATICAL SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="MASSC" rdfs:label="MASS COMMUNICATIONS" rdfs:comment="MASS COMMUNICATIONS" />
+	<psu:DegreeProgram rdf:ID="_MANGT" psu:hasLegacyId="MANGT" rdfs:label="BD MANAGEMENT" rdfs:comment="BEHREND COLLEGE MANAGEMENT" />
 	
-	<psu:DegreeProgram rdf:ID="MATH" rdfs:label="MATHEMATICS" rdfs:comment="MATHEMATICS" />
+	<psu:DegreeProgram rdf:ID="_MASSC" psu:hasLegacyId="MASSC" rdfs:label="MASS COMMUNICATIONS" rdfs:comment="MASS COMMUNICATIONS" />
 	
-	<psu:DegreeProgram rdf:ID="MATL" rdfs:label="MATERIALS" rdfs:comment="MATERIALS" />
+	<psu:DegreeProgram rdf:ID="_MATH" psu:hasLegacyId="MATH" rdfs:label="MATHEMATICS" rdfs:comment="MATHEMATICS" />
 	
-	<psu:DegreeProgram rdf:ID="MATSC" rdfs:label="MATERIALS SCI &amp; ENGR" rdfs:comment="MATERIALS SCIENCE AND ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_MATL" psu:hasLegacyId="MATL" rdfs:label="MATERIALS" rdfs:comment="MATERIALS" />
 	
-	<psu:DegreeProgram rdf:ID="MATSE" rdfs:label="MATERIALS SCI &amp; ENGR" rdfs:comment="MATERIALS SCIENCE &amp; ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_MATSC" psu:hasLegacyId="MATSC" rdfs:label="MATERIALS SCI &amp; ENGR" rdfs:comment="MATERIALS SCIENCE AND ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="MCOMM" rdfs:label="MASS COMMUNICATIONS" rdfs:comment="MASS COMMUNICATIONS" />
+	<psu:DegreeProgram rdf:ID="_MATSE" psu:hasLegacyId="MATSE" rdfs:label="MATERIALS SCI &amp; ENGR" rdfs:comment="MATERIALS SCIENCE &amp; ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="ME BD" rdfs:label="BD MECHANICAL ENGR" rdfs:comment="BEHREND COLLEGE MECHANICAL ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_MCOMM" psu:hasLegacyId="MCOMM" rdfs:label="MASS COMMUNICATIONS" rdfs:comment="MASS COMMUNICATIONS" />
 	
-	<psu:DegreeProgram rdf:ID="ME CA" rdfs:label="CL MECHANICAL ENGR" rdfs:comment="CAPITAL COLLEGE MECHANICAL ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_ME_BD" psu:hasLegacyId="ME BD" rdfs:label="BD MECHANICAL ENGR" rdfs:comment="BEHREND COLLEGE MECHANICAL ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="MEDIA" rdfs:label="MEDIA STUDIES" rdfs:comment="MEDIA STUDIES" />
+	<psu:DegreeProgram rdf:ID="_ME_CA" psu:hasLegacyId="ME CA" rdfs:label="CL MECHANICAL ENGR" rdfs:comment="CAPITAL COLLEGE MECHANICAL ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="MEDVL" rdfs:label="MEDIEVAL STUDIES" rdfs:comment="MEDIEVAL STUDIES" />
+	<psu:DegreeProgram rdf:ID="_MEDIA" psu:hasLegacyId="MEDIA" rdfs:label="MEDIA STUDIES" rdfs:comment="MEDIA STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="METAL" rdfs:label="METALS SCI &amp; ENGR" rdfs:comment="METALS SCIENCE AND ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_MEDVL" psu:hasLegacyId="MEDVL" rdfs:label="MEDIEVAL STUDIES" rdfs:comment="MEDIEVAL STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="METBD" rdfs:label="BD MECH ENGR TECH" rdfs:comment="MECHANICAL ENGINEERING TECHNOLOGY BEHREND COLLEGE" />
+	<psu:DegreeProgram rdf:ID="_METAL" psu:hasLegacyId="METAL" rdfs:label="METALS SCI &amp; ENGR" rdfs:comment="METALS SCIENCE AND ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="METEO" rdfs:label="METEOROLOGY" rdfs:comment="METEOROLOGY" />
+	<psu:DegreeProgram rdf:ID="_METBD" psu:hasLegacyId="METBD" rdfs:label="BD MECH ENGR TECH" rdfs:comment="MECHANICAL ENGINEERING TECHNOLOGY BEHREND COLLEGE" />
 	
-	<psu:DegreeProgram rdf:ID="MFG E" rdfs:label="MANUFACTURING ENGR" rdfs:comment="MANUFACTURING ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_METEO" psu:hasLegacyId="METEO" rdfs:label="METEOROLOGY" rdfs:comment="METEOROLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="MFGSE" rdfs:label="MANUF SYSTEMS ENGR" rdfs:comment="MANUFACTURING SYSTEMS ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_MFG_E" psu:hasLegacyId="MFG E" rdfs:label="MANUFACTURING ENGR" rdfs:comment="MANUFACTURING ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="MGMT" rdfs:label="MANAGEMENT" rdfs:comment="MANAGEMENT" />
+	<psu:DegreeProgram rdf:ID="_MFGSE" psu:hasLegacyId="MFGSE" rdfs:label="MANUF SYSTEMS ENGR" rdfs:comment="MANUFACTURING SYSTEMS ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="MGT" rdfs:label="MANAGEMENT" rdfs:comment="MANAGEMENT FOR KP" />
+	<psu:DegreeProgram rdf:ID="_MGMT" psu:hasLegacyId="MGMT" rdfs:label="MANAGEMENT" rdfs:comment="MANAGEMENT" />
 	
-	<psu:DegreeProgram rdf:ID="MGT B" rdfs:label="MANAGEMENT" rdfs:comment="MANAGEMENT-BUSINESS ADMINISTRATION" />
+	<psu:DegreeProgram rdf:ID="_MGT" psu:hasLegacyId="MGT" rdfs:label="MANAGEMENT" rdfs:comment="MANAGEMENT FOR KP" />
 	
-	<psu:DegreeProgram rdf:ID="MGT C" rdfs:label="MANAGEMENT" rdfs:comment="MANAGEMENT-PUBLIC CONTRACT ADMINISTRATION" />
+	<psu:DegreeProgram rdf:ID="_MGT_B" psu:hasLegacyId="MGT B" rdfs:label="MANAGEMENT" rdfs:comment="MANAGEMENT-BUSINESS ADMINISTRATION" />
 	
-	<psu:DegreeProgram rdf:ID="MGT G" rdfs:label="MANAGEMENT" rdfs:comment="MANAGEMENT-GENERAL" />
+	<psu:DegreeProgram rdf:ID="_MGT_C" psu:hasLegacyId="MGT C" rdfs:label="MANAGEMENT" rdfs:comment="MANAGEMENT-PUBLIC CONTRACT ADMINISTRATION" />
 	
-	<psu:DegreeProgram rdf:ID="MGT H" rdfs:label="MANAGEMENT" rdfs:comment="MANAGEMENT-HEALTH CARE ADMINISTRATION" />
+	<psu:DegreeProgram rdf:ID="_MGT_G" psu:hasLegacyId="MGT G" rdfs:label="MANAGEMENT" rdfs:comment="MANAGEMENT-GENERAL" />
 	
-	<psu:DegreeProgram rdf:ID="MGT P" rdfs:label="MANAGEMENT" rdfs:comment="MANAGEMENT-PUBLIC ADMINISTRATION" />
+	<psu:DegreeProgram rdf:ID="_MGT_H" psu:hasLegacyId="MGT H" rdfs:label="MANAGEMENT" rdfs:comment="MANAGEMENT-HEALTH CARE ADMINISTRATION" />
 	
-	<psu:DegreeProgram rdf:ID="MGTIB" rdfs:label="MANAGMT &amp; INTL BUS" rdfs:comment="MANAGEMENT &amp; INTERNATIONAL BUSINESS" />
+	<psu:DegreeProgram rdf:ID="_MGT_P" psu:hasLegacyId="MGT P" rdfs:label="MANAGEMENT" rdfs:comment="MANAGEMENT-PUBLIC ADMINISTRATION" />
 	
-	<psu:DegreeProgram rdf:ID="MICRB" rdfs:label="MICROBIOLOGY" rdfs:comment="MICROBIOLOGY" />
+	<psu:DegreeProgram rdf:ID="_MGTIB" psu:hasLegacyId="MGTIB" rdfs:label="MANAGMT &amp; INTL BUS" rdfs:comment="MANAGEMENT &amp; INTERNATIONAL BUSINESS" />
 	
-	<psu:DegreeProgram rdf:ID="MICRO" rdfs:label="MICR HERSHEY" rdfs:comment="MICROBIOLOGY AND IMMUNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_MICRB" psu:hasLegacyId="MICRB" rdfs:label="MICROBIOLOGY" rdfs:comment="MICROBIOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="MISBD" rdfs:label="BD MGMT INFO SYST" rdfs:comment="BEHREND COLLEGE MANAGEMENT INFORMATION SYSTEMS" />
+	<psu:DegreeProgram rdf:ID="_MICRO" psu:hasLegacyId="MICRO" rdfs:label="MICR HERSHEY" rdfs:comment="MICROBIOLOGY AND IMMUNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="MKTG" rdfs:label="MARKETING" rdfs:comment="MARKETING" />
+	<psu:DegreeProgram rdf:ID="_MISBD" psu:hasLegacyId="MISBD" rdfs:label="BD MGMT INFO SYST" rdfs:comment="BEHREND COLLEGE MANAGEMENT INFORMATION SYSTEMS" />
 	
-	<psu:DegreeProgram rdf:ID="MKTIB" rdfs:label="MARKETING &amp; INTL BUS" rdfs:comment="MARKETING &amp; INTERNATIONAL BUSINESS" />
+	<psu:DegreeProgram rdf:ID="_MKTG" psu:hasLegacyId="MKTG" rdfs:label="MARKETING" rdfs:comment="MARKETING" />
 	
-	<psu:DegreeProgram rdf:ID="MN EC" rdfs:label="MINERAL ECONOMICS" rdfs:comment="MINERAL ECONOMICS" />
+	<psu:DegreeProgram rdf:ID="_MKTIB" psu:hasLegacyId="MKTIB" rdfs:label="MARKETING &amp; INTL BUS" rdfs:comment="MARKETING &amp; INTERNATIONAL BUSINESS" />
 	
-	<psu:DegreeProgram rdf:ID="MN PR" rdfs:label="MINL PROCESNG" rdfs:comment="MINERAL PROCESSING" />
+	<psu:DegreeProgram rdf:ID="_MN_EC" psu:hasLegacyId="MN EC" rdfs:label="MINERAL ECONOMICS" rdfs:comment="MINERAL ECONOMICS" />
 	
-	<psu:DegreeProgram rdf:ID="MNG E" rdfs:label="MINING ENGINEERNG" rdfs:comment="MINING ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_MN_PR" psu:hasLegacyId="MN PR" rdfs:label="MINL PROCESNG" rdfs:comment="MINERAL PROCESSING" />
 	
-	<psu:DegreeProgram rdf:ID="MNGMT" rdfs:label="CL MANAGEMENT" rdfs:comment="MANAGEMENT" />
+	<psu:DegreeProgram rdf:ID="_MNG_E" psu:hasLegacyId="MNG E" rdfs:label="MINING ENGINEERNG" rdfs:comment="MINING ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="MRKT" rdfs:label="CL MARKETING" rdfs:comment="MARKETING" />
+	<psu:DegreeProgram rdf:ID="_MNGMT" psu:hasLegacyId="MNGMT" rdfs:label="CL MANAGEMENT" rdfs:comment="MANAGEMENT" />
 	
-	<psu:DegreeProgram rdf:ID="MRKTG" rdfs:label="BD MARKETING" rdfs:comment="BEHREND COLLEGE MARKETING" />
+	<psu:DegreeProgram rdf:ID="_MRKT" psu:hasLegacyId="MRKT" rdfs:label="CL MARKETING" rdfs:comment="MARKETING" />
 	
-	<psu:DegreeProgram rdf:ID="MS&IS" rdfs:label="MGMT SCI &amp; INFO SYST" rdfs:comment="MANAGEMENT SCIENCE &amp; INFORMATION SYSTEMS" />
+	<psu:DegreeProgram rdf:ID="_MRKTG" psu:hasLegacyId="MRKTG" rdfs:label="BD MARKETING" rdfs:comment="BEHREND COLLEGE MARKETING" />
 	
-	<psu:DegreeProgram rdf:ID="MSIB" rdfs:label="MGMT SCI, INF SYS,IB" rdfs:comment="MANAGEMENT SCI, INFO SYSTEMS, &amp; INTERNATIONAL BUS" />
+	<psu:DegreeProgram rdf:ID="_MSnIS" psu:hasLegacyId="MS&amp;IS" rdfs:label="MGMT SCI &amp; INFO SYST" rdfs:comment="MANAGEMENT SCIENCE &amp; INFORMATION SYSTEMS" />
 	
-	<psu:DegreeProgram rdf:ID="MSIS" rdfs:label="MGMT SCI &amp; INFO SYST" rdfs:comment="MANAGEMENT SCIENCE AND INFORMATION SYSTEMS" />
+	<psu:DegreeProgram rdf:ID="_MSIB" psu:hasLegacyId="MSIB" rdfs:label="MGMT SCI, INF SYS,IB" rdfs:comment="MANAGEMENT SCI, INFO SYSTEMS, &amp; INTERNATIONAL BUS" />
 	
-	<psu:DegreeProgram rdf:ID="MSTAT" rdfs:label="MATH STATISTICS" rdfs:comment="MATHEMATICAL STATISTICS" />
+	<psu:DegreeProgram rdf:ID="_MSIS" psu:hasLegacyId="MSIS" rdfs:label="MGMT SCI &amp; INFO SYST" rdfs:comment="MANAGEMENT SCIENCE AND INFORMATION SYSTEMS" />
 	
-	<psu:DegreeProgram rdf:ID="MTAAL" rdfs:label="ALTOONA MATH B A" rdfs:comment="THE ALTOONA COLLEGE B. A. MATHEMATICS DEGREE" />
+	<psu:DegreeProgram rdf:ID="_MSTAT" psu:hasLegacyId="MSTAT" rdfs:label="MATH STATISTICS" rdfs:comment="MATHEMATICAL STATISTICS" />
 	
-	<psu:DegreeProgram rdf:ID="MTHBA" rdfs:label="MATH- B A DEGREE" rdfs:comment="MATHEMATICS BACHELOR OF ARTS DEGREE" />
+	<psu:DegreeProgram rdf:ID="_MTAAL" psu:hasLegacyId="MTAAL" rdfs:label="ALTOONA MATH B A" rdfs:comment="THE ALTOONA COLLEGE B. A. MATHEMATICS DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="AG BM" rdfs:label="AGRIBUSINESS MGMT" rdfs:comment="AGRIBUSINESS MANAGEMENT" />
+	<psu:DegreeProgram rdf:ID="_MTHBA" psu:hasLegacyId="MTHBA" rdfs:label="MATH- B A DEGREE" rdfs:comment="MATHEMATICS BACHELOR OF ARTS DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="AG E" rdfs:label="AGRICULTURAL ENGR" rdfs:comment="AGRICULTURAL ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_AG_BM" psu:hasLegacyId="AG BM" rdfs:label="AGRIBUSINESS MGMT" rdfs:comment="AGRIBUSINESS MANAGEMENT" />
 	
-	<psu:DegreeProgram rdf:ID="AG EC" rdfs:label="AG ECONOMICS" rdfs:comment="AGRICULTURAL ECONOMICS" />
+	<psu:DegreeProgram rdf:ID="_AG_E" psu:hasLegacyId="AG E" rdfs:label="AGRICULTURAL ENGR" rdfs:comment="AGRICULTURAL ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="AG ED" rdfs:label="AG EDUCATION" rdfs:comment="AGRICULTURAL EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_AG_EC" psu:hasLegacyId="AG EC" rdfs:label="AG ECONOMICS" rdfs:comment="AGRICULTURAL ECONOMICS" />
 	
-	<psu:DegreeProgram rdf:ID="AG M" rdfs:label="AG MECHANIZATION" rdfs:comment="AGRICULTURAL MECHANIZATION" />
+	<psu:DegreeProgram rdf:ID="_AG_ED" psu:hasLegacyId="AG ED" rdfs:label="AG EDUCATION" rdfs:comment="AGRICULTURAL EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="AG SC" rdfs:label="AGRICULTURE SCI" rdfs:comment="AGRICULTURAL SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_AG_M" psu:hasLegacyId="AG M" rdfs:label="AG MECHANIZATION" rdfs:comment="AGRICULTURAL MECHANIZATION" />
 	
-	<psu:DegreeProgram rdf:ID="AGECO" rdfs:label="AGROECOLOGY" rdfs:comment="AGROECOLOGY" />
+	<psu:DegreeProgram rdf:ID="_AG_SC" psu:hasLegacyId="AG SC" rdfs:label="AGRICULTURE SCI" rdfs:comment="AGRICULTURAL SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="AGESS" rdfs:label="AGROECOSYSTEMS SCI" rdfs:comment="AGROECOSYSTEMS SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_AGECO" psu:hasLegacyId="AGECO" rdfs:label="AGROECOLOGY" rdfs:comment="AGROECOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="AGRO" rdfs:label="AGRONOMY" rdfs:comment="AGRONOMY" />
+	<psu:DegreeProgram rdf:ID="_AGESS" psu:hasLegacyId="AGESS" rdfs:label="AGROECOSYSTEMS SCI" rdfs:comment="AGROECOSYSTEMS SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="AJAAB" rdfs:label="ABINGTON ADM OF JUST" rdfs:comment="ABINGTON COLLEGE ADMINISTRATION OF JUSTICE" />
+	<psu:DegreeProgram rdf:ID="_AGRO" psu:hasLegacyId="AGRO" rdfs:label="AGRONOMY" rdfs:comment="AGRONOMY" />
 	
-	<psu:DegreeProgram rdf:ID="AJACC" rdfs:label="UNIV COL ADM JUSTC" rdfs:comment="UNIVERSITY COLLEGE ADMINISTRATION OF JUSTICE" />
+	<psu:DegreeProgram rdf:ID="_AJAAB" psu:hasLegacyId="AJAAB" rdfs:label="ABINGTON ADM OF JUST" rdfs:comment="ABINGTON COLLEGE ADMINISTRATION OF JUSTICE" />
 	
-	<psu:DegreeProgram rdf:ID="AJSAB" rdfs:label="ABINGTON ADM OF JUST" rdfs:comment="ABINGTON COLLEGE ADMINISTRATION OF JUSTICE" />
+	<psu:DegreeProgram rdf:ID="_AJACC" psu:hasLegacyId="AJACC" rdfs:label="UNIV COL ADM JUSTC" rdfs:comment="UNIVERSITY COLLEGE ADMINISTRATION OF JUSTICE" />
 	
-	<psu:DegreeProgram rdf:ID="AJSCC" rdfs:label="UNIV COL ADM JUSTC" rdfs:comment="UNIVERSITY COLLEGE ADMINISTRATION OF JUSTICE" />
+	<psu:DegreeProgram rdf:ID="_AJSAB" psu:hasLegacyId="AJSAB" rdfs:label="ABINGTON ADM OF JUST" rdfs:comment="ABINGTON COLLEGE ADMINISTRATION OF JUSTICE" />
 	
-	<psu:DegreeProgram rdf:ID="ALBUS" rdfs:label="ALTOONA BUSINESS" rdfs:comment="ALTOONA COLLEGE BUSINESS" />
+	<psu:DegreeProgram rdf:ID="_AJSCC" psu:hasLegacyId="AJSCC" rdfs:label="UNIV COL ADM JUSTC" rdfs:comment="UNIVERSITY COLLEGE ADMINISTRATION OF JUSTICE" />
 	
-	<psu:DegreeProgram rdf:ID="ALCOM" rdfs:label="ALTOONA COLLEGE" rdfs:comment="THE ALTOONA COLLEGE" />
+	<psu:DegreeProgram rdf:ID="_ALBUS" psu:hasLegacyId="ALBUS" rdfs:label="ALTOONA BUSINESS" rdfs:comment="ALTOONA COLLEGE BUSINESS" />
 	
-	<psu:DegreeProgram rdf:ID="ALEDU" rdfs:label="ALTOONA EDUCATION" rdfs:comment="ALTOONA COLLEGE EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_ALCOM" psu:hasLegacyId="ALCOM" rdfs:label="ALTOONA COLLEGE" rdfs:comment="THE ALTOONA COLLEGE" />
 	
-	<psu:DegreeProgram rdf:ID="ALHSS" rdfs:label="ALTOONA HUM &amp; SOC SC" rdfs:comment="ALTOONA COLLEGE HUMANITIES &amp; SOCIAL SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_ALEDU" psu:hasLegacyId="ALEDU" rdfs:label="ALTOONA EDUCATION" rdfs:comment="ALTOONA COLLEGE EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="ALSCN" rdfs:label="ALTOONA SCIENCE" rdfs:comment="ALTOONA COLLEGE SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_ALHSS" psu:hasLegacyId="ALHSS" rdfs:label="ALTOONA HUM &amp; SOC SC" rdfs:comment="ALTOONA COLLEGE HUMANITIES &amp; SOCIAL SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="AM ST" rdfs:label="AMERICAN STUDIES" rdfs:comment="AMERICAN STUDIES" />
+	<psu:DegreeProgram rdf:ID="_ALSCN" psu:hasLegacyId="ALSCN" rdfs:label="ALTOONA SCIENCE" rdfs:comment="ALTOONA COLLEGE SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="AMSAB" rdfs:label="ABINGTON AM STUDIES" rdfs:comment="ABINGTON COLLEGE AMERICAN STUDIES" />
+	<psu:DegreeProgram rdf:ID="_AM_ST" psu:hasLegacyId="AM ST" rdfs:label="AMERICAN STUDIES" rdfs:comment="AMERICAN STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="AMSBL" rdfs:label="BERKS AMER STDY" rdfs:comment="BERKS COLLEGE B. A. AMERICAN STUDIES" />
+	<psu:DegreeProgram rdf:ID="_AMSAB" psu:hasLegacyId="AMSAB" rdfs:label="ABINGTON AM STUDIES" rdfs:comment="ABINGTON COLLEGE AMERICAN STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="AMSCC" rdfs:label="UNIV COL AM STS" rdfs:comment="UNIVERSITY COLLEGE AMERICAN STUDIES" />
+	<psu:DegreeProgram rdf:ID="_AMSBL" psu:hasLegacyId="AMSBL" rdfs:label="BERKS AMER STDY" rdfs:comment="BERKS COLLEGE B. A. AMERICAN STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="AMSTD" rdfs:label="CL AMERICAN STUDIES" rdfs:comment="AMERICAN STUDIES" />
+	<psu:DegreeProgram rdf:ID="_AMSCC" psu:hasLegacyId="AMSCC" rdfs:label="UNIV COL AM STS" rdfs:comment="UNIVERSITY COLLEGE AMERICAN STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="AN PR" rdfs:label="ANIMAL PRODUCTION" rdfs:comment="ANIMAL PRODUCTION" />
+	<psu:DegreeProgram rdf:ID="_AMSTD" psu:hasLegacyId="AMSTD" rdfs:label="CL AMERICAN STUDIES" rdfs:comment="AMERICAN STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="AN SC" rdfs:label="ANIMAL SCIENC" rdfs:comment="ANIMAL SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_AN_PR" psu:hasLegacyId="AN PR" rdfs:label="ANIMAL PRODUCTION" rdfs:comment="ANIMAL PRODUCTION" />
 	
-	<psu:DegreeProgram rdf:ID="ANAT" rdfs:label="ANATOMY" rdfs:comment="ANATOMY" />
+	<psu:DegreeProgram rdf:ID="_AN_SC" psu:hasLegacyId="AN SC" rdfs:label="ANIMAL SCIENC" rdfs:comment="ANIMAL SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="ANBIO" rdfs:label="ANIMAL BIOSCIENCE" rdfs:comment="ANIMAL BIOSCIENCE" />
+	<psu:DegreeProgram rdf:ID="_ANAT" psu:hasLegacyId="ANAT" rdfs:label="ANATOMY" rdfs:comment="ANATOMY" />
 	
-	<psu:DegreeProgram rdf:ID="ANSCI" rdfs:label="ANIMAL SCIENCES" rdfs:comment="ANIMAL SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_ANBIO" psu:hasLegacyId="ANBIO" rdfs:label="ANIMAL BIOSCIENCE" rdfs:comment="ANIMAL BIOSCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="ANTH" rdfs:label="ANTHROPOLOGY" rdfs:comment="ANTHROPOLOGY" />
+	<psu:DegreeProgram rdf:ID="_ANSCI" psu:hasLegacyId="ANSCI" rdfs:label="ANIMAL SCIENCES" rdfs:comment="ANIMAL SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="ANTHG" rdfs:label="ANTHROPOLOGY-GEN" rdfs:comment="ANTHROPOLOGY GENERAL" />
+	<psu:DegreeProgram rdf:ID="_ANTH" psu:hasLegacyId="ANTH" rdfs:label="ANTHROPOLOGY" rdfs:comment="ANTHROPOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="ANTHM" rdfs:label="ANTHROPOLOGY-MED" rdfs:comment="ANTHROPOLOGY MEDICAL" />
+	<psu:DegreeProgram rdf:ID="_ANTHG" psu:hasLegacyId="ANTHG" rdfs:label="ANTHROPOLOGY-GEN" rdfs:comment="ANTHROPOLOGY GENERAL" />
 	
-	<psu:DegreeProgram rdf:ID="ANTHY" rdfs:label="ANTHROPOLOGY" rdfs:comment="ANTHROPOLOGY" />
+	<psu:DegreeProgram rdf:ID="_ANTHM" psu:hasLegacyId="ANTHM" rdfs:label="ANTHROPOLOGY-MED" rdfs:comment="ANTHROPOLOGY MEDICAL" />
 	
-	<psu:DegreeProgram rdf:ID="AOJBA" rdfs:label="ADMIN OF JUSTC-B-A" rdfs:comment="ADMINISTRATION OF JUSTICE B. A." />
+	<psu:DegreeProgram rdf:ID="_ANTHY" psu:hasLegacyId="ANTHY" rdfs:label="ANTHROPOLOGY" rdfs:comment="ANTHROPOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="AOJBS" rdfs:label="ADMIN OF JUSTC-B-S" rdfs:comment="ADMINISTRATION OF JUSTICE B. S." />
+	<psu:DegreeProgram rdf:ID="_AOJBA" psu:hasLegacyId="AOJBA" rdfs:label="ADMIN OF JUSTC-B-A" rdfs:comment="ADMINISTRATION OF JUSTICE B. A." />
 	
-	<psu:DegreeProgram rdf:ID="APLNG" rdfs:label="APPLIED LINGUISTICS" rdfs:comment="APPLIED LINGUISTICS" />
+	<psu:DegreeProgram rdf:ID="_AOJBS" psu:hasLegacyId="AOJBS" rdfs:label="ADMIN OF JUSTC-B-S" rdfs:comment="ADMINISTRATION OF JUSTICE B. S." />
 	
-	<psu:DegreeProgram rdf:ID="APSCC" rdfs:label="UNIV COL APPL PSY" rdfs:comment="UNIVERSITY COLLEGE APPLIED PSYCHOLOGY" />
+	<psu:DegreeProgram rdf:ID="_APLNG" psu:hasLegacyId="APLNG" rdfs:label="APPLIED LINGUISTICS" rdfs:comment="APPLIED LINGUISTICS" />
 	
-	<psu:DegreeProgram rdf:ID="APSYC" rdfs:label="BERKS APPL PSY" rdfs:comment="BERKS COLLEGE APPLIED PSYCHOLOGY" />
+	<psu:DegreeProgram rdf:ID="_APSCC" psu:hasLegacyId="APSCC" rdfs:label="UNIV COL APPL PSY" rdfs:comment="UNIVERSITY COLLEGE APPLIED PSYCHOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="APSYR" rdfs:label="APPL PSYCHOLOG RES" rdfs:comment="APPLIED PSYCHOLOGICAL RESEARCH" />
+	<psu:DegreeProgram rdf:ID="_APSYC" psu:hasLegacyId="APSYC" rdfs:label="BERKS APPL PSY" rdfs:comment="BERKS COLLEGE APPLIED PSYCHOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="ARBFA" rdfs:label="ART- B F A DEGREE" rdfs:comment="ART BACHELOR OF FINE ARTS DEGREE" />
+	<psu:DegreeProgram rdf:ID="_APSYR" psu:hasLegacyId="APSYR" rdfs:label="APPL PSYCHOLOG RES" rdfs:comment="APPLIED PSYCHOLOGICAL RESEARCH" />
 	
-	<psu:DegreeProgram rdf:ID="ARCBS" rdfs:label="ARCHITCTR  BS DEG" rdfs:comment="THE ARCHITECTURE BACHELOR OF SCIENCE DEGREE" />
+	<psu:DegreeProgram rdf:ID="_ARBFA" psu:hasLegacyId="ARBFA" rdfs:label="ART- B F A DEGREE" rdfs:comment="ART BACHELOR OF FINE ARTS DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="ARCH" rdfs:label="ARCHITECTURE" rdfs:comment="ARCHITECTURE" />
+	<psu:DegreeProgram rdf:ID="_ARCBS" psu:hasLegacyId="ARCBS" rdfs:label="ARCHITCTR  BS DEG" rdfs:comment="THE ARCHITECTURE BACHELOR OF SCIENCE DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="ARSCI" rdfs:label="ARCHAEOLOGICAL SCI" rdfs:comment="ARCHAEOLOGICAL SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_ARCH" psu:hasLegacyId="ARCH" rdfs:label="ARCHITECTURE" rdfs:comment="ARCHITECTURE" />
 	
-	<psu:DegreeProgram rdf:ID="ART" rdfs:label="ART" rdfs:comment="ART" />
+	<psu:DegreeProgram rdf:ID="_ARSCI" psu:hasLegacyId="ARSCI" rdfs:label="ARCHAEOLOGICAL SCI" rdfs:comment="ARCHAEOLOGICAL SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="ART H" rdfs:label="ART HISTORY" rdfs:comment="ART HISTORY" />
+	<psu:DegreeProgram rdf:ID="_ART" psu:hasLegacyId="ART" rdfs:label="ART" rdfs:comment="ART" />
 	
-	<psu:DegreeProgram rdf:ID="ARTAB" rdfs:label="ABINGTON ART - B A" rdfs:comment="ABINGTON COLLEGE BACHELOR OF ARTS IN ART" />
+	<psu:DegreeProgram rdf:ID="_ART_H" psu:hasLegacyId="ART H" rdfs:label="ART HISTORY" rdfs:comment="ART HISTORY" />
 	
-	<psu:DegreeProgram rdf:ID="ARTBA" rdfs:label="ART- B A DEGREE" rdfs:comment="ART BACHELOR OF ARTS DEGREE" />
+	<psu:DegreeProgram rdf:ID="_ARTAB" psu:hasLegacyId="ARTAB" rdfs:label="ABINGTON ART - B A" rdfs:comment="ABINGTON COLLEGE BACHELOR OF ARTS IN ART" />
 	
-	<psu:DegreeProgram rdf:ID="AS MT" rdfs:label="AG SYST MGMT &amp; TECH" rdfs:comment="AGRICULTURAL SYSTEMS MANAGEMENT AND TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_ARTBA" psu:hasLegacyId="ARTBA" rdfs:label="ART- B A DEGREE" rdfs:comment="ART BACHELOR OF ARTS DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="ASTAT" rdfs:label="APPLIED STATISTICS" rdfs:comment="APPLIED STATISTICS" />
+	<psu:DegreeProgram rdf:ID="_AS_MT" psu:hasLegacyId="AS MT" rdfs:label="AG SYST MGMT &amp; TECH" rdfs:comment="AGRICULTURAL SYSTEMS MANAGEMENT AND TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="ASTRO" rdfs:label="ASTRO &amp; ASTROPHYSICS" rdfs:comment="ASTRONOMY AND ASTROPHYSICS" />
+	<psu:DegreeProgram rdf:ID="_ASTAT" psu:hasLegacyId="ASTAT" rdfs:label="APPLIED STATISTICS" rdfs:comment="APPLIED STATISTICS" />
 	
-	<psu:DegreeProgram rdf:ID="B A" rdfs:label="BUSINESS ADMIN" rdfs:comment="THE SMEAL COLLEGE OF BUSINESS" />
+	<psu:DegreeProgram rdf:ID="_ASTRO" psu:hasLegacyId="ASTRO" rdfs:label="ASTRO &amp; ASTROPHYSICS" rdfs:comment="ASTRONOMY AND ASTROPHYSICS" />
 	
-	<psu:DegreeProgram rdf:ID="B ADM" rdfs:label="BUSINESS ADMIN" rdfs:comment="BUSINESS ADMINISTRATION" />
+	<psu:DegreeProgram rdf:ID="_B_A" psu:hasLegacyId="B A" rdfs:label="BUSINESS ADMIN" rdfs:comment="THE SMEAL COLLEGE OF BUSINESS" />
 	
-	<psu:DegreeProgram rdf:ID="B E" rdfs:label="BIOLOGICAL ENGR" rdfs:comment="BIOLOGICAL ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_B_ADM" psu:hasLegacyId="B ADM" rdfs:label="BUSINESS ADMIN" rdfs:comment="BUSINESS ADMINISTRATION" />
 	
-	<psu:DegreeProgram rdf:ID="B LOG" rdfs:label="BUSINESS LOGISTCS" rdfs:comment="BUSINESS LOGISTICS" />
+	<psu:DegreeProgram rdf:ID="_B_E" psu:hasLegacyId="B E" rdfs:label="BIOLOGICAL ENGR" rdfs:comment="BIOLOGICAL ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="B M B" rdfs:label="BIOCHEM &amp; MOLEC BIOL" rdfs:comment="BIOCHEMISTRY AND MOLECULAR BIOLOGY" />
+	<psu:DegreeProgram rdf:ID="_B_LOG" psu:hasLegacyId="B LOG" rdfs:label="BUSINESS LOGISTCS" rdfs:comment="BUSINESS LOGISTICS" />
 	
-	<psu:DegreeProgram rdf:ID="B PH" rdfs:label="BACHELOR OF PHIL" rdfs:comment="BACHELOR OF PHILOSOPHY PROGRAM" />
+	<psu:DegreeProgram rdf:ID="_B_M_B" psu:hasLegacyId="B M B" rdfs:label="BIOCHEM &amp; MOLEC BIOL" rdfs:comment="BIOCHEMISTRY AND MOLECULAR BIOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="BA EC" rdfs:label="BUSINESS ECONOMCS" rdfs:comment="ECONOMICS BUSINESS ADMINISTRATION" />
+	<psu:DegreeProgram rdf:ID="_B_PH" psu:hasLegacyId="B PH" rdfs:label="BACHELOR OF PHIL" rdfs:comment="BACHELOR OF PHILOSOPHY PROGRAM" />
 	
-	<psu:DegreeProgram rdf:ID="BADMN" rdfs:label="BUSINESS ADMIN" rdfs:comment="BUSINESS ADMINISTRATION" />
+	<psu:DegreeProgram rdf:ID="_BA_EC" psu:hasLegacyId="BA EC" rdfs:label="BUSINESS ECONOMCS" rdfs:comment="ECONOMICS BUSINESS ADMINISTRATION" />
 	
-	<psu:DegreeProgram rdf:ID="BANTH" rdfs:label="BIOLOGICAL ANTHRO" rdfs:comment="BIOLOGICAL ANTHROPOLOGY" />
+	<psu:DegreeProgram rdf:ID="_BADMN" psu:hasLegacyId="BADMN" rdfs:label="BUSINESS ADMIN" rdfs:comment="BUSINESS ADMINISTRATION" />
 	
-	<psu:DegreeProgram rdf:ID="BARCH" rdfs:label="ARCHITECTR- B ARC" rdfs:comment="BACHELOR OF ARCHITECTURE DEGREE" />
+	<psu:DegreeProgram rdf:ID="_BANTH" psu:hasLegacyId="BANTH" rdfs:label="BIOLOGICAL ANTHRO" rdfs:comment="BIOLOGICAL ANTHROPOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="BB H" rdfs:label="BIOBEHAVIORAL HEALTH" rdfs:comment="BIOBEHAVIORAL HEALTH" />
+	<psu:DegreeProgram rdf:ID="_BARCH" psu:hasLegacyId="BARCH" rdfs:label="ARCHITECTR- B ARC" rdfs:comment="BACHELOR OF ARCHITECTURE DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="BBACC" rdfs:label="UNIV COL BUS B S" rdfs:comment="UNIVERSITY COLLEGE B. S. BUSINESS DEGREE" />
+	<psu:DegreeProgram rdf:ID="_BB_H" psu:hasLegacyId="BB H" rdfs:label="BIOBEHAVIORAL HEALTH" rdfs:comment="BIOBEHAVIORAL HEALTH" />
 	
-	<psu:DegreeProgram rdf:ID="BCBUS" rdfs:label="BEHREND BUSINESS" rdfs:comment="BEHREND COLLEGE BUSINESS" />
+	<psu:DegreeProgram rdf:ID="_BBACC" psu:hasLegacyId="BBACC" rdfs:label="UNIV COL BUS B S" rdfs:comment="UNIVERSITY COLLEGE B. S. BUSINESS DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="BCCOM" rdfs:label="BEHREND COLLEGE" rdfs:comment="THE BEHREND COLLEGE" />
+	<psu:DegreeProgram rdf:ID="_BCBUS" psu:hasLegacyId="BCBUS" rdfs:label="BEHREND BUSINESS" rdfs:comment="BEHREND COLLEGE BUSINESS" />
 	
-	<psu:DegreeProgram rdf:ID="BCEDU" rdfs:label="BEHREND EDUCATION" rdfs:comment="BEHREND COLLEGE EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_BCCOM" psu:hasLegacyId="BCCOM" rdfs:label="BEHREND COLLEGE" rdfs:comment="THE BEHREND COLLEGE" />
 	
-	<psu:DegreeProgram rdf:ID="BCEGN" rdfs:label="BEHREND ENGR/ TECH" rdfs:comment="BEHREND COLLEGE ENGINEERING/ TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_BCEDU" psu:hasLegacyId="BCEDU" rdfs:label="BEHREND EDUCATION" rdfs:comment="BEHREND COLLEGE EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="BCHEM" rdfs:label="BIOCHEM &amp; MOLEC BIOL" rdfs:comment="BIOCHEMISTRY AND MOLECULAR BIOLOGY" />
+	<psu:DegreeProgram rdf:ID="_BCEGN" psu:hasLegacyId="BCEGN" rdfs:label="BEHREND ENGR/ TECH" rdfs:comment="BEHREND COLLEGE ENGINEERING/ TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="BCHSS" rdfs:label="BEHREND HUM &amp; SOC SC" rdfs:comment="BEHREND COLLEGE HUMANITIES &amp; SOCIAL SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_BCHEM" psu:hasLegacyId="BCHEM" rdfs:label="BIOCHEM &amp; MOLEC BIOL" rdfs:comment="BIOCHEMISTRY AND MOLECULAR BIOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="BCSCN" rdfs:label="BEHREND SCIENCE" rdfs:comment="BEHREND COLLEGE SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_BCHSS" psu:hasLegacyId="BCHSS" rdfs:label="BEHREND HUM &amp; SOC SC" rdfs:comment="BEHREND COLLEGE HUMANITIES &amp; SOCIAL SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="BDBUS" rdfs:label="BEHREND BUSINESS" rdfs:comment="BEHREND COLLEGE BUSINESS" />
+	<psu:DegreeProgram rdf:ID="_BCSCN" psu:hasLegacyId="BCSCN" rdfs:label="BEHREND SCIENCE" rdfs:comment="BEHREND COLLEGE SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="BDEET" rdfs:label="BEHREND ELECT ENG TC" rdfs:comment="BEHREND COLLEGE ELECTRICAL ENGINEERING TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_BDBUS" psu:hasLegacyId="BDBUS" rdfs:label="BEHREND BUSINESS" rdfs:comment="BEHREND COLLEGE BUSINESS" />
 	
-	<psu:DegreeProgram rdf:ID="BDENG" rdfs:label="BEHREND ENGINRNG" rdfs:comment="BEHREND COLLEGE ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_BDEET" psu:hasLegacyId="BDEET" rdfs:label="BEHREND ELECT ENG TC" rdfs:comment="BEHREND COLLEGE ELECTRICAL ENGINEERING TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="BDGEN" rdfs:label="BEHREND GENERAL" rdfs:comment="BEHREND COLLEGE GENERAL STUDIES" />
+	<psu:DegreeProgram rdf:ID="_BDENG" psu:hasLegacyId="BDENG" rdfs:label="BEHREND ENGINRNG" rdfs:comment="BEHREND COLLEGE ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="BDHSS" rdfs:label="BEHREND HUM &amp; SOC SC" rdfs:comment="BEHREND COLLEGE HUMANITIES AND SOCIAL SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_BDGEN" psu:hasLegacyId="BDGEN" rdfs:label="BEHREND GENERAL" rdfs:comment="BEHREND COLLEGE GENERAL STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="BDMET" rdfs:label="BEHREND MECH ENG TC" rdfs:comment="BEHREND COLLEGE MECHANICAL ENGINEERING TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_BDHSS" psu:hasLegacyId="BDHSS" rdfs:label="BEHREND HUM &amp; SOC SC" rdfs:comment="BEHREND COLLEGE HUMANITIES AND SOCIAL SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="BDPLT" rdfs:label="BEHREND PLSTC ENG TC" rdfs:comment="BEHREND COLLEGE PLASTICS ENGINEERING TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_BDMET" psu:hasLegacyId="BDMET" rdfs:label="BEHREND MECH ENG TC" rdfs:comment="BEHREND COLLEGE MECHANICAL ENGINEERING TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="BDSCN" rdfs:label="BEHREND SCIENCE" rdfs:comment="BEHREND COLLEGE SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_BDPLT" psu:hasLegacyId="BDPLT" rdfs:label="BEHREND PLSTC ENG TC" rdfs:comment="BEHREND COLLEGE PLASTICS ENGINEERING TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="BE SC" rdfs:label="CL BEHAVIORAL SCI" rdfs:comment="BEHAVIORAL SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_BDSCN" psu:hasLegacyId="BDSCN" rdfs:label="BEHREND SCIENCE" rdfs:comment="BEHREND COLLEGE SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="BECIB" rdfs:label="ECONOMICS &amp; INTL BUS" rdfs:comment="ECONOMICS &amp; INTERNATIONAL BUSINESS" />
+	<psu:DegreeProgram rdf:ID="_BE_SC" psu:hasLegacyId="BE SC" rdfs:label="CL BEHAVIORAL SCI" rdfs:comment="BEHAVIORAL SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="BECON" rdfs:label="BD ECONOMICS" rdfs:comment="BEHREND COLLEGE BUSINESS ECONOMICS" />
+	<psu:DegreeProgram rdf:ID="_BECIB" psu:hasLegacyId="BECIB" rdfs:label="ECONOMICS &amp; INTL BUS" rdfs:comment="ECONOMICS &amp; INTERNATIONAL BUSINESS" />
 	
-	<psu:DegreeProgram rdf:ID="BGC" rdfs:label="BIOGEOCHEMISTRY" rdfs:comment="BIOGEOCHMISTRY" />
+	<psu:DegreeProgram rdf:ID="_BECON" psu:hasLegacyId="BECON" rdfs:label="BD ECONOMICS" rdfs:comment="BEHREND COLLEGE BUSINESS ECONOMICS" />
 	
-	<psu:DegreeProgram rdf:ID="BIO E" rdfs:label="BIOENGINEERING" rdfs:comment="BIOENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_BGC" psu:hasLegacyId="BGC" rdfs:label="BIOGEOCHEMISTRY" rdfs:comment="BIOGEOCHMISTRY" />
 	
-	<psu:DegreeProgram rdf:ID="BIO T" rdfs:label="BIOTECHNOLOGY" rdfs:comment="BIOTECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_BIO_E" psu:hasLegacyId="BIO E" rdfs:label="BIOENGINEERING" rdfs:comment="BIOENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="BIOAB" rdfs:label="ABINGTON BIOLOGY" rdfs:comment="ABINGTON COLLEGE BIOLOGY" />
+	<psu:DegreeProgram rdf:ID="_BIO_T" psu:hasLegacyId="BIO T" rdfs:label="BIOTECHNOLOGY" rdfs:comment="BIOTECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="BIOAL" rdfs:label="ALTOONA BIOLOGY" rdfs:comment="ALTOONA COLLEGE BIOLOGY" />
+	<psu:DegreeProgram rdf:ID="_BIOAB" psu:hasLegacyId="BIOAB" rdfs:label="ABINGTON BIOLOGY" rdfs:comment="ABINGTON COLLEGE BIOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="BIOBD" rdfs:label="BIOLOGY BD" rdfs:comment="BEHREND COLLEGE BIOLOGY" />
+	<psu:DegreeProgram rdf:ID="_BIOAL" psu:hasLegacyId="BIOAL" rdfs:label="ALTOONA BIOLOGY" rdfs:comment="ALTOONA COLLEGE BIOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="BIOCH" rdfs:label="BIOCHEMISTRY" rdfs:comment="BIOCHEMISTRY" />
+	<psu:DegreeProgram rdf:ID="_BIOBD" psu:hasLegacyId="BIOBD" rdfs:label="BIOLOGY BD" rdfs:comment="BEHREND COLLEGE BIOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="BIOE" rdfs:label="BIOENGINEERING" rdfs:comment="BIOENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_BIOCH" psu:hasLegacyId="BIOCH" rdfs:label="BIOCHEMISTRY" rdfs:comment="BIOCHEMISTRY" />
 	
-	<psu:DegreeProgram rdf:ID="BIOL" rdfs:label="BIOLOGY" rdfs:comment="BIOLOGY" />
+	<psu:DegreeProgram rdf:ID="_BIOE" psu:hasLegacyId="BIOE" rdfs:label="BIOENGINEERING" rdfs:comment="BIOENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="BIOTC" rdfs:label="BIOTECHNOLOGY" rdfs:comment="BIOTECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_BIOL" psu:hasLegacyId="BIOL" rdfs:label="BIOLOGY" rdfs:comment="BIOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="BLASC" rdfs:label="BUS, L A, &amp; SC BD" rdfs:comment="BEHREND COLLEGE BUSINESS, LIBERAL ARTS, &amp; SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_BIOTC" psu:hasLegacyId="BIOTC" rdfs:label="BIOTECHNOLOGY" rdfs:comment="BIOTECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="BLBUS" rdfs:label="BERKS BUSINESS" rdfs:comment="BERKS COLLEGE BUSINESS" />
+	<psu:DegreeProgram rdf:ID="_BLASC" psu:hasLegacyId="BLASC" rdfs:label="BUS, L A, &amp; SC BD" rdfs:comment="BEHREND COLLEGE BUSINESS, LIBERAL ARTS, &amp; SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="BLCOM" rdfs:label="BERKS COLLEGE" rdfs:comment="THE BERKS COLLEGE" />
+	<psu:DegreeProgram rdf:ID="_BLBUS" psu:hasLegacyId="BLBUS" rdfs:label="BERKS BUSINESS" rdfs:comment="BERKS COLLEGE BUSINESS" />
 	
-	<psu:DegreeProgram rdf:ID="BLEDU" rdfs:label="BERKS EDUCATION" rdfs:comment="BERKS COLLEGE EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_BLCOM" psu:hasLegacyId="BLCOM" rdfs:label="BERKS COLLEGE" rdfs:comment="THE BERKS COLLEGE" />
 	
-	<psu:DegreeProgram rdf:ID="BLGIB" rdfs:label="B LOG &amp; INTL BUS" rdfs:comment="BUSINESS LOGISTICS &amp; INTERNATIONAL BUSINESS" />
+	<psu:DegreeProgram rdf:ID="_BLEDU" psu:hasLegacyId="BLEDU" rdfs:label="BERKS EDUCATION" rdfs:comment="BERKS COLLEGE EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="BLHSS" rdfs:label="BERKS HUMAN &amp; SOC SC" rdfs:comment="BERKS COLLEGE HUMANITIES &amp; SOCIAL SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_BLGIB" psu:hasLegacyId="BLGIB" rdfs:label="B LOG &amp; INTL BUS" rdfs:comment="BUSINESS LOGISTICS &amp; INTERNATIONAL BUSINESS" />
 	
-	<psu:DegreeProgram rdf:ID="BLSCN" rdfs:label="BERKS SCIENCE" rdfs:comment="BERKS COLLEGE SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_BLHSS" psu:hasLegacyId="BLHSS" rdfs:label="BERKS HUMAN &amp; SOC SC" rdfs:comment="BERKS COLLEGE HUMANITIES &amp; SOCIAL SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="BMMB" rdfs:label="BIOCH, MICRO &amp; MOLEC" rdfs:comment="BIOCHEMISTRY, MICROBIOLOGY, AND MOLECULAR BIOLOGY" />
+	<psu:DegreeProgram rdf:ID="_BLSCN" psu:hasLegacyId="BLSCN" rdfs:label="BERKS SCIENCE" rdfs:comment="BERKS COLLEGE SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="BOT" rdfs:label="BOTANY" rdfs:comment="BOTANY" />
+	<psu:DegreeProgram rdf:ID="_BMMB" psu:hasLegacyId="BMMB" rdfs:label="BIOCH, MICRO &amp; MOLEC" rdfs:comment="BIOCHEMISTRY, MICROBIOLOGY, AND MOLECULAR BIOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="BPHYS" rdfs:label="BIOPHYSICS" rdfs:comment="BIOPHYSICS GRAD" />
+	<psu:DegreeProgram rdf:ID="_BOT" psu:hasLegacyId="BOT" rdfs:label="BOTANY" rdfs:comment="BOTANY" />
 	
-	<psu:DegreeProgram rdf:ID="BRCAB" rdfs:label="BROADCAST-CABLE" rdfs:comment="BROADCAST-CABLE" />
+	<psu:DegreeProgram rdf:ID="_BPHYS" psu:hasLegacyId="BPHYS" rdfs:label="BIOPHYSICS" rdfs:comment="BIOPHYSICS GRAD" />
 	
-	<psu:DegreeProgram rdf:ID="BSBAB" rdfs:label="ABINGTON BUS B S" rdfs:comment="ABINGTON COLLEGE B.S. BUSINESS DEGREE" />
+	<psu:DegreeProgram rdf:ID="_BRCAB" psu:hasLegacyId="BRCAB" rdfs:label="BROADCAST-CABLE" rdfs:comment="BROADCAST-CABLE" />
 	
-	<psu:DegreeProgram rdf:ID="BSBAL" rdfs:label="ALTOONA BUS B S" rdfs:comment="ALTOONA COLLEGE B. S. BUSINESS DEGREE" />
+	<psu:DegreeProgram rdf:ID="_BSBAB" psu:hasLegacyId="BSBAB" rdfs:label="ABINGTON BUS B S" rdfs:comment="ABINGTON COLLEGE B.S. BUSINESS DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="BSBBL" rdfs:label="BERKS BUS B S" rdfs:comment="BERKS COLLEGE B. S. BUSINESS DEGREE" />
+	<psu:DegreeProgram rdf:ID="_BSBAL" psu:hasLegacyId="BSBAL" rdfs:label="ALTOONA BUS B S" rdfs:comment="ALTOONA COLLEGE B. S. BUSINESS DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="BSBCC" rdfs:label="UNIV COL BUS B S" rdfs:comment="UNIVERSITY COLLEGE B. S. BUSINESS DEGREE" />
+	<psu:DegreeProgram rdf:ID="_BSBBL" psu:hasLegacyId="BSBBL" rdfs:label="BERKS BUS B S" rdfs:comment="BERKS COLLEGE B. S. BUSINESS DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="BSBIC" rdfs:label="BUSINESS" rdfs:comment="BACHELOR OF SCIENCE IN BUSINESS" />
+	<psu:DegreeProgram rdf:ID="_BSBCC" psu:hasLegacyId="BSBCC" rdfs:label="UNIV COL BUS B S" rdfs:comment="UNIVERSITY COLLEGE B. S. BUSINESS DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="BUS A" rdfs:label="BUSINESS ADMINISTRAT" rdfs:comment="BUSINESS ADMINISTRATION" />
+	<psu:DegreeProgram rdf:ID="_BSBIC" psu:hasLegacyId="BSBIC" rdfs:label="BUSINESS" rdfs:comment="BACHELOR OF SCIENCE IN BUSINESS" />
 	
-	<psu:DegreeProgram rdf:ID="BUSAD" rdfs:label="BUSINESS ADMIN" rdfs:comment="BUSINESS ADMINISTRATION" />
+	<psu:DegreeProgram rdf:ID="_BUS_A" psu:hasLegacyId="BUS A" rdfs:label="BUSINESS ADMINISTRAT" rdfs:comment="BUSINESS ADMINISTRATION" />
 	
-	<psu:DegreeProgram rdf:ID="C D B" rdfs:label="CELL &amp; DEV BIOLOGY" rdfs:comment="CELL AND DEVELOPMENTAL BIOLOGY" />
+	<psu:DegreeProgram rdf:ID="_BUSAD" psu:hasLegacyId="BUSAD" rdfs:label="BUSINESS ADMIN" rdfs:comment="BUSINESS ADMINISTRATION" />
 	
-	<psu:DegreeProgram rdf:ID="C E" rdfs:label="CIVIL ENGINEERING" rdfs:comment="CIVIL ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_C_D_B" psu:hasLegacyId="C D B" rdfs:label="CELL &amp; DEV BIOLOGY" rdfs:comment="CELL AND DEVELOPMENTAL BIOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="C I" rdfs:label="CURR &amp; INSTR" rdfs:comment="CURRICULUM AND INSTRUCTION" />
+	<psu:DegreeProgram rdf:ID="_C_E" psu:hasLegacyId="C E" rdfs:label="CIVIL ENGINEERING" rdfs:comment="CIVIL ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="C LIT" rdfs:label="COMPARATIVE LIT" rdfs:comment="COMPARATIVE LITERATURE" />
+	<psu:DegreeProgram rdf:ID="_C_I" psu:hasLegacyId="C I" rdfs:label="CURR &amp; INSTR" rdfs:comment="CURRICULUM AND INSTRUCTION" />
 	
-	<psu:DegreeProgram rdf:ID="C PSY" rdfs:label="COMMUNITY PSYCHOLOGY" rdfs:comment="COMMUNITY PSYCHOLOGY" />
+	<psu:DegreeProgram rdf:ID="_C_LIT" psu:hasLegacyId="C LIT" rdfs:label="COMPARATIVE LIT" rdfs:comment="COMPARATIVE LITERATURE" />
 	
-	<psu:DegreeProgram rdf:ID="CABUS" rdfs:label="CAPITAL BUSINESS" rdfs:comment="CAPITAL COLLEGE BUSINESS" />
+	<psu:DegreeProgram rdf:ID="_C_PSY" psu:hasLegacyId="C PSY" rdfs:label="COMMUNITY PSYCHOLOGY" rdfs:comment="COMMUNITY PSYCHOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="CACOM" rdfs:label="CAPITAL COLLEGE" rdfs:comment="THE CAPITAL COLLEGE" />
+	<psu:DegreeProgram rdf:ID="_CABUS" psu:hasLegacyId="CABUS" rdfs:label="CAPITAL BUSINESS" rdfs:comment="CAPITAL COLLEGE BUSINESS" />
 	
-	<psu:DegreeProgram rdf:ID="CAEDU" rdfs:label="CAPITAL EDUCATION" rdfs:comment="CAPITAL COLLEGE EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_CACOM" psu:hasLegacyId="CACOM" rdfs:label="CAPITAL COLLEGE" rdfs:comment="THE CAPITAL COLLEGE" />
 	
-	<psu:DegreeProgram rdf:ID="CAEGN" rdfs:label="CAPITAL ENGR/ TECH" rdfs:comment="CAPITAL COLLEGE ENGINEERING/ TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_CAEDU" psu:hasLegacyId="CAEDU" rdfs:label="CAPITAL EDUCATION" rdfs:comment="CAPITAL COLLEGE EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="CAHSS" rdfs:label="CAPITAL HUM &amp; SOC SC" rdfs:comment="CAPITAL COLLEGE HUMANITIES &amp; SOCIAL SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_CAEGN" psu:hasLegacyId="CAEGN" rdfs:label="CAPITAL ENGR/ TECH" rdfs:comment="CAPITAL COLLEGE ENGINEERING/ TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="CAMS" rdfs:label="CLASSIC &amp; ANC MED" rdfs:comment="CLASSICS AND ANCIENT MEDITERRANEAN STUDIES" />
+	<psu:DegreeProgram rdf:ID="_CAHSS" psu:hasLegacyId="CAHSS" rdfs:label="CAPITAL HUM &amp; SOC SC" rdfs:comment="CAPITAL COLLEGE HUMANITIES &amp; SOCIAL SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="CAS" rdfs:label="COMMUNICATION A &amp; S" rdfs:comment="COMMUNICATION ARTS AND SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_CAMS" psu:hasLegacyId="CAMS" rdfs:label="CLASSIC &amp; ANC MED" rdfs:comment="CLASSICS AND ANCIENT MEDITERRANEAN STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="CASBL" rdfs:label="COMM ARTS &amp; SCIENCES" rdfs:comment="BERKS COLLEGE COMMUNICATION ARTS &amp; SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_CAS" psu:hasLegacyId="CAS" rdfs:label="COMMUNICATION A &amp; S" rdfs:comment="COMMUNICATION ARTS AND SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="CASCC" rdfs:label="UNIV COL COMM A &amp; S" rdfs:comment="UNIVERSITY COLLEGE COMMUNICATION ARTS &amp; SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_CASBL" psu:hasLegacyId="CASBL" rdfs:label="COMM ARTS &amp; SCIENCES" rdfs:comment="BERKS COLLEGE COMMUNICATION ARTS &amp; SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="CASCN" rdfs:label="CAPITAL SCIENCE" rdfs:comment="CAPITAL COLLEGE SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_CASCC" psu:hasLegacyId="CASCC" rdfs:label="UNIV COL COMM A &amp; S" rdfs:comment="UNIVERSITY COLLEGE COMMUNICATION ARTS &amp; SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="CCBA" rdfs:label="ABINGTON CORP COMMUN" rdfs:comment="ABINGTON COLLEGE CORPORATE COMMUNICATION" />
+	<psu:DegreeProgram rdf:ID="_CASCN" psu:hasLegacyId="CASCN" rdfs:label="CAPITAL SCIENCE" rdfs:comment="CAPITAL COLLEGE SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="CCBUS" rdfs:label="UNIVERSITY COL BUS" rdfs:comment="UNIVERSITY COLLEGE BUSINESS" />
+	<psu:DegreeProgram rdf:ID="_CCBA" psu:hasLegacyId="CCBA" rdfs:label="ABINGTON CORP COMMUN" rdfs:comment="ABINGTON COLLEGE CORPORATE COMMUNICATION" />
 	
-	<psu:DegreeProgram rdf:ID="CCCOM" rdfs:label="UNIVERSITY COLLEGE" rdfs:comment="UNIVERSITY COLLEGE" />
+	<psu:DegreeProgram rdf:ID="_CCBUS" psu:hasLegacyId="CCBUS" rdfs:label="UNIVERSITY COL BUS" rdfs:comment="UNIVERSITY COLLEGE BUSINESS" />
 	
-	<psu:DegreeProgram rdf:ID="CCEDU" rdfs:label="UNIVERSITY COLL ED" rdfs:comment="UNIVERSITY COLLEGE EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_CCCOM" psu:hasLegacyId="CCCOM" rdfs:label="UNIVERSITY COLLEGE" rdfs:comment="UNIVERSITY COLLEGE" />
 	
-	<psu:DegreeProgram rdf:ID="CCHSS" rdfs:label="UNIVERSITY COL HUM" rdfs:comment="UNIVERSITY COLLEGE HUMANITIES &amp; SOCIAL SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_CCEDU" psu:hasLegacyId="CCEDU" rdfs:label="UNIVERSITY COLL ED" rdfs:comment="UNIVERSITY COLLEGE EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="CCSCN" rdfs:label="UNIVERSITY COLL SC" rdfs:comment="UNIVERSITY COLLEGE SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_CCHSS" psu:hasLegacyId="CCHSS" rdfs:label="UNIVERSITY COL HUM" rdfs:comment="UNIVERSITY COLLEGE HUMANITIES &amp; SOCIAL SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="CE CA" rdfs:label="CIVIL ENGINEERING" rdfs:comment="CIVIL ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_CCSCN" psu:hasLegacyId="CCSCN" rdfs:label="UNIVERSITY COLL SC" rdfs:comment="UNIVERSITY COLLEGE SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="CEAED" rdfs:label="CHILD &amp; ERLY ADOL ED" rdfs:comment="CHILDHOOD AND EARLY ADOLESCENT EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_CE_CA" psu:hasLegacyId="CE CA" rdfs:label="CIVIL ENGINEERING" rdfs:comment="CIVIL ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="CED" rdfs:label="COMM, ENVIR &amp; DEVLOP" rdfs:comment="COMMUNITY, ENVIRONMENT, AND DEVELOPMENT" />
+	<psu:DegreeProgram rdf:ID="_CEAED" psu:hasLegacyId="CEAED" rdfs:label="CHILD &amp; ERLY ADOL ED" rdfs:comment="CHILDHOOD AND EARLY ADOLESCENT EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="CEDEV" rdfs:label="COMMUNITY ECON DEVEL" rdfs:comment="COMMUNITY AND ECONOMIC DEVELOPMENT" />
+	<psu:DegreeProgram rdf:ID="_CED" psu:hasLegacyId="CED" rdfs:label="COMM, ENVIR &amp; DEVLOP" rdfs:comment="COMMUNITY, ENVIRONMENT, AND DEVELOPMENT" />
 	
-	<psu:DegreeProgram rdf:ID="CELMB" rdfs:label="CELL &amp; MOLEC BIOLOGY" rdfs:comment="CELL &amp; MOLECULAR BIOLOGY" />
+	<psu:DegreeProgram rdf:ID="_CEDEV" psu:hasLegacyId="CEDEV" rdfs:label="COMMUNITY ECON DEVEL" rdfs:comment="COMMUNITY AND ECONOMIC DEVELOPMENT" />
 	
-	<psu:DegreeProgram rdf:ID="CENBD" rdfs:label="BD COMPUTER ENGR" rdfs:comment="BEHREND COLLEGE COMPUTER ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_CELMB" psu:hasLegacyId="CELMB" rdfs:label="CELL &amp; MOLEC BIOLOGY" rdfs:comment="CELL &amp; MOLECULAR BIOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="CERSC" rdfs:label="CERAMIC SCI" rdfs:comment="CERAMIC SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_CENBD" psu:hasLegacyId="CENBD" rdfs:label="BD COMPUTER ENGR" rdfs:comment="BEHREND COLLEGE COMPUTER ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="CERSE" rdfs:label="CERAMIC SCI &amp; ENG" rdfs:comment="CERAMIC SCIENCE &amp; ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_CERSC" psu:hasLegacyId="CERSC" rdfs:label="CERAMIC SCI" rdfs:comment="CERAMIC SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="CH E" rdfs:label="CHEMICAL ENGINRNG" rdfs:comment="CHEMICAL ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_CERSE" psu:hasLegacyId="CERSE" rdfs:label="CERAMIC SCI &amp; ENG" rdfs:comment="CERAMIC SCIENCE &amp; ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="CHEM" rdfs:label="CHEMISTRY" rdfs:comment="CHEMISTRY" />
+	<psu:DegreeProgram rdf:ID="_CH_E" psu:hasLegacyId="CH E" rdfs:label="CHEMICAL ENGINRNG" rdfs:comment="CHEMICAL ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="CHMBD" rdfs:label="BD CHEMISTRY B S" rdfs:comment="BEHREND COLLEGE BACHELOR OF SCIENCE CHEMISTRY" />
+	<psu:DegreeProgram rdf:ID="_CHEM" psu:hasLegacyId="CHEM" rdfs:label="CHEMISTRY" rdfs:comment="CHEMISTRY" />
 	
-	<psu:DegreeProgram rdf:ID="CJBA" rdfs:label="ALTOONA CRIM JUS B A" rdfs:comment="THE ALTOONA COLLEGE B. A. CRIMINAL JUSTICE DEGREE" />
+	<psu:DegreeProgram rdf:ID="_CHMBD" psu:hasLegacyId="CHMBD" rdfs:label="BD CHEMISTRY B S" rdfs:comment="BEHREND COLLEGE BACHELOR OF SCIENCE CHEMISTRY" />
 	
-	<psu:DegreeProgram rdf:ID="CJBS" rdfs:label="ALTOONA CRIM JUS B S" rdfs:comment="THE ALTOONA COLLEGE B. S. CRIMINAL JUSTICE DEGREE" />
+	<psu:DegreeProgram rdf:ID="_CJBA" psu:hasLegacyId="CJBA" rdfs:label="ALTOONA CRIM JUS B A" rdfs:comment="THE ALTOONA COLLEGE B. A. CRIMINAL JUSTICE DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="CLASS" rdfs:label="CLASSICS" rdfs:comment="CLASSICS" />
+	<psu:DegreeProgram rdf:ID="_CJBS" psu:hasLegacyId="CJBS" rdfs:label="ALTOONA CRIM JUS B S" rdfs:comment="THE ALTOONA COLLEGE B. S. CRIMINAL JUSTICE DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="CLBSC" rdfs:label="CL BEHAVIORAL SCI" rdfs:comment="BEHAVIORAL SCIENCE, CAPITAL COLLEGE" />
+	<psu:DegreeProgram rdf:ID="_CLASS" psu:hasLegacyId="CLASS" rdfs:label="CLASSICS" rdfs:comment="CLASSICS" />
 	
-	<psu:DegreeProgram rdf:ID="CLBUS" rdfs:label="CL BUSINESS ADMIN" rdfs:comment="BUSINESS ADMINISTRATION, CAPITAL COLLEGE" />
+	<psu:DegreeProgram rdf:ID="_CLBSC" psu:hasLegacyId="CLBSC" rdfs:label="CL BEHAVIORAL SCI" rdfs:comment="BEHAVIORAL SCIENCE, CAPITAL COLLEGE" />
 	
-	<psu:DegreeProgram rdf:ID="CLEDU" rdfs:label="CL EDUCATION" rdfs:comment="EDUCATION, CAPITAL COLLEGE" />
+	<psu:DegreeProgram rdf:ID="_CLBUS" psu:hasLegacyId="CLBUS" rdfs:label="CL BUSINESS ADMIN" rdfs:comment="BUSINESS ADMINISTRATION, CAPITAL COLLEGE" />
 	
-	<psu:DegreeProgram rdf:ID="CLHUM" rdfs:label="CL HUMANITIES" rdfs:comment="HUMANITIES, CAPITAL COLLEGE" />
+	<psu:DegreeProgram rdf:ID="_CLEDU" psu:hasLegacyId="CLEDU" rdfs:label="CL EDUCATION" rdfs:comment="EDUCATION, CAPITAL COLLEGE" />
 	
-	<psu:DegreeProgram rdf:ID="CLJ" rdfs:label="CRIME, LAW &amp; JUSTICE" rdfs:comment="CRIME, LAW AND JUSTICE" />
+	<psu:DegreeProgram rdf:ID="_CLHUM" psu:hasLegacyId="CLHUM" rdfs:label="CL HUMANITIES" rdfs:comment="HUMANITIES, CAPITAL COLLEGE" />
 	
-	<psu:DegreeProgram rdf:ID="CLJBA" rdfs:label="CRIME, LAW, &amp; J-B-A" rdfs:comment="CRIME, LAW, &amp; JUSTICE B. A." />
+	<psu:DegreeProgram rdf:ID="_CLJ" psu:hasLegacyId="CLJ" rdfs:label="CRIME, LAW &amp; JUSTICE" rdfs:comment="CRIME, LAW AND JUSTICE" />
 	
-	<psu:DegreeProgram rdf:ID="CLJBS" rdfs:label="CRIME, LAW, &amp; J-B-S" rdfs:comment="CRIME, LAW, &amp; JUSTICE B. S." />
+	<psu:DegreeProgram rdf:ID="_CLJBA" psu:hasLegacyId="CLJBA" rdfs:label="CRIME, LAW, &amp; J-B-A" rdfs:comment="CRIME, LAW, &amp; JUSTICE B. A." />
 	
-	<psu:DegreeProgram rdf:ID="CLPAF" rdfs:label="CL PUBLIC AFFAIRS" rdfs:comment="PUBLIC AFFAIRS, CAPITAL COLLEGE" />
+	<psu:DegreeProgram rdf:ID="_CLJBS" psu:hasLegacyId="CLJBS" rdfs:label="CRIME, LAW, &amp; J-B-S" rdfs:comment="CRIME, LAW, &amp; JUSTICE B. S." />
 	
-	<psu:DegreeProgram rdf:ID="CLSET" rdfs:label="CL SCI, ENGR, &amp; TECH" rdfs:comment="SCIENCE, ENGINEERING,&amp; TECHNOLOGY, CAPITAL COLLEGE" />
+	<psu:DegreeProgram rdf:ID="_CLPAF" psu:hasLegacyId="CLPAF" rdfs:label="CL PUBLIC AFFAIRS" rdfs:comment="PUBLIC AFFAIRS, CAPITAL COLLEGE" />
 	
-	<psu:DegreeProgram rdf:ID="CMBIO" rdfs:label="CELL &amp; MOLEC BIOLOGY" rdfs:comment="CELL AND MOLECULAR BIOLOGY" />
+	<psu:DegreeProgram rdf:ID="_CLSET" psu:hasLegacyId="CLSET" rdfs:label="CL SCI, ENGR, &amp; TECH" rdfs:comment="SCIENCE, ENGINEERING,&amp; TECHNOLOGY, CAPITAL COLLEGE" />
 	
-	<psu:DegreeProgram rdf:ID="CMDIS" rdfs:label="COMMUNICTN DISORD" rdfs:comment="COMMUNICATION DISORDERS" />
+	<psu:DegreeProgram rdf:ID="_CMBIO" psu:hasLegacyId="CMBIO" rdfs:label="CELL &amp; MOLEC BIOLOGY" rdfs:comment="CELL AND MOLECULAR BIOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="CMLIT" rdfs:label="COMPARATIVE LIT" rdfs:comment="COMPARATIVE LITERATURE" />
+	<psu:DegreeProgram rdf:ID="_CMDIS" psu:hasLegacyId="CMDIS" rdfs:label="COMMUNICTN DISORD" rdfs:comment="COMMUNICATION DISORDERS" />
 	
-	<psu:DegreeProgram rdf:ID="CMPBD" rdfs:label="BD COMPUTER SCIENCE" rdfs:comment="BEHREND COLLEGE COMPUTER SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_CMLIT" psu:hasLegacyId="CMLIT" rdfs:label="COMPARATIVE LIT" rdfs:comment="COMPARATIVE LITERATURE" />
 	
-	<psu:DegreeProgram rdf:ID="CMPEN" rdfs:label="COMPUTER ENGINEERING" rdfs:comment="COMPUTER ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_CMPBD" psu:hasLegacyId="CMPBD" rdfs:label="BD COMPUTER SCIENCE" rdfs:comment="BEHREND COLLEGE COMPUTER SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="CMPET" rdfs:label="CL COMPUTER ENG TECH" rdfs:comment="COMPUTER ENGINEERING TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_CMPEN" psu:hasLegacyId="CMPEN" rdfs:label="COMPUTER ENGINEERING" rdfs:comment="COMPUTER ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="CMPSC" rdfs:label="COMPUTER SCIENCE" rdfs:comment="COMPUTER SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_CMPET" psu:hasLegacyId="CMPET" rdfs:label="CL COMPUTER ENG TECH" rdfs:comment="COMPUTER ENGINEERING TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="CN ED" rdfs:label="COUNSELOR EDUCTN" rdfs:comment="COUNSELOR EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_CMPSC" psu:hasLegacyId="CMPSC" rdfs:label="COMPUTER SCIENCE" rdfs:comment="COMPUTER SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="CNPSY" rdfs:label="COUNSELNG PSY" rdfs:comment="COUNSELING PSYCHOLOGY" />
+	<psu:DegreeProgram rdf:ID="_CN_ED" psu:hasLegacyId="CN ED" rdfs:label="COUNSELOR EDUCTN" rdfs:comment="COUNSELOR EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="COM D" rdfs:label="COMMUNITY DVLPMNT" rdfs:comment="COMMUNITY DEVELOPMENT (PHASED OUT)" />
+	<psu:DegreeProgram rdf:ID="_CNPSY" psu:hasLegacyId="CNPSY" rdfs:label="COUNSELNG PSY" rdfs:comment="COUNSELING PSYCHOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="COMAL" rdfs:label="ALTOONA COMM" rdfs:comment="THE ALTOONA COLLEGE COMMUNICATIONS" />
+	<psu:DegreeProgram rdf:ID="_COM_D" psu:hasLegacyId="COM D" rdfs:label="COMMUNITY DVLPMNT" rdfs:comment="COMMUNITY DEVELOPMENT (PHASED OUT)" />
 	
-	<psu:DegreeProgram rdf:ID="COMBA" rdfs:label="BD COMMUNCTNS B A" rdfs:comment="BEHREND COLLEGE COMMUNICATION" />
+	<psu:DegreeProgram rdf:ID="_COMAL" psu:hasLegacyId="COMAL" rdfs:label="ALTOONA COMM" rdfs:comment="THE ALTOONA COLLEGE COMMUNICATIONS" />
 	
-	<psu:DegreeProgram rdf:ID="COMBS" rdfs:label="BD COMMUNCTNS B S" rdfs:comment="COMMUNICATIONS BACHELOR OF SCIENCE DEGREE BEHREND" />
+	<psu:DegreeProgram rdf:ID="_COMBA" psu:hasLegacyId="COMBA" rdfs:label="BD COMMUNCTNS B A" rdfs:comment="BEHREND COLLEGE COMMUNICATION" />
 	
-	<psu:DegreeProgram rdf:ID="COMCC" rdfs:label="UNIV COLL COMM" rdfs:comment="UNIVERSITY COLLEGE COMMUNICATIONS" />
+	<psu:DegreeProgram rdf:ID="_COMBS" psu:hasLegacyId="COMBS" rdfs:label="BD COMMUNCTNS B S" rdfs:comment="COMMUNICATIONS BACHELOR OF SCIENCE DEGREE BEHREND" />
 	
-	<psu:DegreeProgram rdf:ID="COMCL" rdfs:label="CL COMMUNICATIONS" rdfs:comment="COMMUNICATIONS" />
+	<psu:DegreeProgram rdf:ID="_COMCC" psu:hasLegacyId="COMCC" rdfs:label="UNIV COLL COMM" rdfs:comment="UNIVERSITY COLLEGE COMMUNICATIONS" />
 	
-	<psu:DegreeProgram rdf:ID="COMM" rdfs:label="COMMUNICATIONS" rdfs:comment="THE COLLEGE OF COMMUNICATIONS" />
+	<psu:DegreeProgram rdf:ID="_COMCL" psu:hasLegacyId="COMCL" rdfs:label="CL COMMUNICATIONS" rdfs:comment="COMMUNICATIONS" />
 	
-	<psu:DegreeProgram rdf:ID="COMP" rdfs:label="CL COMPUTER SCI" rdfs:comment="COMPUTER SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_COMM" psu:hasLegacyId="COMM" rdfs:label="COMMUNICATIONS" rdfs:comment="THE COLLEGE OF COMMUNICATIONS" />
 	
-	<psu:DegreeProgram rdf:ID="COMST" rdfs:label="COMMUNICATN STDS" rdfs:comment="COMMUNICATION STUDIES" />
+	<psu:DegreeProgram rdf:ID="_COMP" psu:hasLegacyId="COMP" rdfs:label="CL COMPUTER SCI" rdfs:comment="COMPUTER SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="CP&SC" rdfs:label="COM PSY &amp; SOCIAL CHG" rdfs:comment="COMMUNITY PSYCHOLOGY AND SOCIAL CHANGE" />
+	<psu:DegreeProgram rdf:ID="_COMST" psu:hasLegacyId="COMST" rdfs:label="COMMUNICATN STDS" rdfs:comment="COMMUNICATION STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="CRIMJ" rdfs:label="CL CRIMINAL JUSTC" rdfs:comment="CRIMINAL JUSTICE" />
+	<psu:DegreeProgram rdf:ID="_CPnSC" psu:hasLegacyId="CP&amp;SC" rdfs:label="COM PSY &amp; SOCIAL CHG" rdfs:comment="COMMUNITY PSYCHOLOGY AND SOCIAL CHANGE" />
 	
-	<psu:DegreeProgram rdf:ID="CSA" rdfs:label="COLLEGE STUDENT AFF" rdfs:comment="COLLEGE STUDENT AFFAIRS" />
+	<psu:DegreeProgram rdf:ID="_CRIMJ" psu:hasLegacyId="CRIMJ" rdfs:label="CL CRIMINAL JUSTC" rdfs:comment="CRIMINAL JUSTICE" />
 	
-	<psu:DegreeProgram rdf:ID="CSD" rdfs:label="COMM SCI &amp; DISORDERS" rdfs:comment="COMMUNICATION SCIENCES AND DISORDERS" />
+	<psu:DegreeProgram rdf:ID="_CSA" psu:hasLegacyId="CSA" rdfs:label="COLLEGE STUDENT AFF" rdfs:comment="COLLEGE STUDENT AFFAIRS" />
 	
-	<psu:DegreeProgram rdf:ID="CSE" rdfs:label="COMPUTER SCI &amp; ENGR" rdfs:comment="COMPUTER SCIENCE AND ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_CSD" psu:hasLegacyId="CSD" rdfs:label="COMM SCI &amp; DISORDERS" rdfs:comment="COMMUNICATION SCIENCES AND DISORDERS" />
 	
-	<psu:DegreeProgram rdf:ID="CSP D" rdfs:label="COMMUN SYST PLAN DEV" rdfs:comment="COMMUNITY SYSTEMS PLANNING AND DEVELOPMENT" />
+	<psu:DegreeProgram rdf:ID="_CSE" psu:hasLegacyId="CSE" rdfs:label="COMPUTER SCI &amp; ENGR" rdfs:comment="COMPUTER SCIENCE AND ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="CULST" rdfs:label="BERKS-L V CULT ST" rdfs:comment="BERKS-LEHIGH VALLEY COLLEGE CULTURE STUDIES" />
+	<psu:DegreeProgram rdf:ID="_CSP_D" psu:hasLegacyId="CSP D" rdfs:label="COMMUN SYST PLAN DEV" rdfs:comment="COMMUNITY SYSTEMS PLANNING AND DEVELOPMENT" />
 	
-	<psu:DegreeProgram rdf:ID="CWRIT" rdfs:label="BD CREATIVE WRITING" rdfs:comment="BEHREND COLLEGE CREATIVE WRITING" />
+	<psu:DegreeProgram rdf:ID="_CULST" psu:hasLegacyId="CULST" rdfs:label="BERKS-L V CULT ST" rdfs:comment="BERKS-LEHIGH VALLEY COLLEGE CULTURE STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="D PR" rdfs:label="DAIRY PRODUCTION" rdfs:comment="DAIRY PRODUCTION" />
+	<psu:DegreeProgram rdf:ID="_CWRIT" psu:hasLegacyId="CWRIT" rdfs:label="BD CREATIVE WRITING" rdfs:comment="BEHREND COLLEGE CREATIVE WRITING" />
 	
-	<psu:DegreeProgram rdf:ID="D R R" rdfs:label="DEV REM READ" rdfs:comment="DEVELOPMENTAL AND REMEDIAL READING" />
+	<psu:DegreeProgram rdf:ID="_D_PR" psu:hasLegacyId="D PR" rdfs:label="DAIRY PRODUCTION" rdfs:comment="DAIRY PRODUCTION" />
 	
-	<psu:DegreeProgram rdf:ID="D SC" rdfs:label="DAIRY SCIENCE" rdfs:comment="DAIRY SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_D_R_R" psu:hasLegacyId="D R R" rdfs:label="DEV REM READ" rdfs:comment="DEVELOPMENTAL AND REMEDIAL READING" />
 	
-	<psu:DegreeProgram rdf:ID="D SCR" rdfs:label="DAIRY SCIENCE" rdfs:comment="DAIRY SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_D_SC" psu:hasLegacyId="D SC" rdfs:label="DAIRY SCIENCE" rdfs:comment="DAIRY SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="D U S" rdfs:label="DIV OF UG STUDIES" rdfs:comment="THE DIVISION OF UNDERGRADUATE STUDIES" />
+	<psu:DegreeProgram rdf:ID="_D_SCR" psu:hasLegacyId="D SCR" rdfs:label="DAIRY SCIENCE" rdfs:comment="DAIRY SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="D&ASC" rdfs:label="DAIRY &amp; ANIMAL SCI" rdfs:comment="DAIRY AND ANIMAL SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_D_U_S" psu:hasLegacyId="D U S" rdfs:label="DIV OF UG STUDIES" rdfs:comment="THE DIVISION OF UNDERGRADUATE STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="DEMOG" rdfs:label="DEMOGRAPHY" rdfs:comment="DEMOGRAPHY" />
+	<psu:DegreeProgram rdf:ID="_DnASC" psu:hasLegacyId="D&amp;ASC" rdfs:label="DAIRY &amp; ANIMAL SCI" rdfs:comment="DAIRY AND ANIMAL SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="E E" rdfs:label="ELECTRICAL ENGR" rdfs:comment="ELECTRICAL ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_DEMOG" psu:hasLegacyId="DEMOG" rdfs:label="DEMOGRAPHY" rdfs:comment="DEMOGRAPHY" />
 	
-	<psu:DegreeProgram rdf:ID="E E C" rdfs:label="ED EXCP CHLD" rdfs:comment="EDUCATION OF EXCEPTIONAL CHILDREN (GRADUATE)" />
+	<psu:DegreeProgram rdf:ID="_E_E" psu:hasLegacyId="E E" rdfs:label="ELECTRICAL ENGR" rdfs:comment="ELECTRICAL ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="E E T" rdfs:label="CL ELEC ENGR TECH" rdfs:comment="ELECTRICAL ENGINEERING TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_E_E_C" psu:hasLegacyId="E E C" rdfs:label="ED EXCP CHLD" rdfs:comment="EDUCATION OF EXCEPTIONAL CHILDREN (GRADUATE)" />
 	
-	<psu:DegreeProgram rdf:ID="E ENG" rdfs:label="CL ELECTRICAL ENGR" rdfs:comment="ELECTRICAL ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_E_E_T" psu:hasLegacyId="E E T" rdfs:label="CL ELEC ENGR TECH" rdfs:comment="ELECTRICAL ENGINEERING TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="E M" rdfs:label="ENGINEERING MGMT" rdfs:comment="ENGINEERING MANAGEMENT" />
+	<psu:DegreeProgram rdf:ID="_E_ENG" psu:hasLegacyId="E ENG" rdfs:label="CL ELECTRICAL ENGR" rdfs:comment="ELECTRICAL ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="E MCH" rdfs:label="ENGINEER MECH" rdfs:comment="ENGINEERING MECHANICS" />
+	<psu:DegreeProgram rdf:ID="_E_M" psu:hasLegacyId="E M" rdfs:label="ENGINEERING MGMT" rdfs:comment="ENGINEERING MANAGEMENT" />
 	
-	<psu:DegreeProgram rdf:ID="E P C" rdfs:label="ENVR POL CON" rdfs:comment="ENVIRONMENTAL POLLUTION CONTROL" />
+	<psu:DegreeProgram rdf:ID="_E_MCH" psu:hasLegacyId="E MCH" rdfs:label="ENGINEER MECH" rdfs:comment="ENGINEERING MECHANICS" />
 	
-	<psu:DegreeProgram rdf:ID="E R M" rdfs:label="ENVRN RESRCE MGMT" rdfs:comment="ENVIRONMENTAL RESOURCE MANAGEMENT" />
+	<psu:DegreeProgram rdf:ID="_E_P_C" psu:hasLegacyId="E P C" rdfs:label="ENVR POL CON" rdfs:comment="ENVIRONMENTAL POLLUTION CONTROL" />
 	
-	<psu:DegreeProgram rdf:ID="E RRE" rdfs:label="ENVIR &amp; RENEW RES EC" rdfs:comment="ENVIRONMENTAL AND RENEWABLE RESOURCE ECONOMICS" />
+	<psu:DegreeProgram rdf:ID="_E_R_M" psu:hasLegacyId="E R M" rdfs:label="ENVRN RESRCE MGMT" rdfs:comment="ENVIRONMENTAL RESOURCE MANAGEMENT" />
 	
-	<psu:DegreeProgram rdf:ID="E SC" rdfs:label="ENGINEERING SCIENCE" rdfs:comment="ENGINEERING SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_E_RRE" psu:hasLegacyId="E RRE" rdfs:label="ENVIR &amp; RENEW RES EC" rdfs:comment="ENVIRONMENTAL AND RENEWABLE RESOURCE ECONOMICS" />
 	
-	<psu:DegreeProgram rdf:ID="E&ENT" rdfs:label="BD ENRGY &amp; ENV TC" rdfs:comment="ENERGY &amp; ENVIRONMENTAL TECHNOLOGY BEHREND" />
+	<psu:DegreeProgram rdf:ID="_E_SC" psu:hasLegacyId="E SC" rdfs:label="ENGINEERING SCIENCE" rdfs:comment="ENGINEERING SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="EA ST" rdfs:label="EAST ASIAN STDIES" rdfs:comment="EAST ASIAN STUDIES" />
+	<psu:DegreeProgram rdf:ID="_EnENT" psu:hasLegacyId="E&amp;ENT" rdfs:label="BD ENRGY &amp; ENV TC" rdfs:comment="ENERGY &amp; ENVIRONMENTAL TECHNOLOGY BEHREND" />
 	
-	<psu:DegreeProgram rdf:ID="EADMJ" rdfs:label="ADMIN OF JUSTC EX" rdfs:comment="ADMINISTRATION OF JUSTICE-EXTENDED DEGREE" />
+	<psu:DegreeProgram rdf:ID="_EA_ST" psu:hasLegacyId="EA ST" rdfs:label="EAST ASIAN STDIES" rdfs:comment="EAST ASIAN STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="EAJBA" rdfs:label="ADMIN OF JUSTC BA EX" rdfs:comment="ADMINISTRATION OF JUSTICE" />
+	<psu:DegreeProgram rdf:ID="_EADMJ" psu:hasLegacyId="EADMJ" rdfs:label="ADMIN OF JUSTC EX" rdfs:comment="ADMINISTRATION OF JUSTICE-EXTENDED DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="EAJBS" rdfs:label="ADMIN OF JUSTC BS EX" rdfs:comment="ADMINISTRATION OF JUSTICE" />
+	<psu:DegreeProgram rdf:ID="_EAJBA" psu:hasLegacyId="EAJBA" rdfs:label="ADMIN OF JUSTC BA EX" rdfs:comment="ADMINISTRATION OF JUSTICE" />
 	
-	<psu:DegreeProgram rdf:ID="EAMST" rdfs:label="AMERICAN STUDIES" rdfs:comment="AMERICAN STUDIES" />
+	<psu:DegreeProgram rdf:ID="_EAJBS" psu:hasLegacyId="EAJBS" rdfs:label="ADMIN OF JUSTC BS EX" rdfs:comment="ADMINISTRATION OF JUSTICE" />
 	
-	<psu:DegreeProgram rdf:ID="EARTH" rdfs:label="EARTH SCIENCES" rdfs:comment="EARTH SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_EAMST" psu:hasLegacyId="EAMST" rdfs:label="AMERICAN STUDIES" rdfs:comment="AMERICAN STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="EBF" rdfs:label="ENERGY, BUS &amp; FIN" rdfs:comment="ENERGY, BUSINESS &amp; FINANCE" />
+	<psu:DegreeProgram rdf:ID="_EARTH" psu:hasLegacyId="EARTH" rdfs:label="EARTH SCIENCES" rdfs:comment="EARTH SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="EBSEE" rdfs:label="ELECTRICAL ENGR-EX" rdfs:comment="ELECTRICAL ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_EBF" psu:hasLegacyId="EBF" rdfs:label="ENERGY, BUS &amp; FIN" rdfs:comment="ENERGY, BUSINESS &amp; FINANCE" />
 	
-	<psu:DegreeProgram rdf:ID="ECET" rdfs:label="BD ELEC &amp; COMP ENGR" rdfs:comment="BEHREND COLLEGE ELECTRICAL &amp; COMPUTER ENGR TECH" />
+	<psu:DegreeProgram rdf:ID="_EBSEE" psu:hasLegacyId="EBSEE" rdfs:label="ELECTRICAL ENGR-EX" rdfs:comment="ELECTRICAL ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="ECLBA" rdfs:label="ECONOMICS- BA DEG" rdfs:comment="ECONOMICS BACHELOR OF ARTS DEGREE" />
+	<psu:DegreeProgram rdf:ID="_ECET" psu:hasLegacyId="ECET" rdfs:label="BD ELEC &amp; COMP ENGR" rdfs:comment="BEHREND COLLEGE ELECTRICAL &amp; COMPUTER ENGR TECH" />
 	
-	<psu:DegreeProgram rdf:ID="ECLBS" rdfs:label="ECONOMICS- BS DEG" rdfs:comment="ECONOMICS BACHELOR OF SCIENCE DEGREE" />
+	<psu:DegreeProgram rdf:ID="_ECLBA" psu:hasLegacyId="ECLBA" rdfs:label="ECONOMICS- BA DEG" rdfs:comment="ECONOMICS BACHELOR OF ARTS DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="ECLGY" rdfs:label="ECOLOGY" rdfs:comment="ECOLOGY" />
+	<psu:DegreeProgram rdf:ID="_ECLBS" psu:hasLegacyId="ECLBS" rdfs:label="ECONOMICS- BS DEG" rdfs:comment="ECONOMICS BACHELOR OF SCIENCE DEGREE" />
 	
-	<psu:DegreeProgram rdf:ID="ECNMS" rdfs:label="CL ECONOMICS" rdfs:comment="ECONOMICS" />
+	<psu:DegreeProgram rdf:ID="_ECLGY" psu:hasLegacyId="ECLGY" rdfs:label="ECOLOGY" rdfs:comment="ECOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="ECNS" rdfs:label="BD ECONOMICS" rdfs:comment="BEHREND COLLEGE ECONOMICS" />
+	<psu:DegreeProgram rdf:ID="_ECNMS" psu:hasLegacyId="ECNMS" rdfs:label="CL ECONOMICS" rdfs:comment="ECONOMICS" />
 	
-	<psu:DegreeProgram rdf:ID="ECON" rdfs:label="ECONOMICS" rdfs:comment="ECONOMICS" />
+	<psu:DegreeProgram rdf:ID="_ECNS" psu:hasLegacyId="ECNS" rdfs:label="BD ECONOMICS" rdfs:comment="BEHREND COLLEGE ECONOMICS" />
 	
-	<psu:DegreeProgram rdf:ID="ED" rdfs:label="EDUCATION" rdfs:comment="THE COLLEGE OF EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_ECON" psu:hasLegacyId="ECON" rdfs:label="ECONOMICS" rdfs:comment="ECONOMICS" />
 	
-	<psu:DegreeProgram rdf:ID="EDADM" rdfs:label="ED ADMIN" rdfs:comment="EDUCATIONAL ADMINISTRATION" />
+	<psu:DegreeProgram rdf:ID="_ED" psu:hasLegacyId="ED" rdfs:label="EDUCATION" rdfs:comment="THE COLLEGE OF EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="EDENG" rdfs:label="CL SECONDARY ED ENGL" rdfs:comment="SECONDARY EDUCATION/ENGLISH" />
+	<psu:DegreeProgram rdf:ID="_EDADM" psu:hasLegacyId="EDADM" rdfs:label="ED ADMIN" rdfs:comment="EDUCATIONAL ADMINISTRATION" />
 	
-	<psu:DegreeProgram rdf:ID="EDLDR" rdfs:label="EDUCATIONAL LEADERSH" rdfs:comment="EDUCATIONAL LEADERSHIP" />
+	<psu:DegreeProgram rdf:ID="_EDENG" psu:hasLegacyId="EDENG" rdfs:label="CL SECONDARY ED ENGL" rdfs:comment="SECONDARY EDUCATION/ENGLISH" />
 	
-	<psu:DegreeProgram rdf:ID="EDPSY" rdfs:label="ED PSYCHOLGY" rdfs:comment="EDUCATIONAL PSYCHOLOGY" />
+	<psu:DegreeProgram rdf:ID="_EDLDR" psu:hasLegacyId="EDLDR" rdfs:label="EDUCATIONAL LEADERSH" rdfs:comment="EDUCATIONAL LEADERSHIP" />
 	
-	<psu:DegreeProgram rdf:ID="EDTHP" rdfs:label="ED THRY PLCY" rdfs:comment="EDUCATIONAL THEORY AND POLICY" />
+	<psu:DegreeProgram rdf:ID="_EDPSY" psu:hasLegacyId="EDPSY" rdfs:label="ED PSYCHOLGY" rdfs:comment="EDUCATIONAL PSYCHOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="EE BD" rdfs:label="BD ELECTRICAL ENGR" rdfs:comment="BEHREND COLLEGE ELECTRICAL ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_EDTHP" psu:hasLegacyId="EDTHP" rdfs:label="ED THRY PLCY" rdfs:comment="EDUCATIONAL THEORY AND POLICY" />
 	
-	<psu:DegreeProgram rdf:ID="EEDAL" rdfs:label="ALTOONA EL &amp; K ED" rdfs:comment="THE ALTOONA COLLEGE ELEM &amp; KINDERGARTEN EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_EE_BD" psu:hasLegacyId="EE BD" rdfs:label="BD ELECTRICAL ENGR" rdfs:comment="BEHREND COLLEGE ELECTRICAL ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="EEDBL" rdfs:label="BK ELEM &amp; KIN ED" rdfs:comment="BERKS COLLEGE ELEM &amp; KINDERGARTEN ED" />
+	<psu:DegreeProgram rdf:ID="_EEDAL" psu:hasLegacyId="EEDAL" rdfs:label="ALTOONA EL &amp; K ED" rdfs:comment="THE ALTOONA COLLEGE ELEM &amp; KINDERGARTEN EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="EEDCC" rdfs:label="UNIV COLL EL &amp; K ED" rdfs:comment="UNIV. COLLEGE ELEM &amp; KINDERGARTEN ED" />
+	<psu:DegreeProgram rdf:ID="_EEDBL" psu:hasLegacyId="EEDBL" rdfs:label="BK ELEM &amp; KIN ED" rdfs:comment="BERKS COLLEGE ELEM &amp; KINDERGARTEN ED" />
 	
-	<psu:DegreeProgram rdf:ID="EEE T" rdfs:label="ELECTR ENGR TECH-EX" rdfs:comment="ELECTRICAL ENGINEERING TECHNOLOGY EXTENDED" />
+	<psu:DegreeProgram rdf:ID="_EEDCC" psu:hasLegacyId="EEDCC" rdfs:label="UNIV COLL EL &amp; K ED" rdfs:comment="UNIV. COLLEGE ELEM &amp; KINDERGARTEN ED" />
 	
-	<psu:DegreeProgram rdf:ID="EETBD" rdfs:label="BD ELEC ENGR TECH" rdfs:comment="BEHREND COLLEGE ELECTRICAL ENGINEERING TECHNOLOGY" />
+	<psu:DegreeProgram rdf:ID="_EEE_T" psu:hasLegacyId="EEE T" rdfs:label="ELECTR ENGR TECH-EX" rdfs:comment="ELECTRICAL ENGINEERING TECHNOLOGY EXTENDED" />
 	
-	<psu:DegreeProgram rdf:ID="EGEE" rdfs:label="ENERGY &amp; GEO ENV ENG" rdfs:comment="ENERGY AND GEO-ENVIRONMENTAL ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_EETBD" psu:hasLegacyId="EETBD" rdfs:label="BD ELEC ENGR TECH" rdfs:comment="BEHREND COLLEGE ELECTRICAL ENGINEERING TECHNOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="EGNAS" rdfs:label="GEN ARTS &amp; SCI-EX" rdfs:comment="GENERAL ARTS &amp; SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_EGEE" psu:hasLegacyId="EGEE" rdfs:label="ENERGY &amp; GEO ENV ENG" rdfs:comment="ENERGY AND GEO-ENVIRONMENTAL ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="A & A" rdfs:label="COLL OF A &amp; A" rdfs:comment="COLLEGE OF ARTS &amp; ARCHITECTURE" />
+	<psu:DegreeProgram rdf:ID="_EGNAS" psu:hasLegacyId="EGNAS" rdfs:label="GEN ARTS &amp; SCI-EX" rdfs:comment="GENERAL ARTS &amp; SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="A B A" rdfs:label="APPL BEHAVIOR ANALYS" rdfs:comment="APPLIED BEHAVIOR ANALYSIS" />
+	<psu:DegreeProgram rdf:ID="_A_n_A" psu:hasLegacyId="A &amp; A" rdfs:label="COLL OF A &amp; A" rdfs:comment="COLLEGE OF ARTS &amp; ARCHITECTURE" />
 	
-	<psu:DegreeProgram rdf:ID="A B E" rdfs:label="AG AND BIOL ENGIN" rdfs:comment="AGRICULTURAL AND BIOLOGICAL ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_A_B_A" psu:hasLegacyId="A B A" rdfs:label="APPL BEHAVIOR ANALYS" rdfs:comment="APPLIED BEHAVIOR ANALYSIS" />
 	
-	<psu:DegreeProgram rdf:ID="A C I" rdfs:label="ACADEMIC CURR &amp; INST" rdfs:comment="ACADEMIC CURRICULUM AND INSTRUCTION" />
+	<psu:DegreeProgram rdf:ID="_A_B_E" psu:hasLegacyId="A B E" rdfs:label="AG AND BIOL ENGIN" rdfs:comment="AGRICULTURAL AND BIOLOGICAL ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="A E" rdfs:label="ARCHITECTRL ENGR" rdfs:comment="ARCHITECTURAL ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_A_C_I" psu:hasLegacyId="A C I" rdfs:label="ACADEMIC CURR &amp; INST" rdfs:comment="ACADEMIC CURRICULUM AND INSTRUCTION" />
 	
-	<psu:DegreeProgram rdf:ID="A ED" rdfs:label="ART EDUCATION" rdfs:comment="ART EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_A_E" psu:hasLegacyId="A E" rdfs:label="ARCHITECTRL ENGR" rdfs:comment="ARCHITECTURAL ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="A I" rdfs:label="ANIMAL INDUSTRY" rdfs:comment="ANIMAL INDUSTRY" />
+	<psu:DegreeProgram rdf:ID="_A_ED" psu:hasLegacyId="A ED" rdfs:label="ART EDUCATION" rdfs:comment="ART EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="A NTR" rdfs:label="ANIMAL NUTRITION" rdfs:comment="ANIMAL NUTRITION" />
+	<psu:DegreeProgram rdf:ID="_A_I" psu:hasLegacyId="A I" rdfs:label="ANIMAL INDUSTRY" rdfs:comment="ANIMAL INDUSTRY" />
 	
-	<psu:DegreeProgram rdf:ID="A PSY" rdfs:label="APPLIED PSYCHOLOGY" rdfs:comment="APPLIED PSYCHOLOGY" />
+	<psu:DegreeProgram rdf:ID="_A_NTR" psu:hasLegacyId="A NTR" rdfs:label="ANIMAL NUTRITION" rdfs:comment="ANIMAL NUTRITION" />
 	
-	<psu:DegreeProgram rdf:ID="A S M" rdfs:label="AG SYSTEMS MGMT" rdfs:comment="AGRICULTURAL SYSTEMS MANAGEMENT" />
+	<psu:DegreeProgram rdf:ID="_A_PSY" psu:hasLegacyId="A PSY" rdfs:label="APPLIED PSYCHOLOGY" rdfs:comment="APPLIED PSYCHOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="AAA S" rdfs:label="AFR / AFR AMER STS" rdfs:comment="AFRICAN / AFRICAN AMERICAN STUDIES" />
+	<psu:DegreeProgram rdf:ID="_A_S_M" psu:hasLegacyId="A S M" rdfs:label="AG SYSTEMS MGMT" rdfs:comment="AGRICULTURAL SYSTEMS MANAGEMENT" />
 	
-	<psu:DegreeProgram rdf:ID="AAART" rdfs:label="SCHOOL VISUAL ARTS" rdfs:comment="ARTS &amp; ARCHITECTURE SCHOOL OF VISUAL ARTS" />
+	<psu:DegreeProgram rdf:ID="_AAA_S" psu:hasLegacyId="AAA S" rdfs:label="AFR / AFR AMER STS" rdfs:comment="AFRICAN / AFRICAN AMERICAN STUDIES" />
 	
-	<psu:DegreeProgram rdf:ID="AADES" rdfs:label="A &amp; A PRE-DESIGN" rdfs:comment="ARTS &amp; ARCHITECTURE PRE-DESIGN PROGRAM" />
+	<psu:DegreeProgram rdf:ID="_AAART" psu:hasLegacyId="AAART" rdfs:label="SCHOOL VISUAL ARTS" rdfs:comment="ARTS &amp; ARCHITECTURE SCHOOL OF VISUAL ARTS" />
 	
-	<psu:DegreeProgram rdf:ID="AAIDS" rdfs:label="INTRDIS DIGTL STUDIO" rdfs:comment="INTERDISCIPLINARY DIGITAL STUDIO" />
+	<psu:DegreeProgram rdf:ID="_AADES" psu:hasLegacyId="AADES" rdfs:label="A &amp; A PRE-DESIGN" rdfs:comment="ARTS &amp; ARCHITECTURE PRE-DESIGN PROGRAM" />
 	
-	<psu:DegreeProgram rdf:ID="AAMUS" rdfs:label="SCHOOL OF MUSIC" rdfs:comment="ARTS &amp; ARCHITECTURE SCHOOL OF MUSIC" />
+	<psu:DegreeProgram rdf:ID="_AAIDS" psu:hasLegacyId="AAIDS" rdfs:label="INTRDIS DIGTL STUDIO" rdfs:comment="INTERDISCIPLINARY DIGITAL STUDIO" />
 	
-	<psu:DegreeProgram rdf:ID="AASBA" rdfs:label="AFR/AFR AMER STS-B A" rdfs:comment="AFRICAN / AFRICAN AMERICAN STUDIES B.A." />
+	<psu:DegreeProgram rdf:ID="_AAMUS" psu:hasLegacyId="AAMUS" rdfs:label="SCHOOL OF MUSIC" rdfs:comment="ARTS &amp; ARCHITECTURE SCHOOL OF MUSIC" />
 	
-	<psu:DegreeProgram rdf:ID="AASBS" rdfs:label="AFR/AFR AMER STS-B S" rdfs:comment="AFRICAN / AFRICAN AMERICAN STUDIES B.S." />
+	<psu:DegreeProgram rdf:ID="_AASBA" psu:hasLegacyId="AASBA" rdfs:label="AFR/AFR AMER STS-B A" rdfs:comment="AFRICAN / AFRICAN AMERICAN STUDIES B.A." />
 	
-	<psu:DegreeProgram rdf:ID="ABBUS" rdfs:label="ABINGTON BUSINESS" rdfs:comment="ABINGTON COLLEGE BUSINESS" />
+	<psu:DegreeProgram rdf:ID="_AASBS" psu:hasLegacyId="AASBS" rdfs:label="AFR/AFR AMER STS-B S" rdfs:comment="AFRICAN / AFRICAN AMERICAN STUDIES B.S." />
 	
-	<psu:DegreeProgram rdf:ID="ABCOM" rdfs:label="ABINGTON COLLEGE" rdfs:comment="THE ABINGTON COLLEGE" />
+	<psu:DegreeProgram rdf:ID="_ABBUS" psu:hasLegacyId="ABBUS" rdfs:label="ABINGTON BUSINESS" rdfs:comment="ABINGTON COLLEGE BUSINESS" />
 	
-	<psu:DegreeProgram rdf:ID="ABEDU" rdfs:label="ABINGTON EDUCATION" rdfs:comment="ABINGTON COLLEGE EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_ABCOM" psu:hasLegacyId="ABCOM" rdfs:label="ABINGTON COLLEGE" rdfs:comment="THE ABINGTON COLLEGE" />
 	
-	<psu:DegreeProgram rdf:ID="ABENG" rdfs:label="ARGRI BIOL ENGR" rdfs:comment="AGRICULTURAL AND BIOLOGICAL ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_ABEDU" psu:hasLegacyId="ABEDU" rdfs:label="ABINGTON EDUCATION" rdfs:comment="ABINGTON COLLEGE EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="ABESC" rdfs:label="CL APPL BEHAV SCIEN" rdfs:comment="APPLIED BEHAVIORAL SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_ABENG" psu:hasLegacyId="ABENG" rdfs:label="ARGRI BIOL ENGR" rdfs:comment="AGRICULTURAL AND BIOLOGICAL ENGINEERING" />
 	
-	<psu:DegreeProgram rdf:ID="ABHSS" rdfs:label="ABINGTON HUM &amp; SOCSC" rdfs:comment="ABINGTON COLLEGE HUMANITIES &amp; SOCIAL SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_ABESC" psu:hasLegacyId="ABESC" rdfs:label="CL APPL BEHAV SCIEN" rdfs:comment="APPLIED BEHAVIORAL SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="ABSCN" rdfs:label="ABINGTON SCIENCE" rdfs:comment="ABINGTON COLLEGE SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_ABHSS" psu:hasLegacyId="ABHSS" rdfs:label="ABINGTON HUM &amp; SOCSC" rdfs:comment="ABINGTON COLLEGE HUMANITIES &amp; SOCIAL SCIENCES" />
 	
-	<psu:DegreeProgram rdf:ID="ACCIB" rdfs:label="ACCOUNT &amp; INTL BUS" rdfs:comment="ACCOUNTING &amp; INTERNATIONAL BUSINESS" />
+	<psu:DegreeProgram rdf:ID="_ABSCN" psu:hasLegacyId="ABSCN" rdfs:label="ABINGTON SCIENCE" rdfs:comment="ABINGTON COLLEGE SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="ACCT" rdfs:label="CL ACCOUNTING" rdfs:comment="ACCOUNTING" />
+	<psu:DegreeProgram rdf:ID="_ACCIB" psu:hasLegacyId="ACCIB" rdfs:label="ACCOUNT &amp; INTL BUS" rdfs:comment="ACCOUNTING &amp; INTERNATIONAL BUSINESS" />
 	
-	<psu:DegreeProgram rdf:ID="ACCTG" rdfs:label="ACCOUNTING" rdfs:comment="ACCOUNTING" />
+	<psu:DegreeProgram rdf:ID="_ACCT" psu:hasLegacyId="ACCT" rdfs:label="CL ACCOUNTING" rdfs:comment="ACCOUNTING" />
 	
-	<psu:DegreeProgram rdf:ID="ACNTG" rdfs:label="BD ACCOUNTING" rdfs:comment="BEHREND COLLEGE ACCOUNTING" />
+	<psu:DegreeProgram rdf:ID="_ACCTG" psu:hasLegacyId="ACCTG" rdfs:label="ACCOUNTING" rdfs:comment="ACCOUNTING" />
 	
-	<psu:DegreeProgram rdf:ID="ACPSY" rdfs:label="APPL CLIN PSYCHOL" rdfs:comment="APPLIED CLINICAL PSYCHOLOGY" />
+	<psu:DegreeProgram rdf:ID="_ACNTG" psu:hasLegacyId="ACNTG" rdfs:label="BD ACCOUNTING" rdfs:comment="BEHREND COLLEGE ACCOUNTING" />
 	
-	<psu:DegreeProgram rdf:ID="ACS" rdfs:label="ACOUSTICS" rdfs:comment="ACOUSTICS" />
+	<psu:DegreeProgram rdf:ID="_ACPSY" psu:hasLegacyId="ACPSY" rdfs:label="APPL CLIN PSYCHOL" rdfs:comment="APPLIED CLINICAL PSYCHOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="ACTSC" rdfs:label="ACTUARIAL SCIENCE" rdfs:comment="ACTUARIAL SCIENCE" />
+	<psu:DegreeProgram rdf:ID="_ACS" psu:hasLegacyId="ACS" rdfs:label="ACOUSTICS" rdfs:comment="ACOUSTICS" />
 	
-	<psu:DegreeProgram rdf:ID="AD PR" rdfs:label="ADVT/PUBLIC RELATION" rdfs:comment="ADVERTISING &amp; PUBLIC RELATIONS" />
+	<psu:DegreeProgram rdf:ID="_ACTSC" psu:hasLegacyId="ACTSC" rdfs:label="ACTUARIAL SCIENCE" rdfs:comment="ACTUARIAL SCIENCE" />
 	
-	<psu:DegreeProgram rdf:ID="ADM J" rdfs:label="ADMIN OF JUSTICE" rdfs:comment="ADMINISTRATION OF JUSTICE" />
+	<psu:DegreeProgram rdf:ID="_AD_PR" psu:hasLegacyId="AD PR" rdfs:label="ADVT/PUBLIC RELATION" rdfs:comment="ADVERTISING &amp; PUBLIC RELATIONS" />
 	
-	<psu:DegreeProgram rdf:ID="ADMIN" rdfs:label="ADMINISTRATION" rdfs:comment="ADMINISTRATION" />
+	<psu:DegreeProgram rdf:ID="_ADM_J" psu:hasLegacyId="ADM J" rdfs:label="ADMIN OF JUSTICE" rdfs:comment="ADMINISTRATION OF JUSTICE" />
 	
-	<psu:DegreeProgram rdf:ID="ADTED" rdfs:label="ADULT EDUCATION" rdfs:comment="ADULT EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_ADMIN" psu:hasLegacyId="ADMIN" rdfs:label="ADMINISTRATION" rdfs:comment="ADMINISTRATION" />
 	
-	<psu:DegreeProgram rdf:ID="ADVT" rdfs:label="ADVERTISING" rdfs:comment="ADVERTISING" />
+	<psu:DegreeProgram rdf:ID="_ADTED" psu:hasLegacyId="ADTED" rdfs:label="ADULT EDUCATION" rdfs:comment="ADULT EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="AE RS" rdfs:label="AG EC &amp; RURAL SOC" rdfs:comment="AGRICULTURAL ECONOMICS &amp; RURAL SOCIOLOGY" />
+	<psu:DegreeProgram rdf:ID="_ADVT" psu:hasLegacyId="ADVT" rdfs:label="ADVERTISING" rdfs:comment="ADVERTISING" />
 	
-	<psu:DegreeProgram rdf:ID="AEE" rdfs:label="AGRIC &amp; EXTENSN EDUC" rdfs:comment="AGRICULTURAL &amp; EXTENSION EDUCATION" />
+	<psu:DegreeProgram rdf:ID="_AE_RS" psu:hasLegacyId="AE RS" rdfs:label="AG EC &amp; RURAL SOC" rdfs:comment="AGRICULTURAL ECONOMICS &amp; RURAL SOCIOLOGY" />
 	
-	<psu:DegreeProgram rdf:ID="AEREC" rdfs:label="AGR, ENV &amp; REG ECON" rdfs:comment="AGRICULTURAL, ENVIRONMENTAL AND REGIONAL ECONOMICS" />
+	<psu:DegreeProgram rdf:ID="_AEE" psu:hasLegacyId="AEE" rdfs:label="AGRIC &amp; EXTENSN EDUC" rdfs:comment="AGRICULTURAL &amp; EXTENSION EDUCATION" />
 	
-	<psu:DegreeProgram rdf:ID="AERSP" rdfs:label="AEROSPACE ENGR" rdfs:comment="AEROSPACE ENGINEERING" />
+	<psu:DegreeProgram rdf:ID="_AEREC" psu:hasLegacyId="AEREC" rdfs:label="AGR, ENV &amp; REG ECON" rdfs:comment="AGRICULTURAL, ENVIRONMENTAL AND REGIONAL ECONOMICS" />
 	
-	<psu:DegreeProgram rdf:ID="AG" rdfs:label="AGRICULTURAL SCIENCE" rdfs:comment="THE COLLEGE OF AGRICULTURAL SCIENCES" />
+	<psu:DegreeProgram rdf:ID="_AERSP" psu:hasLegacyId="AERSP" rdfs:label="AEROSPACE ENGR" rdfs:comment="AEROSPACE ENGINEERING" />
+	
+	<psu:DegreeProgram rdf:ID="_AG" psu:hasLegacyId="AG" rdfs:label="AGRICULTURAL SCIENCE" rdfs:comment="THE COLLEGE OF AGRICULTURAL SCIENCES" />
 	
 </rdf:RDF>
 
