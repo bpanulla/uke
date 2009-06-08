@@ -6,6 +6,10 @@
   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
   xml:base="http://www.personal.psu.edu/bjp108/owl/psu.rdf">
 
+	<rdfs:Class rdf:ID="AcademicTerm"/>
+
+	<rdfs:Class rdf:ID="AcademicLocation"/>
+
 	<!-- ====================== Courses ====================== -->
 	<rdfs:Class rdf:ID="Course"/>
 	
@@ -131,4 +135,21 @@
 		<rdfs:domain rdf:resource="#AcademicProgram" />
 	</rdf:Property>
 
+	<rdf:Property rdf:ID="hasPrerequisiteNotes">
+		<rdfs:domain rdf:resource="#Course" />
+	</rdf:Property>
+	
+	<rdf:Property rdf:ID="hasConcurrencyNotes">
+		<rdfs:domain rdf:resource="#Course" />
+	</rdf:Property>
+
+	<rdf:Property rdf:ID="wasInitiated">
+		<rdfs:domain rdf:resource="#Course" />
+		<rdfs:range rdf:resource="#AcademicTerm" />
+	</rdf:Property>
+
+	<rdf:Property rdf:ID="wasDiscontinued">
+		<rdfs:domain rdf:resource="#Course" />
+		<rdfs:range rdf:resource="#AcademicTerm" />
+	</rdf:Property>
 </rdf:RDF>
